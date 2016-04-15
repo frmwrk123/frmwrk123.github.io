@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This website is all about my personal policial statements (for now).
+Some of them are in English, others are in German.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Some personal information:
+I'm Jim Martens, 22 years old and I am studying Computer Science at
+the University of Hamburg.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I am also engaged in the political sphere of the university. For example
+I am in the student parliament for my second term now. In addition I was
+elected into the presidium of the parliament for this term.
