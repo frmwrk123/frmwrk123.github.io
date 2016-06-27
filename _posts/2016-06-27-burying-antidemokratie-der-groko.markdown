@@ -52,8 +52,8 @@ in Schrecken und wundern sich, wie so etwas passieren konnte. Allerdings bleibt
 fraglich, ob sich all diese Leute dann 2017 endlich für einen Politikwechsel
 entscheiden.
 
-In den drei verlinkten Sitzungstagen wurde auch ein Antrag der Grünen verwiesen
-an den zuständigen Ausschuss, der sich mit der Situation von queeren Jugendlichen
+In den drei verlinkten Sitzungstagen wurde auch ein [Antrag der Grünen](http://dip21.bundestag.de/dip21/btd/18/088/1808874.pdf) 
+verwiesen an den zuständigen Ausschuss, der sich mit der Situation von queeren Jugendlichen
 beschäftigt. Es bleibt zu hoffen, dass dieser Antrag eine Mehrheit findet. Aber
 wie zu erwarten ist, wird die GroKo auch hier - wenn auch nur aus Prinzip -
 den Antrag der Opposition ablehnen.
