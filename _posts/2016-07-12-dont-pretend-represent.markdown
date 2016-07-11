@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Don't pretend, Represent! - Why I am doing what I am doing"
-date:   2016-07-11 21:00:00 +0200
+date:   2016-07-12 6:00:00 +0200
 categories: politics
 ---
 
@@ -10,16 +10,16 @@ I think someone expects it from me or because I want to do them. Well, here
 is the long and profound answer to that question. But first, what am I doing?
 
 Engagement in University of Hamburg:
-- student council of Computer Science
-- student parliament
-- presidium of said parlament in this election period
-- academic committee (MIN faculty level)
-- CampusGrün university group
-- orientation unit for freshmen in Computer Science
-- general networking of students in Computer Science, the faculty and university wide
+* student council of Computer Science
+* student parliament
+* presidium of said parlament in this election period
+* academic committee (MIN faculty level)
+* CampusGrün university group
+* orientation unit for freshmen in Computer Science
+* general networking of students in Computer Science, the faculty and university wide
 
 Engagement in general:
-- Diem 25
+* Diem 25
 
 General activities:
 - reading about politics
