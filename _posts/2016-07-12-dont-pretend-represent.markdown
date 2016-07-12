@@ -32,8 +32,7 @@ That's all my public engagement and politics related activity. It sure is a lot
 and consumes a lot of my time. The obvious question becomes if it is worth it.
 Some might ask considering the amount of stress in study, job, family and beyond
 why I am doing all of that and to what end. This is the ultimative answer to all
-these questions. Maybe some could ask if I had nothing better to do - yes
-some people might conceive of such a question.
+these questions.
 
 First of all I'd like to state that I am not crazy. With that out of the
 way, let's get to the heart of the matter. To understand my motivations behind
