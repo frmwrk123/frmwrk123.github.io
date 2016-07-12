@@ -69,6 +69,8 @@ Furthermore the election of Syriza in Greece electrified me and showed me
 that change is possible if people come together. I followed the negotiations
 with the Troika closely and got more and more educated on the economic
 failings of the EU and how to argue it. Thanks a lot Yanis Varoufakis for that.
+On top of that the election to the Hamburg parliament happened which made me
+further engage with the political sphere.
 In the winter semester 2015/16 I got more active in the student parliament
 and worked my way from being passively in the sessions to an active
 participant by more actively participating in the preparation meetings.
