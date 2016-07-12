@@ -10,6 +10,7 @@ I think someone expects it from me or because I want to do them. Well, here
 is the long and profound answer to that question. But first, what am I doing?
 
 Engagement in University of Hamburg:
+
 * student council of Computer Science
 * student parliament
 * presidium of said parlament in this election period
@@ -19,9 +20,11 @@ Engagement in University of Hamburg:
 * general networking of students in Computer Science, the faculty and university wide
 
 Engagement in general:
+
 * Diem 25
 
 General activities:
+
 - reading about politics
 - writing about politics (mostly Twitter)
 
