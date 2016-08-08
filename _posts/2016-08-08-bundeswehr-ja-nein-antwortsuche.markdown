@@ -87,7 +87,7 @@ möchte. Dann bleibt natürlich die Frage, wie soll sie eingesetzt werden?
 
 Im Inland gibt es genau 2 Fälle außerhalb des Verteidigungsfalls, die einen
 Einsatz ermöglichen. Bei Naturkatastrophen und im Falle eines Notzustands.
-Darüber hinaus brauchen wir keinen Inlandseinsatz der Bundeswehr nicht.
+Darüber hinaus brauchen wir einen Inlandseinsatz der Bundeswehr nicht.
 Für alle Inlandsfragen haben wir Polizei, LKAs das BKA und Sondereinheiten
 wie GSG9. Die Bundeswehr hat bei polizeilichen Aufgaben nichts zu suchen
 und entsprechende Bestrebungen von CDU Innen- und Verteidungsministern
