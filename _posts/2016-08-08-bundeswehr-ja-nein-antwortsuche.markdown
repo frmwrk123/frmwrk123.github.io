@@ -165,7 +165,7 @@ Wohlgemerkt die Konformität mit dem Völkerrecht ist lediglich eine notwendige
 Bedingung für die Akzeptanz eines militärischen Auslandseinsatzes, nicht eine
 Hinreichende.
 
-Wenn die notwendige Bedingung erfüllt es, gibt es dann überhaupt hinreichende
+Wenn die notwendige Bedingung erfüllt ist, gibt es dann überhaupt hinreichende
 Bedingungen, die einen Einsatz aus linker Perspektive erlauben würden?
 Vielleicht. Doch erst einmal gibt es noch weitere notwendige Bedingungen,
 die bei Nichteinhaltung zum Ausschluss führen.
@@ -197,7 +197,7 @@ und fast 10 Jahre gab es nicht mal einen teilsouveränen deutschen Staat. Erst
 Krieg sicherlich früher hätte passieren können.
 
 Diese Bedingungen sind bisher in Gänze bei keinem der Interventionseinsätze gegeben
-gewesen und das Resultat sehen wir heute. Zudem kann der Bevölkerung nie verkauft
+gewesen und das Resultat sehen wir heute. Zudem kann der eigenen Bevölkerung nie verkauft
 werden, dass man absehbar für Jahrzehnte Besatzer wird und Milliarden in den Wiederaufbau
 dort steckt, wenn zuhause massive soziale Probleme warten und das betroffene Land 
 uns nicht wirklich bedroht. Daher werden immer halbe Sachen gemacht und ein kurzfristiger
