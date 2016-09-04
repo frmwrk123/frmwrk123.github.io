@@ -30,9 +30,9 @@ Tritt sie nicht mehr an, könnten alle negativen Dinge einfach ihr und
 natürlich der SPD zugeschrieben werden.
 
 Die gute Nachricht unter den schlechten ist, dass in Mecklenburg-Vorpommern
-noch klassische Regierungskonstellationen denkbar sind. In anderen Bundesländern
-waren meines Wissens nach (TODO) Allparteienkoalitionen gegen die AfD nötig, um
-eine Mehrheit gegen die AfD zu beschaffen.
+noch klassische Regierungskonstellationen denkbar sind. In Sachsen-Anhalt ging
+nur eine sog. Kenia-Koalition (schwarz-rot-grün), um eine Mehrheit gegen die AfD 
+zu beschaffen.
 
 Auf Deutschland wird dies einen sehr schlechten Einfluss haben. Denn dieser Erfolg
 wird die inhaltlichen Punkte der AfD legitimieren. Es ist nicht erheblich,
