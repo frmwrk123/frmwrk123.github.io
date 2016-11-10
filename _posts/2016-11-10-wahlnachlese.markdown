@@ -65,16 +65,15 @@ Welt zerstören. Die Macht, die Trump ab Januar haben wird, ist größer als die
 Hitler nach der Wahl 1933. Wir wissen was mit Hitler und Deutschland passiert ist.
 
 Es gibt bereits erste Berichte über den Tag 1 nach der Wahl. Es wurden Schmierereien
-mit "Make America White Again" kombiniert mit einem Hakenkreuz gefunden (0). Zwei
-Trump-Unterstützer haben einen muslimischen Studenten brutal attackiert und 
-geschlagen (1). Unabhängig von Trumps Regierungshandeln ist bereits jetzt eine
+mit "Make America White Again" kombiniert mit einem Hakenkreuz 
+[gefunden](https://twitter.com/sokane1/status/796547871000711172). Zwei
+Trump-Unterstützer haben einen muslimischen Studenten brutal [attackiert und 
+geschlagen](https://twitter.com/ShaunKing/status/796545691598409728). 
+Unabhängig von Trumps Regierungshandeln ist bereits jetzt eine
 Veränderung sichtbar, weil sich all die Rassisten bestätigt fühlen und in Trump
 einen Befürworter ihrer Gewalt sehen. Daher muss gegen Trump vom ersten Tag an
 protestiert werden, denn die Folgen seiner Wahl beginnen bereits jetzt bevor er
 im Amt ist.
-
-(0): https://twitter.com/sokane1/status/796547871000711172
-(1): https://twitter.com/ShaunKing/status/796545691598409728
 
 Zusätzlich zu all dem gibt es globales Problem und das ist der Klimawandel. Trump
 leugnet ihn und will die USA aus dem Pariser Abkommen herausbekommen. Wenn die
