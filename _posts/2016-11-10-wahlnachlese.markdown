@@ -78,7 +78,7 @@ im Amt ist.
 
 Zusätzlich zu all dem gibt es globales Problem und das ist der Klimawandel. Trump
 leugnet ihn und will die USA aus dem Pariser Abkommen herausbekommen. Wenn die
-USA nicht ihren Teil beitragen wird es sogut wie unmöglich das 2°-Ziel zu erreichen.
+USA nicht ihren Teil beitragen, wird es sogut wie unmöglich das 2°-Ziel zu erreichen.
 
 Zusammenfassend muss gesagt werden, dass Trump eine einzige Katastrophe ist und
 wir uns auf rauhe Zeiten einstellen müssen.
