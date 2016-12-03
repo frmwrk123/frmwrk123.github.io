@@ -357,6 +357,11 @@ Kultur muss ohne Profitzwang stattfinden können und allen Bürger*innen offenst
 Ebenfalls muss jede*r in der Lage sein sich selber als Kulturschaffende*r einzubringen,
 ohne Existenzängste haben zu müssen.
 
+Ein wichtiger Bestandteil von Teilhabe an der Gesellschaft ist auch die Möglichkeit
+Veranstaltungen zu planen und sich produktiv zu organisieren. Daher sollte es
+zumindest in jeder größeren Stadt Organisationsworkshops geben, in denen sich
+Bürger*innen die Grundkompetenzen der Organisierung einer Gruppe aneignen können.
+
 ### Grundeinkommen
 
 Damit dies realisiert werden kann und ebenfalls eine staatliche Subventionierung
@@ -402,6 +407,7 @@ besteht weniger Förderbedarf. Wenn Kulturleistungen gut nachgefragt werden und
 Profite abwerfen, dann spricht nichts dagegen, dass diese dann in höhere Gehälter 
 bzw. Gagen fließen.
 
+
 Die Personalkosten der Wirtschaft würden massiv sinken, da die Löhne und Gehälter 
 um die Höhe des Grundeinkommens gesenkt werden könnten ohne dass sich für die
 Betroffenen ein Nachteil ergeben würde. Dies setzt Mittel für Innovation frei
@@ -416,10 +422,21 @@ dieser Arbeitsplätze massiv sinkt und im oberen Spektrum könnten sie linear
 um die Höhe des Grundeinkommens gesenkt werden ohne Nachteile für die Arbeitnehmer*innen
 und mit Vorteilen für das Unternehmen.
 
-Ein wichtiger Bestandteil von Teilhabe an der Gesellschaft ist auch die Möglichkeit
-Veranstaltungen zu planen und sich produktiv zu organisieren. Daher sollte es
-zumindest in jeder größeren Stadt Organisationsworkshops geben, in denen sich
-Bürger*innen die Grundkompetenzen der Organisierung einer Gruppe aneignen können.
+Zudem könnte das gesamte Rentensystem abgeschafft werden, da durch das Grundeinkommen
+bereits Altersarmut verhindert wird. Dies baut massiv Bürokratie und Kosten ab
+und verringert weiterhin die Kosten für Arbeitnehmer*innen, da nicht länger
+Beiträge gezahlt werden müssen. Ebenfalls könnte das Pensionssystem abgeschafft
+werden, da auch hier durch das Grundeinkommen die Sozialansprüche abgegolten sind.
+Da die aktuellen Pensionen höher bemessen sind, als es das Grundeinkommen vermutlich
+sein wird, können diese Gelder mehr Menschen zugute kommen, indem sie in die
+Bezahlung des Grundeinkommen überführt werden.
+ 
+Die Kosten für Beamt*innen würden sinken um die Höhe des Grundeinkommens. Dies
+ist nicht direkt eine Ersparnis, aber auch keine Mehrausgabe, da die Gelder
+lediglich aus einem anderen Topf kommen. Basierend auf der Zuständigkeit für
+die Bezahlung (wenn Beamt*innen aus Länderhaushalten und das Grundeinkommen
+aus dem Bundeshaushalt bezahlt würden) müssten aber potentiell Gelder transferiert
+werden.
 
 ### Medien
 
@@ -458,10 +475,249 @@ Zusammengefasst ergeben sich diese Forderungen:
 
 ## Bildung und Wissenschaft
 
-- Vorbereitung der Menschen auf Gesellschaft basierend auf den im Vorfeld
-  formulierten Grobzielen
+Ein zentraler Aspekt für den Erfolg aller bisher beschriebenen Punkte ist die 
+Bildung. Wenn zunehmend harte körperliche Arbeit durch effizientere Roboter 
+und auch sonst sich wiederholende und ohne Entscheidungskompetenz stattfindene 
+Tätigkeiten durch Software bzw. Computer ersetzt werden, dann bedarf es einer
+neu ausgerichteten Bildungs- und Wissenschaftslandschaft. Das deutsche Bildungssystem
+befindet sich in den letzten Jahren in einer Dauerkrise. Auf Schulebene waren
+Reformen so häufig wie Trainerwechsel beim HSV. Kaum war eine Reform fertig,
+wurde in der nächsten Legislaturperiode bereits vieles wieder umgeworfen. Dieser
+Trend scheint sich jedoch in den letzten Jahren etwas verlangsamt zu haben.
+
+Der Hochschulbereich ist seit Einführung von Bachelor/Master in Dauerproblemen.
+Nicht alle Bereiche sind gleichermaßen davon betroffen gewesen und in den letzten
+Jahren wurden sich viele Reformen erkämpft. Trotzdem befinden sich Universitäten
+weiterhin im Richtungsstreit darüber, ob es um eine passfertige Ausbildung für
+die Wirtschaft oder um Bildung nach dem Humboldtschen Bildungsideal geht.
+
+Über all diesen Dingen thront eine chronische Unterfinanzierung, die Kooperation
+im Wissenschaftsbetrieb einschränkt und eine desaströse Standortpolitik mit sich
+bringt. Dabei gehören Schulen eindeutig zur Daseinsfürsorge - jede*r muss zur
+Schule gehen laut Gesetz und kann sogar durch die Polizei zur Schule gebracht
+werden - und in einer Dienstleistungsgesellschaft mit zunehmender Komplexität
+muss die Frage gestellt werden, ob nicht auch Universitäten zum Bereich der
+Daseinsfürsorge gehören.
+
+In Deutschland haben wir ein starkes System der betrieblichen Ausbildung und
+handwerklichen Lehre, welches in der Form bspw. in den USA nicht existiert.
+Daher sollte nicht versucht werden die Universitäten zu reinen Ausbildungsstätten 
+zu machen.
+
+Trotz all dieser Entwicklung können wir nicht einfach die Zeit zurückstellen
+und uns in die "gute alte Zeit" besinnen. Vielmehr müssen wir die Schul- und
+Universitätsbildung dahingehend gestalten, dass es optimale Synergieeffekte mit
+den anderen Bereichen der Gesellschaft gibt.
+
+In der Schulbildung sollten einige Grundsätze beachtet werden. Die natürliche
+Neugierde von Kindern sollte nicht bekämpft, sondern gefördert werden. Das Hinterfragen
+des Status Quo ist nichts Schlechtes, sondern Motor von Fortschritt und genialen
+Ideen. Ebenso sind Kinder mit unterschiedlichen Lerntypen und Herangehensweisen
+individuell zu fördern. Die Grundschule sollte dabei die Grundlagen der Gesellschaft
+lehren, wie sie es bisher größtenteils tut. Dabei sollte bereits Englisch ab der
+dritten Klasse gelehrt werden. 
+
+### Weiterführende Schule
+
+Die weiterführende Schule soll Kinder und Jugendliche auf ein Leben in der
+Gesellschaft vorbereiten. Dazu gehören gute Englischkenntnisse. Aus eigener
+Erfahrung weiß ich, dass eine gute Sprachqualität nur durch regelmäßiges Sprechen
+ermöglicht wird. Auch ist das Ansehen von Filmen in Originalsprache (Englisch) 
+mit englischen Untertiteln dafür essentiell.
+Daher sollte es den Schüler*innen ermöglicht werden Filme der Filmgeschichte
+in der Originalsprache Englisch anzusehen - ohne eine Analyse des Filmes. Dadurch
+wird die Sprache und gleichzeitig Kultur vermittelt.
+
+Ein weiterer Aspekt der weiterführenden Schule ist die Vermittlung der literarischen
+Kultur. Göthe und Schiller sind da die deutschen Paradeexemplare, aber auch Exilliteratur
+aus den 30er und 40er Jahren sollte zum Pflichtprogramm gehören. Dabei geht
+es um das Lesen und Verstehen dieser Werke. Wenn das Ganze gut gestaltet wird,
+dann kann das auch Spaß machen und wird nicht als nervend empfunden.
+
+Kunst- und Musikunterricht sind ebenfalls wichtig. Aus eigener Erfahrung weiß ich,
+dass mir der Kunstunterricht den Spaß an der Kunst ausgetrieben hat. Als Kind
+habe ich gerne gemalt. In der Schule musste ich dann aber Qualitätskriterien
+erfüllen, welches mir diesen Bereich der Kreativität komplett abgetötet hat.
+Außerdem habe ich dadurch nichts über die Kultur gelernt. Viel spannender wäre
+es gewesen, wenn der Kunstunterricht mit Kunstgeschichte begonnen hätte und im
+kreativen Teil einfach Raum für Ideen gegeben worden wäre ohne Benotungsdruck.
+
+Dabei hätte es nicht geschadet, wenn zu Beginn einer kreativen Phase gewisse
+Grundschritte gezeigt worden wären. Die Ergebnisse der Schüler*innen hätten dann
+einfach für sich stehen sollen ohne Benotung aber gerne mit konstruktivem Feedback.
+Freiwillige Wettbewerbe wären dann die Möglichkeit für begabte Schüler*innen
+ihr Können zur Schau zu stellen.
+
+Beim Musikunterricht wurde ebenfalls viel zu stark auf das reine Erlernen von
+Instrumenten geachtet. Schüler*innen ohne private Musikkenntnisse waren hier
+im Hintertreffen. Vielmehr sollte der Musikunterricht in der Schule die Musikgeschichte
+und Musikkultur (von klassischer Musik bis moderner Filmmusik) vermitteln.
+In einer praktischen Phase hätten dann alle Schüler*innen sich in einem Musikinstrument
+der eigenen Wahl unterrichten lassen können. Wenn ich nicht unter Leistungsdruck
+Musikinstrumente hätte lernen müssen, dann würde ich vielleicht heute in der
+Freizeit tatsächlich noch welche spielen. Der Zwang Gitarre zu lernen hat für mich
+jeden Spaß am Musizieren vertrieben. 
+
+Außerdem hätte digitale Musik zur Auswahl stehen sollen als zu erlernendes 
+Musikinstrument. Selbst ohne Fingerfertigkeiten und musikalisches Gehör hätte ich 
+so vielleicht für einen Laien ganz passable Musikkombinationen zusammenstellen 
+können.
+
+Bewegung ist ebenfalls wichtig. Aber der Sportunterricht hätte dramatisch anders
+verlaufen sollen. Wenn wir im Sportunterricht alleine Spiele gemacht hätten ohne
+Leistungsdruck, dann hätte ich vielleicht noch heute mehr Spaß an entsprechender
+Bewegung.
+
+Für all diese Fächer (Kunst, Musik, Sport) hätten als Option auch Leistungskurse
+zur Verfügung stehen sollen, in denen die Schüler*innen auf beste Leistungen
+vorbereitet werden. Aber es sollte nicht jede*r zu Leistungssport getrieben werden,
+wenn es alleine auf Bewegung ankommt.
+
+Ein ebenso wichtiger Aspekt ist die Vermittlung der Mathematik und Naturwissenschaften. 
+Es sollte vermittelt werden, dass diese ebenso wie Literatur eine Kulturleistung 
+darstellen und entsprechend zu würdigen sind.
+
+Auch diese Fächer sollten eine praktische Komponente enthalten. So sollten Schüler*innen
+die Möglichkeit haben ihr erlerntes Wissen praktisch in selbst gewählten produktiven
+Projekten (Ergebnisse sind nicht rein didaktisch) anzuwenden und somit bspw.
+Probleme durch innovative Lösungen zu beheben. Vielleicht werden dadurch auch
+Probleme gelöst, die in der Regierungsinteraktionsplattform gemeldet wurden.
+
+Ein weiterer Aspekt befasst sich mit politischem Handeln. Diesem Aspekt ist
+die Geschichte ebenso wie der Politikunterricht zugeordnet. Im Rahmen des 
+Politikunterrichts sollten wo möglich Parlamentssitzungen besucht werden.
+Ebenfalls sollte es Workshops geben, in denen Schüler*innen ihre Visionen
+für die Zukunft erarbeiten können. Insgesamt soll vermittelt werden, dass Politik
+wichtig ist und die Beteiligung einen Einfluss hat und auch Spaß machen kann.
+
+Der Geschichtsunterricht soll die Schüler*innen in die Position versetzen
+verantwortungsbewusst Entscheidungen zu treffen und diese in den historischen
+Kontext einordnen zu können. Dabei ist vor allem auch die Geschichte der
+Bürgerrechtsbewegungen weltweit zu zeigen.
+
+Im Wirtschaftsunterricht, der ebenfalls zu diesem Aspekt gehört, sollen den
+Schüler*innen die Grundzüge der Wirtschaft vermittelt werden. Im Rahmen des
+Unterrichts soll gezeigt werden, welche Entwicklungen es in der Wirtschaft
+in der Menschheitsgeschichte gab und welche Wirtschaftspolitik sich als
+katastrophal erwiesen hat.
+
+Das politische Engagement von Schüler*innen neben der Schule in den Schulgremien
+oder der Schüler*innenvertretung als auch in den Jugendorganisationen der Parteien
+sollte gefördert werden.
+
+Der letzte Aspekt befasst sich mit der digitalen Kompetenz. Neben den Grundfertigkeiten
+im Umgang mit Computern sollten Datenschutz, Privatsphäre und Programmierung
+ebenso Teil der Schule sein. Die Schüler*innen müssen zu mündigen Bürger*innen
+ausgebildet werden und eine souveräne Handhabung von Technologie gehört dazu.
+Die Befassung der Snowden-Enthüllungen und deren Implikationen für die Gesellschaft
+sollte ein zentraler Bestandteil sein.
+
+Insgesamt gesehen sollte darauf geachtet werden, dass die Schule Spaß macht und 
+trotz der Pflicht nicht als Belastung angesehen wird. Daher sollte darauf
+geachtet werden, dass auch noch genügend Freizeit übrig bleibt.
+
+### Universitätsbildung
+
+Die Universität setzt am Ende der Schule an, hat aber andere Aufgaben. An der
+Universität sollten Studierende in die Lage versetzt werden mittels wissenschaftlicher
+Methodik und weitergehender Kenntnis der studierten Fächer die realen Probleme 
+der Gesellschaft zu lösen.
+
+Das Fachstudium sollte Grundkenntnisse vermitteln und darüber hinaus zu großem
+Teil aus Projektstudium bestehen. Das Ziel ist die Aneignung von Wissen im Kontext
+der realen Anwendung in der Gesellschaft. Dabei sollte es im Projektstudium nicht
+um Noten und die Erreichung von Creditpoints, sondern um die Lösung von Problemen
+gehen. Am Beispiel der Informatik kann das z.B. die Entwicklung einer interaktiven
+Korruptionswebsite sein, die anhand von verfügbaren Informationen auf einer Karte
+zeigt, in welchen Regionen es besonders viel Korruption gibt. Mit Klick auf die
+Region würde sich eine Detailseite mit den zugrundeliegenden Quellen und der
+Begründung für die Einschätzung öffnen.
+
+Interdisziplinäre Projekte sollen dabei besonders gefördert werden. Die in der
+Regierungsinteraktionsplattform gesammelten Probleme können eine Anregung liefern,
+mit welchen Themen man sich in diesen Projekten beschäftigt. Auch die Erforschung
+von unbekannten Zusammenhängen ist eine gute Angelegenheit.
+
+Eine derartige Beschäftigung mit den Schlüsselproblemen der Gesellschaft hilft auch
+der Wirtschaft, weil dadurch die Studierenden essentielle Kompetenzen entwickeln,
+um auch dort über Disziplingrenzen hinweg an Projekten zu arbeiten oder gar selber
+Unternehmen zur Lösung von Problemen zu gründen.
+
+Neben dem Fachstudium sollte auch ein Studium Generale Bestandteil des Studiums
+sein. In diesem sollten ergänzend zur Schulbildung die Grundlagen für die Teilnahme
+an der Gesellschaft geschaffen werden. Zentral dafür ist die Vermittlung der
+wissenschaftlichen Grundlagen für die Geschehnisse der Welt. Das beinhaltet also
+Ethik, politische und philosophische Grundlagen ebenso wie eine grundlegende 
+Kenntnis über Klimawissenschaft, Informatik und Physik. Nur ein grundlegendes
+Verständnis über die Weltsicht von unterschiedlichen Disziplinen heraus wird
+den Studierenden ermöglichen sich selbst in Beziehung zu den Geschehnissen der
+Welt zu setzen und sich als handelnde Subjekte wahrzunehmen.
+
+Ein Studium Generale, welches den gesamten MINT-Bereich als unnötig erachtet,
+ist eben kein Studium Generale. Allgemein sollte die Erkenntnis reifen, dass
+die Naturwissenschaften, Mathematik und Informatik und ihre Erkenntnisse - bei 
+allen vorhandenen Mängeln - der Menschheit große Dienste erwiesen haben. Sie haben 
+überhaupt erst die Idee einer weltweit agierenden Menschheit möglich gemacht. Nur 
+durch diese Wissenschaften und ihre Errungenschaften ist es überhaupt möglich die 
+Überwindung von Nationalstaaten als praktisch umsetzbar zu betrachten.
+
+Dem Ziel einer Entmilitarisierung verpflichtet sollen Universitäten Orte der
+Völkerverständigung und nicht der Rüstungsforschung sein. Daher sind alle eindeutigen
+Waffen- und Rüstungsforschungen zu unterlassen und dies durch eine Zivilklausel
+abzusichern.
+
+### Finanzierung
+
+Sowohl Schulen als auch Universitäten sollten die notwendige Finanzierung für
+diese Aufgaben erhalten.
+
+### Zusammenfassung
+
+Zusammengefasst ergeben sich diese Forderungen für den Schulbereich:
+
+  * Englisch ab der 3. Klasse
+  * Neugierde fördern und nicht bekämpfen
+  * individuelle Förderung und Eingehen auf unterschiedliche Lerntypen
+  * praktischer Englischunterricht (u.a. Filme ansehen ohne Analyse und Bewertung)
+  * Vermittlung von literarischer Kultur
+  * Kunst-, Musik- und Sportunterricht ohne Leistungsdruck
+  * mehr Fokus auf Kunst- und Musikgeschichte und -kultur
+  * Kreativzeiten im Kunst- und Musikunterricht ohne Ergebnisdruck
+  * freie Auswahl eines zu erlernenden Musikinstruments
+  * mehr Fokus auf Bewegung und weniger auf Leistungssport im Sportunterricht
+  * optionale Leistungskurse in Kunst, Musik und Sport für Begabte
+  * Vermittlung von Mathe und Naturwissenschaften
+    * diese stellen auch Kulturleistung dar, entsprechende Würdigung
+  * praktische Komponente auch bei diesen Fächern
+    * Projekte mit potentieller Lösung von realen Problemen
+  * politisches Handeln als Lehraspekt
+    * Geschichtsunterricht, der auch Bürgerrechtsbewegungen thematisiert
+    * Politikunterricht mit u.a. Workshops zur Erarbeitung von Visionen und Besuch
+      von Parlamentssitzungen
+    * Wirtschaftsunterricht mit Geschichte von Wirtschaft und Aufklärung über
+      schädliche Wirtschaftspolitik
+    * Förderung von politischem Engagement
+  * digitale Kompetenz als Lehraspekt
+    * Grundfertigkeiten im Umgang mit Computern
+    * Datenschutz und Privatsphäre
+    * Programmieren
+  * genügend Freizeit, Schule soll Spaß machen
+
+Es ergeben sich diese Forderungen für den Bereich der Universitäten:
+
+  * großer Teil an Projektstudium
+    * Lösung von realen Problemen in der Welt
+  * Förderung von interdisziplinären Projekten
+  * Studium Generale
+     * Vermittlung von (wissenschaftlichen) Grundkenntnissen in Ethik, Politik,
+       Philosophie, Informatik, Klimawissenschaft und Physik
+  * Zivilklausel
+
+Insgesamt ergibt sich die Forderung nach einer bedarfsgerechten Ausfinanzierung.
 
 ## Steuer- und Finanzpolitik
+
+Kommen wir zur Steuer- und Finanzpolitik.
 
 - mehr Steuerfahnder
 - Steueroasen austrocknen
