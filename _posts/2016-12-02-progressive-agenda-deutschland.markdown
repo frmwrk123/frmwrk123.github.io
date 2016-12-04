@@ -36,7 +36,7 @@ die Chance für positiven transformativen Wandel. Es ist eine Zeit von Umbrüche
 Bestehende Ordnungen zerfallen, als sicher geglaubte Wahrheiten sind überholt
 und das Neue ist unbekannt und macht Angst. Doch diese Zeit des Umbruchs ist auch
 eine Chance. In dieser Zeit kann und muss die wirtschaftliche Ordnung neu gedacht
-werden. Statt sich einzubunkern auf alte Zeiten zu besinnen, muss sich der
+werden. Statt sich einzubunkern und auf alte Zeiten zu besinnen, muss sich der
 Herausforderung gestellt werden und es müssen neue Lösungen entwickelt werden.
 
 Der Blick in die Vergangenheit gibt Hoffnung, dass genau dies gelingen kann. Die
