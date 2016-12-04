@@ -92,10 +92,10 @@ der Wirtschaft. In den letzten Jahren gab es unglaublich große Produktivitätsz
 was sich vereinfacht gesprochen an den Profiten von Unternehmen ablesen lässt,
 die aber nicht bei allen angekommen sind. Wirtschaft dient dann der Gesellschaft
 und ist hilfreich, wenn Produktivitätszuwächse (z.B. höhere Profite) zu höheren
-Gehältern aller Angestellten und Mitarbeiter*innen und/oder niedrigeren Arbeitszeiten
+Gehältern aller Angestellten und Mitarbeiter_innen und/oder niedrigeren Arbeitszeiten
 führen. Denn dann werden die Gewinne aus Produktivität umverteilt an alle Beteiligten
 und dann ist es auch kein Problem, wenn die CEOs viel verdienen. Die höheren
-Gehälter und niedrigere Arbeitszeit führen zu höherer Zufriedenheit der Mitarbeiter*innen,
+Gehälter und niedrigere Arbeitszeit führen zu höherer Zufriedenheit der Mitarbeiter_innen,
 was sich wiederum in einer höheren Produktivität niederschlägt.
 Dagegen sind Stress und Burnoutgefahr Garanten für langfristig abnehmende
 Produktivität und Verluste.
@@ -105,7 +105,7 @@ Problemen der Gesellschaft zu finden. Dafür sind einerseits Kartelle und Monopo
 zu unterbinden und andererseits ist es notwendig, dass vor diesen Kriterien
 schädliche Geschäftsideen keinen Erfolg am Markt haben und auf keinen Fall
 vom Steuerzahler subventioniert werden. Wenn sich ein Geschäftsmodell nur rentiert,
-indem den Mitarbeiter*innen Niedriglöhne gezahlt werden, dann scheint es keine
+indem den Mitarbeiter_innen Niedriglöhne gezahlt werden, dann scheint es keine
 Probleme sinnvoll anzugehen und es schafft auch kein Wohlstand. Es beutet lediglich
 aus, erzielt auch keine Produktivitätszuwächse und verteilt maximal Geld nach oben.
 Solche Firmen sollten auch pleite gehen können, ohne dass auf Zwang versucht
@@ -114,12 +114,12 @@ wird, diese mit Steuermitteln künstlich am Leben zu halten.
 Denn derartige Subventionierung von problematischen Geschäftsmodellen, auch wenn
 sie im Einzelfall Jobs sichert, schafft Fehlanreize. Es ist für angehende CEOs
 ja einfacher einfach eine bestehende Idee abzuwandeln, zu hypen, schnell auf Pump
-Mitarbeiter*innen einzustellen und dann die Firma vom Staat durchfüttern zu lassen,
+Mitarbeiter_innen einzustellen und dann die Firma vom Staat durchfüttern zu lassen,
 als wirklich eine innovative Idee zu entwickeln. Nur wenn glasklar ist, dass
 schlechte Ideen am Markt keine Chance und auch keine Aussicht auf staatliche
 Förderung haben, kann Innovation in der Breite erreicht werden.
 
-Außerdem müssen Bedingungen geschaffen werden, in denen die Bürger*innen sich
+Außerdem müssen Bedingungen geschaffen werden, in denen die Bürger_innen sich
 umfassend über Geschäftsmodelle informieren können, sodass derartige Blasen
 auffliegen und weniger Menschen darauf hineinfallen. Dafür müssen Standards zur
 Information geschaffen werden. Diese werden von alleine dafür sorgen, dass gute
@@ -140,7 +140,7 @@ Zusammengefasst ergeben sich diese Forderungen:
   * Emittlung und Bestrafung von Betrug (u.a. Bilanzfälschung, Insolvenzverschleppung,
     Steuerhinterziehung, Unterlaufen von Mindestlohn, Nichtbeachtung von 
     Arbeitssicherheit) - bei Geldstrafen sollte das Geld teils als Lohn/Gehalt 
-    an die Mitarbeiter*innen und teils in den Topf für Sozialleistungen gehen
+    an die Mitarbeiter_innen und teils in den Topf für Sozialleistungen gehen
 
 ## Politik
 
@@ -160,13 +160,13 @@ Deutschland zu treffen, die im Einzelfall eine kurzfristige Verschlechterung der
 Situation bedeuten können.
 
 Dieses Vertrauen in das gesamte System wird nur dann erzeugt werden können,
-wenn die Politiker*innen tatsächlich die Interessen der Bevölkerung und nicht
+wenn die Politiker_innen tatsächlich die Interessen der Bevölkerung und nicht
 nur einiger Weniger vertreten. Das zentrale Thema dabei ist strukturelle Korruption.
 Es geht nicht um den direkten Austausch von Geld gegen Gesetze oder Abstimmungen,
 welcher ohnehin strafbar sein sollte bzw. ist. Sondern es geht darum, dass z.B.
-Zugang zu CDU- und SPD-Politiker*innen mittels Geld erworben werden konnte.
+Zugang zu CDU- und SPD-Politiker_innen mittels Geld erworben werden konnte.
 
-Zugang zu den gewählten Politiker*innen ist für eine Demokratie essentiell.
+Zugang zu den gewählten Politiker_innen ist für eine Demokratie essentiell.
 Durch diese Art von Deals wird es jedoch Personen bzw. Organisationen mit
 viel Geld deutlich einfacher gemacht diesen Zugang zu erhalten. So etwas ist
 eine Bevorteilung gewisser Interessen, da zivilgesellschaftliche Lobbygruppen,
@@ -179,9 +179,9 @@ Privatinteressen verteilt.
 
 In diesem Bereich hilft nur größere Transparenz und die Bekämpfung der angesprochenen
 strukturellen Korruption. Wenn alle gesellschaftliche Gruppen - auch die Wirtschaft -
-den gleichen Zugang zu Politiker*innen haben, dann ist das Problem überwunden.
+den gleichen Zugang zu Politiker_innen haben, dann ist das Problem überwunden.
 Nur durch die Beseitigung dieser Art von Korruption kann das Vertrauen gewonnen
-werden, dass die gewählten Vertreter*innen des Volkes tatsächlich dessen Interessen
+werden, dass die gewählten Vertreter_innen des Volkes tatsächlich dessen Interessen
 vertreten.
 
 Dies vorweggeschickt bin ich der Überzeugung, dass der Politik eine wichtige
@@ -200,11 +200,11 @@ Umsetzungsperspektive utopisch erscheinen. Dies muss sich wieder ändern und
 diese niedergeschriebene Agenda leistet einen ersten Beitrag dazu.
 
 Zudem soll Politik auch Spaß machen und nicht dröge wirken. Es täte der politischen
-Diskussion daher gut, wenn Politiker*innen energiegeladener sprechen und weniger
-Worthülsen dreschen. Wir brauchen keine polierten Politiker*innen, deren Aussagen
-keinen Inhalt haben. Stattdessen brauchen wir raue, unveredelte Politiker*innen,
+Diskussion daher gut, wenn Politiker_innen energiegeladener sprechen und weniger
+Worthülsen dreschen. Wir brauchen keine polierten Politiker_innen, deren Aussagen
+keinen Inhalt haben. Stattdessen brauchen wir raue, unveredelte Politiker_innen,
 die tatsächlich etwas sagen und auch eine artikulierte Meinung haben. Wir brauchen
-Politiker*innen wie Bernie Sanders oder Elizabeth Warren. Solche Politiker*innen
+Politiker_innen wie Bernie Sanders oder Elizabeth Warren. Solche Politiker_innen
 können dann auch die Menschen für Politik begeistern, was dringend nötig ist.
 
 Zusammengefasst ergeben sich diese Forderungen:
@@ -224,38 +224,38 @@ vereinzelt Projekte, bei denen die Menschen in die Entscheidungen mit einbezogen
 werden. So wurde in Hamburg in einer Art Crowdsourcing nach möglichen Stellen
 für Flüchtlingsunterkünfte gesucht. Dieses Projekt war sehr erfolgreich und
 einige der Stellen konnten direkt genutzt werden. Solche Projekte lassen
-die Bürger*innen mitgestalten und sorgen dafür, dass für die Politik eine größere
+die Bürger_innen mitgestalten und sorgen dafür, dass für die Politik eine größere
 Wertschätzung erzeugt wird. Auch aus Legitimationsgründen sind solche Projekte
 sinnvoll.
 
-Statt Bürger*innenbeteiligung als Hindernis zu betrachten, sollte es als Chance
+Statt Bürger_innenbeteiligung als Hindernis zu betrachten, sollte es als Chance
 wahrgenommen werden. Auf Stadtebene ist dies einfacher umzusetzen als auf Bundesebene.
 Aber auch bundesweit gibt es sinnvolle Aspekte, die sich für Open Government
 eignen. Wenn es um bspw. um den Bau von Stromtrassen von Nord nach Süd geht, dann
-sollten Bürger*innen bereits bei der Routenwahl Ideen einbringen können und beteiligt
+sollten Bürger_innen bereits bei der Routenwahl Ideen einbringen können und beteiligt
 werden. Das kann bspw. Blockaden von Bürgerinitiativen im späteren Verlauf reduzieren.
 Darüber hinaus kann es auch Probleme geben, die nur bundesweit zu lösen sind,
 aber noch gar nicht bekannt sind. Hier würde eine Art "Bugtracker" für die Politik
-hilfreich sein, sodass Bürger*innen auf einfache Weise wahrgenommene Probleme
-melden können. Bürger*innen könnten diese Probleme kommentieren und bewerten
+hilfreich sein, sodass Bürger_innen auf einfache Weise wahrgenommene Probleme
+melden können. Bürger_innen könnten diese Probleme kommentieren und bewerten
 und somit kann sich eine wertvolle Ressource für die Regierung ergeben, da sie
 nicht auf Umfragen angewiesen ist, um Probleme festzustellen, sondern ganz
 im Detail Hinweise bekommen kann.
 
 Dieser "Bugtracker" könnte als bundesweites Regierungsinternetplattform genutzt 
-werden. Somit würde ein einheitliches System enstehen, wo Bürger*innen zentral
+werden. Somit würde ein einheitliches System enstehen, wo Bürger_innen zentral
 festgestellte Probleme melden können (inkl. möglicher Beweise und Untersuchungen)
 und diese können dann bewertet werden. Wenn in einem festzulegenden Zeitraum
 eine festzulegende Anzahl Menschen dieses Problem als allgemein anerkennt,
 dann würde im nächsten Schritt durch Regierungsangestellte die Einteilung
 in Zuständigkeitsbereiche erfolgen (Bund, Land, Kommune). Schließlich könnte
-seitens der Bürger*innen eine Priorität für die Probleme vergeben werden. Dadurch
+seitens der Bürger_innen eine Priorität für die Probleme vergeben werden. Dadurch
 erscheinen die wichtigsten Probleme ganz oben und die begrenzten Ressourcen können
 dann am effektivsten für die Lösung eingesetzt werden.
 
 Da dieses System nicht repräsentativ wäre, soll natürlich nicht das ganze Regierungshandeln
 darauf basieren. Aber es ist eine sinnvolle Ergänzung. Im Haushaltsplan sollte
-ein sogenannter Bürger*innenhaushalt geschaffen werden. Diese Mittel werden dann
+ein sogenannter Bürger_innenhaushalt geschaffen werden. Diese Mittel werden dann
 anhand der Priorität und Wichtigkeit der gemeldeten Probleme für die 
 Lösung jener Probleme eingesetzt. Ergänzend können dann Umfragen zu den
 wichtigsten Problemen gemacht werden. Stellt sich heraus, dass diese auch bei
@@ -263,12 +263,12 @@ einer repräsentativen Umfrage für ganz Deutschland hervorstechen, oder wenn si
 ohnehin schon Teil von Regierungshandeln sind, dann können auch Mittel außerhalb
 dieses Haushaltstitels verwendet werden.
 
-Die Plattform kann ferner als Ideenworkshop genutzt werden. Wenn Bürger*innen
+Die Plattform kann ferner als Ideenworkshop genutzt werden. Wenn Bürger_innen
 Ideen haben, wie diese Probleme gelöst werden können, dann können sie Umsetzungsvorschläge
 machen. Diese können Gesetzesvorlagen sein, aber auch Vorschläge für Regierungshandeln
 oder Erfindungen. Da durch eine Veröffentlichung von Erfindungen diese nicht mehr
-patentierbar sind, sollen die einreichenden Bürger*innen für diese Veröffentlichung
-entlohnt werden. Wenn die Erfindung von einer festzulegenden Anzahl an Bürger*innen
+patentierbar sind, sollen die einreichenden Bürger_innen für diese Veröffentlichung
+entlohnt werden. Wenn die Erfindung von einer festzulegenden Anzahl an Bürger_innen
 als nützlich erachtet wird, landet sie in 
 einem öffentlichen Repository, welches von jeder Person eingesehen werden kann. 
 Startups können für die Implementierung und serienreife Umsetzung dieser Ideen 
@@ -276,13 +276,13 @@ eine Förderung beantragen. Die entstehenden Produkte müssen von einer großen
 Mehrheit der betroffenen Personen bezahlt werden können.
 
 Bei ausgewählten Problemen bzw. Ideen kann die Regierung auch Kommissionen bilden,
-in denen kompetente Bürger*innen sitzen, die dann ganz konkret Lösungsvorschläge
+in denen kompetente Bürger_innen sitzen, die dann ganz konkret Lösungsvorschläge
 erarbeiten.
 
 Diese Interaktionsplattform würde ferner die zentrale Datenplattform
 werden. Dort würden alle durch Behörden und Ministerien erhobene Daten (z.B.
 Verkehrsdaten) - unter Wahrung des Datenschutzes - unter einer freien Lizenz 
-veröffentlicht. Damit stünden allen Organisationen und Bürger*innen gleichermaßen
+veröffentlicht. Damit stünden allen Organisationen und Bürger_innen gleichermaßen
 die öffentlichen Daten zur Verfügung.
 
 Zuletzt wäre die Plattform auch eine Informationsplattform, auf der alle Regierungen
@@ -296,12 +296,12 @@ unterbindet.
 
 Ebenfalls würden alle Anträge und Formulare über diese Plattform laufen. Es
 wäre also der eine Platz, an dem alle Interaktionen mit der Regierung stattfinden.
-Demnach hätten alle Bürger*innen die Möglichkeit einen Account zu bekommen, der
+Demnach hätten alle Bürger_innen die Möglichkeit einen Account zu bekommen, der
 eindeutig ist. Um eine etwaige politische Verfolgung zu verhindern, würden die
 nicht hoheitlichen Interaktionen auf der Plattform jedoch losgelöst unter einer
 öffentlichen, konfigurierbaren Persona gespeichert werden. Dadurch ließe sich im
 Nachhinein nicht mehr flächendeckend nachvollziehen, wer bspw. welches Problem 
-gemeldet hat. Es wäre jedoch sichergestellt, dass nur real existierende Bürger*innen
+gemeldet hat. Es wäre jedoch sichergestellt, dass nur real existierende Bürger_innen
 eine Persona für die nicht hoheitlichen Interaktionen haben können. Das würde
 Spam vorbeugen.
 
@@ -310,17 +310,17 @@ die Einreichung der Steuererklärung oder Ummeldungen verstanden. Die anderen
 vorab erklärten Interaktionen gelten hier als nicht hoheitliche Interaktionen.
 
 Diese Plattform kann und soll aber nicht die persönliche Interaktion vor Ort
-ersetzen. Damit diese auch besser für die Bürger*innen wird, soll trotz Beamtenstatus
-eine Serviceorientierung statfinden. Das bedeutet jedoch nicht, dass die Beamt*innen
+ersetzen. Damit diese auch besser für die Bürger_innen wird, soll trotz Beamtenstatus
+eine Serviceorientierung statfinden. Das bedeutet jedoch nicht, dass die Beamt_innen
 ausgebeutet werden sollen, sondern dass sich eine Mentalität durchsetzt, dass
-die Behörden Dienstleistungen für die Bürger*innen anbieten und somit diese zeitnah
+die Behörden Dienstleistungen für die Bürger_innen anbieten und somit diese zeitnah
 erledigt werden sollten. Die Öffnungszeiten sollten sich ebenfalls am realen
-Bedarf der Bürger*innen orientieren, sodass Öffnungszeiten von 10-12 Uhr
+Bedarf der Bürger_innen orientieren, sodass Öffnungszeiten von 10-12 Uhr
 der Vergangenheit angehören. Diese kann keine arbeitende Person wahrnehmen.
 
 Zusammengefasst ergeben sich diese Forderungen:
 
-  * Bürger*innenbeteiligung in der Breite nutzen
+  * Bürger_innenbeteiligung in der Breite nutzen
   * Schaffung einer zentralen Regierungsinteraktionsplattform
     - Äußerung von Problemen
     - Einbringung von Ideen
@@ -338,7 +338,7 @@ Anschluss folgen die Detailbereiche zu einzelnen Themen der Agenda.
 So konkret die Vorstellungen bei der Regierung sind, so diffus ist dies beim
 Gesellschaftsbild. Denn wer oder was ist eigentlich die Gesellschaft? Im Laufe
 dieser Agenda umfasst die Gesellschaft sowohl die Wirtschaft, als auch die Politik,
-Kultur, soziale Einrichtungen, Organisationen und natürlich die Bürger*innen selber.
+Kultur, soziale Einrichtungen, Organisationen und natürlich die Bürger_innen selber.
 
 Es gibt sehr unterschiedliche Menschen und diese Agenda würde die Linie zur
 nicht umsetzbaren Utopia überschreiten, wenn die Menschen in der Gesellschaft
@@ -353,29 +353,29 @@ biologischem Geschlecht, ihres Alters oder ihrer sexuellen Orientierung bzw.
 Identität sind gleichberechtigter Teil der Gesellschaft. Niemand darf aufgrund 
 dieser Merkmale bzw. Eigenschaften diskriminiert werden.
 
-Kultur muss ohne Profitzwang stattfinden können und allen Bürger*innen offenstehen.
-Ebenfalls muss jede*r in der Lage sein sich selber als Kulturschaffende*r einzubringen,
+Kultur muss ohne Profitzwang stattfinden können und allen Bürger_innen offenstehen.
+Ebenfalls muss jede_r in der Lage sein sich selber als Kulturschaffende_r einzubringen,
 ohne Existenzängste haben zu müssen.
 
 Ein wichtiger Bestandteil von Teilhabe an der Gesellschaft ist auch die Möglichkeit
 Veranstaltungen zu planen und sich produktiv zu organisieren. Daher sollte es
 zumindest in jeder größeren Stadt Organisationsworkshops geben, in denen sich
-Bürger*innen die Grundkompetenzen der Organisierung einer Gruppe aneignen können.
+Bürger_innen die Grundkompetenzen der Organisierung einer Gruppe aneignen können.
 
 ### Grundeinkommen
 
 Damit dies realisiert werden kann und ebenfalls eine staatliche Subventionierung
 von schädlichen Geschäftsmodellen ausbleiben kann, bedarf es dem universalen
-Grundeinkommen. Um hier eine überbordene Bürokratie zu sparen, kann jede*r
-Bürger*in mit einem einfachen Antrag ohne Begründung oder weitere Bedingungen
+Grundeinkommen. Um hier eine überbordene Bürokratie zu sparen, kann jede_r
+Bürger_in mit einem einfachen Antrag ohne Begründung oder weitere Bedingungen
 dieses Grundeinkommen beziehen. Es ist somit ein bedingungsloses Grundeinkommen,
 da keine Bedingungen - außer einem Antrag - gegeben sein müssen für den Bezug.
 Gleichzeitig wird dadurch ein Automatismus verhindert und wer kein Grundeinkommen
 beziehen möchte, kann somit darauf verzichten und so dem Staat Geld sparen.
 
 Dieses Grundeinkommen würde die vielen Sozialausgaben ersetzen und somit eine massive
-Bürokratieverringerung mit sich bringen, bestehende Sozialhilfeempfänger*innen
-aus der faktischen Stigmatisierung befreien und allen Bürger*innen ein menschenwürdiges
+Bürokratieverringerung mit sich bringen, bestehende Sozialhilfeempfänger_innen
+aus der faktischen Stigmatisierung befreien und allen Bürger_innen ein menschenwürdiges
 Leben ermöglichen. Niemand wäre mehr gezwungen gegen die Würde einen Job anzunehmen,
 nur um zu überleben oder sich die Pein des HartIV zu geben. Damit wäre Artikel 1
 des Grundgesetzes endlich erfüllt. Selbst sehr wirtschaftsnahe Verbände wie der IWF
@@ -419,22 +419,22 @@ ist. Das Grundeinkommen würde also ergänzend wirken und dafür sorgen, dass
 die Gehälter und Löhne sich einem Median annähern. Im unteren Einkommensbereich
 würden sie steigen, da aufgrund des Wegfalls vom Arbeitszwang die Attraktivität
 dieser Arbeitsplätze massiv sinkt und im oberen Spektrum könnten sie linear
-um die Höhe des Grundeinkommens gesenkt werden ohne Nachteile für die Arbeitnehmer*innen
+um die Höhe des Grundeinkommens gesenkt werden ohne Nachteile für die Arbeitnehmer_innen
 und mit Vorteilen für das Unternehmen.
 
 Zudem könnte das gesamte Rentensystem abgeschafft werden, da durch das Grundeinkommen
 bereits Altersarmut verhindert wird. Dies baut massiv Bürokratie und Kosten ab
-und verringert weiterhin die Kosten für Arbeitnehmer*innen, da nicht länger
+und verringert weiterhin die Kosten für Arbeitnehmer_innen, da nicht länger
 Beiträge gezahlt werden müssen. Ebenfalls könnte das Pensionssystem abgeschafft
 werden, da auch hier durch das Grundeinkommen die Sozialansprüche abgegolten sind.
 Da die aktuellen Pensionen höher bemessen sind, als es das Grundeinkommen vermutlich
 sein wird, können diese Gelder mehr Menschen zugute kommen, indem sie in die
 Bezahlung des Grundeinkommen überführt werden.
  
-Die Kosten für Beamt*innen würden sinken um die Höhe des Grundeinkommens. Dies
+Die Kosten für Beamt_innen würden sinken um die Höhe des Grundeinkommens. Dies
 ist nicht direkt eine Ersparnis, aber auch keine Mehrausgabe, da die Gelder
 lediglich aus einem anderen Topf kommen. Basierend auf der Zuständigkeit für
-die Bezahlung (wenn Beamt*innen aus Länderhaushalten und das Grundeinkommen
+die Bezahlung (wenn Beamt_innen aus Länderhaushalten und das Grundeinkommen
 aus dem Bundeshaushalt bezahlt würden) müssten aber potentiell Gelder transferiert
 werden.
 
@@ -443,9 +443,9 @@ werden.
 Um die mit dem Grundeinkommen steigende Produktivität abseits der Wirtschaft
 auch dokumentieren und publik machen zu können, sollen lokale Bürgermedien eingerichtet
 werden. Das sind also Radiosender, TV-Sender oder Onlinenachrichtenmagazine, an
-denen sich jede*r beteiligen kann. Diese sollen auch eine journalistische Schulung
+denen sich jede_r beteiligen kann. Diese sollen auch eine journalistische Schulung
 anbieten. Nur durch eine solche dezentrale Medienlandschaft, wo die Themen
-besprochen werden, für die sich tatsächlich auch Bürger*innen interessieren,
+besprochen werden, für die sich tatsächlich auch Bürger_innen interessieren,
 wird die aktuelle Medienkrise überwunden werden können. Es gibt bereits vereinzelte
 solche Projekte. Diese sind auszubauen und zu institutionalisieren. Alle Inhalte
 dieser Medien sollen unter freie Lizenzen gestellt werden und somit für alle
@@ -466,7 +466,7 @@ Zusammengefasst ergeben sich diese Forderungen:
 
   * universales Grundeinkommen
   * Einrichtung und Ausbau von Bürgermedien
-    - freier Zugang für alle Bürger*innen
+    - freier Zugang für alle Bürger_innen
     - journalistische Schulung
     - freie Sendekanäle für diese Medien
     - alle Inhalte sind frei und dauerhaft für alle verfügbar
@@ -493,7 +493,7 @@ die Wirtschaft oder um Bildung nach dem Humboldtschen Bildungsideal geht.
 
 Über all diesen Dingen thront eine chronische Unterfinanzierung, die Kooperation
 im Wissenschaftsbetrieb einschränkt und eine desaströse Standortpolitik mit sich
-bringt. Dabei gehören Schulen eindeutig zur Daseinsfürsorge - jede*r muss zur
+bringt. Dabei gehören Schulen eindeutig zur Daseinsfürsorge - jede_r muss zur
 Schule gehen laut Gesetz und kann sogar durch die Polizei zur Schule gebracht
 werden - und in einer Dienstleistungsgesellschaft mit zunehmender Komplexität
 muss die Frage gestellt werden, ob nicht auch Universitäten zum Bereich der
@@ -524,7 +524,7 @@ Gesellschaft vorbereiten. Dazu gehören gute Englischkenntnisse. Aus eigener
 Erfahrung weiß ich, dass eine gute Sprachqualität nur durch regelmäßiges Sprechen
 ermöglicht wird. Auch ist das Ansehen von Filmen in Originalsprache (Englisch) 
 mit englischen Untertiteln dafür essentiell.
-Daher sollte es den Schüler*innen ermöglicht werden Filme der Filmgeschichte
+Daher sollte es den Schüler_innen ermöglicht werden Filme der Filmgeschichte
 in der Originalsprache Englisch anzusehen - ohne eine Analyse des Filmes. Dadurch
 wird die Sprache und gleichzeitig Kultur vermittelt.
 
@@ -543,16 +543,16 @@ es gewesen, wenn der Kunstunterricht mit Kunstgeschichte begonnen hätte und im
 kreativen Teil einfach Raum für Ideen gegeben worden wäre ohne Benotungsdruck.
 
 Dabei hätte es nicht geschadet, wenn zu Beginn einer kreativen Phase gewisse
-Grundschritte gezeigt worden wären. Die Ergebnisse der Schüler*innen hätten dann
+Grundschritte gezeigt worden wären. Die Ergebnisse der Schüler_innen hätten dann
 einfach für sich stehen sollen ohne Benotung aber gerne mit konstruktivem Feedback.
-Freiwillige Wettbewerbe wären dann die Möglichkeit für begabte Schüler*innen
+Freiwillige Wettbewerbe wären dann die Möglichkeit für begabte Schüler_innen
 ihr Können zur Schau zu stellen.
 
 Beim Musikunterricht wurde ebenfalls viel zu stark auf das reine Erlernen von
-Instrumenten geachtet. Schüler*innen ohne private Musikkenntnisse waren hier
+Instrumenten geachtet. Schüler_innen ohne private Musikkenntnisse waren hier
 im Hintertreffen. Vielmehr sollte der Musikunterricht in der Schule die Musikgeschichte
 und Musikkultur (von klassischer Musik bis moderner Filmmusik) vermitteln.
-In einer praktischen Phase hätten dann alle Schüler*innen sich in einem Musikinstrument
+In einer praktischen Phase hätten dann alle Schüler_innen sich in einem Musikinstrument
 der eigenen Wahl unterrichten lassen können. Wenn ich nicht unter Leistungsdruck
 Musikinstrumente hätte lernen müssen, dann würde ich vielleicht heute in der
 Freizeit tatsächlich noch welche spielen. Der Zwang Gitarre zu lernen hat für mich
@@ -569,15 +569,15 @@ Leistungsdruck, dann hätte ich vielleicht noch heute mehr Spaß an entsprechend
 Bewegung.
 
 Für all diese Fächer (Kunst, Musik, Sport) hätten als Option auch Leistungskurse
-zur Verfügung stehen sollen, in denen die Schüler*innen auf beste Leistungen
-vorbereitet werden. Aber es sollte nicht jede*r zu Leistungssport getrieben werden,
+zur Verfügung stehen sollen, in denen die Schüler_innen auf beste Leistungen
+vorbereitet werden. Aber es sollte nicht jede_r zu Leistungssport getrieben werden,
 wenn es alleine auf Bewegung ankommt.
 
 Ein ebenso wichtiger Aspekt ist die Vermittlung der Mathematik und Naturwissenschaften. 
 Es sollte vermittelt werden, dass diese ebenso wie Literatur eine Kulturleistung 
 darstellen und entsprechend zu würdigen sind.
 
-Auch diese Fächer sollten eine praktische Komponente enthalten. So sollten Schüler*innen
+Auch diese Fächer sollten eine praktische Komponente enthalten. So sollten Schüler_innen
 die Möglichkeit haben ihr erlerntes Wissen praktisch in selbst gewählten produktiven
 Projekten (Ergebnisse sind nicht rein didaktisch) anzuwenden und somit bspw.
 Probleme durch innovative Lösungen zu beheben. Vielleicht werden dadurch auch
@@ -586,28 +586,28 @@ Probleme gelöst, die in der Regierungsinteraktionsplattform gemeldet wurden.
 Ein weiterer Aspekt befasst sich mit politischem Handeln. Diesem Aspekt ist
 die Geschichte ebenso wie der Politikunterricht zugeordnet. Im Rahmen des 
 Politikunterrichts sollten wo möglich Parlamentssitzungen besucht werden.
-Ebenfalls sollte es Workshops geben, in denen Schüler*innen ihre Visionen
+Ebenfalls sollte es Workshops geben, in denen Schüler_innen ihre Visionen
 für die Zukunft erarbeiten können. Insgesamt soll vermittelt werden, dass Politik
 wichtig ist und die Beteiligung einen Einfluss hat und auch Spaß machen kann.
 
-Der Geschichtsunterricht soll die Schüler*innen in die Position versetzen
+Der Geschichtsunterricht soll die Schüler_innen in die Position versetzen
 verantwortungsbewusst Entscheidungen zu treffen und diese in den historischen
 Kontext einordnen zu können. Dabei ist vor allem auch die Geschichte der
 Bürgerrechtsbewegungen weltweit zu zeigen.
 
 Im Wirtschaftsunterricht, der ebenfalls zu diesem Aspekt gehört, sollen den
-Schüler*innen die Grundzüge der Wirtschaft vermittelt werden. Im Rahmen des
+Schüler_innen die Grundzüge der Wirtschaft vermittelt werden. Im Rahmen des
 Unterrichts soll gezeigt werden, welche Entwicklungen es in der Wirtschaft
 in der Menschheitsgeschichte gab und welche Wirtschaftspolitik sich als
 katastrophal erwiesen hat.
 
-Das politische Engagement von Schüler*innen neben der Schule in den Schulgremien
-oder der Schüler*innenvertretung als auch in den Jugendorganisationen der Parteien
+Das politische Engagement von Schüler_innen neben der Schule in den Schulgremien
+oder der Schüler_innenvertretung als auch in den Jugendorganisationen der Parteien
 sollte gefördert werden.
 
 Der letzte Aspekt befasst sich mit der digitalen Kompetenz. Neben den Grundfertigkeiten
 im Umgang mit Computern sollten Datenschutz, Privatsphäre und Programmierung
-ebenso Teil der Schule sein. Die Schüler*innen müssen zu mündigen Bürger*innen
+ebenso Teil der Schule sein. Die Schüler_innen müssen zu mündigen Bürger_innen
 ausgebildet werden und eine souveräne Handhabung von Technologie gehört dazu.
 Die Befassung der Snowden-Enthüllungen und deren Implikationen für die Gesellschaft
 sollte ein zentraler Bestandteil sein.
@@ -723,14 +723,14 @@ zur Finanzierung der Flotte im Ersten Weltkrieg eingeführte Sektsteuer existier
 bis heute. Gleichzeitig ist Steuerhinterziehung zu einem Hobby für multinationale
 Konzerne und Superreiche geworden. Dem Staat entgehen darum jedes Jahr Millionen
 bis Milliarden an Steuereinnahmen. Der Bundesrechnungshof mahnt seit Jahren an,
-dass es in Deutschland zu wenig Steuerfahnder*innen gibt und die vorhandenen zu 
+dass es in Deutschland zu wenig Steuerfahnder_innen gibt und die vorhandenen zu 
 schlecht ausgebildet bzw. ausgestattet sind.
 
 Viele der in vorigen Bereichen angesprochenen Maßnahmen werden Geld kosten.
 Einiges davon lässt sich durch Umverteilung der Ausgaben erreichen (Beispiel
 Grundeinkommen), während anderes (Bildungskonzept) durchgehend massive Mehrmittel
-benötigt. Der erste Schritt ist daher die Zahl der Steuerfahnder*innen massiv zu 
-erhöhen, denn momentan rechnen sich alle zusätzlichen Steuerfahnder*innen und bringen
+benötigt. Der erste Schritt ist daher die Zahl der Steuerfahnder_innen massiv zu 
+erhöhen, denn momentan rechnen sich alle zusätzlichen Steuerfahnder_innen und bringen
 erheblich mehr Steuergelder ein als sie kosten. Ergänzend zu dieser Forderung
 soll Steuerhinterziehung in großem Stil endlich so verfolgt und bestraft werden,
 wie dies entsprechend der Schwere der Tat angemessen ist. Das gesamte am Fiskus
@@ -786,7 +786,7 @@ Wirtschaft werden.
 
 Zusammenfassend ergeben sich diese Forderungen:
 
-  * massiv Steuerfahnder*innen einstellen
+  * massiv Steuerfahnder_innen einstellen
   * rigorose Verfolgung von großer Steuerhinterziehung
   * Nachbesteuerung von vorher unversteuerten oder unterversteuerten Geldmitteln
     in einer Weise, dass korrekte Versteuerung von Beginn an merkbar günstiger 
