@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Eine Progressive Agenda für Deutschland"
-date:   2016-12-02 18:00:00 +0200
+date:   2016-12-04 18:00:00 +0200
 categories: politics
 ---
 
@@ -717,38 +717,149 @@ Insgesamt ergibt sich die Forderung nach einer bedarfsgerechten Ausfinanzierung.
 
 ## Steuer- und Finanzpolitik
 
-Kommen wir zur Steuer- und Finanzpolitik.
+Im Bereich der Steuerpolitik laufen viele Dinge falsch. Die Mittelschicht ächzt
+und der Steuerlast und eine Steuer nach der anderen wird eingeführt. Selbst die
+zur Finanzierung der Flotte im Ersten Weltkrieg eingeführte Sektsteuer existiert
+bis heute. Gleichzeitig ist Steuerhinterziehung zu einem Hobby für multinationale
+Konzerne und Superreiche geworden. Dem Staat entgehen darum jedes Jahr Millionen
+bis Milliarden an Steuereinnahmen. Der Bundesrechnungshof mahnt seit Jahren an,
+dass es in Deutschland zu wenig Steuerfahnder*innen gibt und die vorhandenen zu 
+schlecht ausgebildet bzw. ausgestattet sind.
 
-- mehr Steuerfahnder
-- Steueroasen austrocknen
-- Geld nach Hause bringen und Steuerschlupflöcher rigoros schließen
-- Steuerhinterziehung radikal verfolgen mit drakonischen Strafen (über 50% des
-  unversteuerten oder unterversteuerten Geldes wird eingezogen)
-- Firmen, die Steuern hinterziehen, bekommen keine staatliche Förderung (mehr),
-  werden nicht für Ausschreibungen berücksichtigt und erscheinen auf einer
-  Liste der Unternehmen, die mittelbar die Bürger*innen um Geld betrügen
-- stärkere Bankenaufsicht
-- Finanztransaktionssteuer
-- Finanzwirtschaft muss wieder Dienstleister der produzierenden Wirtschaft werden
+Viele der in vorigen Bereichen angesprochenen Maßnahmen werden Geld kosten.
+Einiges davon lässt sich durch Umverteilung der Ausgaben erreichen (Beispiel
+Grundeinkommen), während anderes (Bildungskonzept) durchgehend massive Mehrmittel
+benötigt. Der erste Schritt ist daher die Zahl der Steuerfahnder*innen massiv zu 
+erhöhen, denn momentan rechnen sich alle zusätzlichen Steuerfahnder*innen und bringen
+erheblich mehr Steuergelder ein als sie kosten. Ergänzend zu dieser Forderung
+soll Steuerhinterziehung in großem Stil endlich so verfolgt und bestraft werden,
+wie dies entsprechend der Schwere der Tat angemessen ist. Das gesamte am Fiskus
+vorbeigeschleuste Geld soll als Bestrafung in einer Weise besteuert werden, dass
+am Ende weniger Geld übrig bleibt, als wenn es gleich korrekt der Steuer zugeführt
+worden wäre. Dadurch wird Steuerhinterziehung unattraktiv, denn durch die höhere
+Entdeckungswahrscheinlichkeit wird das finanzielle Risiko einfach größer als der
+zu erwartende Nutzen.
+Nach den ersten High-Profile-Fällen vor Gericht wird dies zu einem Umdenken
+führen und somit auch die Gerechtigkeit im Land erhöhen.
+
+Zusätzlich zur Bestrafung der Täter soll auch energisch an der Austrocknung
+von Steueroasen gearbeitet werden. Dabei sollen sowohl ausländische als auch
+inländische Steueroasen bekämpft werden. Soweit nötig soll dafür auch das Bankgeheimnis
+bekämpft werden, welches disproportional den Superreichen und Großkonzernen nutzt.
+Zum Erreichen dieses Ziels soll mit anderen Ländern zusammengearbeitet werden.
+
+Da sich einige Großkonzerne sicherlich nicht freiwillig dazu entschließen werden
+ihr Geld in Deutschland zu versteuern, sollen härtere Bandagen angelegt werden.
+Wenn Steuerhinterziehung von Firmen durch Steuerfahnder ermittelt wird, dann
+werden diese umgehend von allen Ausschreibungen ausgeschlossen und verlieren
+alle Steuerermäßigungen und sonstige Deals.
+
+Außerdem werden die Namen dieser Unternehmen bis zur Versteuerung der Gelder
+auf einer Liste der hinterziehenden Unternehmen veröffentlicht. Zusätzlich
+soll es eine Gegenüberstellung aller hinterzogenen Geldmittel mit exemplarischen 
+Projekten geben, die deswegen nicht finanziert werden können.
+
+Doch nicht nur strafbare Steuerhinterziehung ist ein Problem. Auch legale
+Steuervermeidung geht es zu bekämpfen. Von den bislang legalen Möglichkeiten
+können größtenteils reiche Personen und multinationale Konzerne profitieren.
+Um diese Möglichkeiten zu verbauen soll das Steuerrecht vereinfacht werden und
+eine Konsolidierung von mehreren Steuern erwogen werden. Dies ändert nicht 
+zwangsläufig die Steuermenge, reduziert aber den Gesetzestext und die Bürokratie.
+Auch sollen Kapitaleinkünfte endlich in gleichem Maße besteuert werden wie 
+Lohn- und Gehaltseinkünfte.
+
+Es muss wieder an frühere Zeiten in Bezug auf Banken angeknüpft werden und eine
+strikte Trennung zwischen klassischem Bankgeschäft und Spekulation gezogen
+werden. Ebenfalls darf keine Bank so groß sein, dass sie im Krisenfall nicht auch
+pleite gehen kann. Im Zweifelsfall müssen Banken zerschlagen werden. Landesbanken
+dürfen sich nicht an Spekulationen beteiligen.
+
+International muss sich Deutschland für die Einführung einer Finanztransaktionssteuer
+für Spekulationen stark machen. Nach dem Austritt des Vereinigten Königreichs aus 
+der EU wird Frankfurt als Börsenstandort noch wichtiger werden. Vor dem Hintergrund 
+ist Deutschlands Position in dieser Angelegenheit essentiell zu einer flächendeckenden
+Einführung einer solchen Steuer. Diese würde zudem das Endkundengeschäft nicht
+tangieren.
+
+Schlussendlich muss die Finanzwirtschaft wieder Dienstleister der produzierenden
+Wirtschaft werden.
+
+Zusammenfassend ergeben sich diese Forderungen:
+
+  * massiv Steuerfahnder*innen einstellen
+  * rigorose Verfolgung von großer Steuerhinterziehung
+  * Nachbesteuerung von vorher unversteuerten oder unterversteuerten Geldmitteln
+    in einer Weise, dass korrekte Versteuerung von Beginn an merkbar günstiger 
+    wäre
+  * steuerhinterziehende Firmen von Ausschreibungen und Steuerermäßigungen bzw.
+    anderweitigen Deals ausnehmen
+  * Veröffentlichung der Namen hinterziehender Firmen auf einer Liste
+  * Gegenüberstellung von hinterzogenen Mitteln mit deswegen nicht finanzierbaren
+    Projekten
+  * Vereinfachung des Steuerrechts (bspw. Konsolidierung der Steuern)
+  * strikte Trennung zwischen klassischem Bankgeschäft und Spekulation 
+    (wieder-)einführen
+  * Einführung einer Finanztransaktionssteuer auf Spekulationsprodukte
 
 ## Klimapolitik
 
-- 5% der Profite aller großen DAX-Unternehmen (Top 50-100) gehen in einen Fond
-- der finanziert Innovationsprojekte für saubere Energie (u.a. neuartige Speichertechniken,
-  Transporttechnologien, effiziente Energiegewinnung) und soll bezahlbare Technologien
-  hervorbringen
-- 5% der Profilte aller großen DAX-Unternehmen (Top 50-100) gehen in einen Fond
-- dieser wird zur Bekämpfung von Klima-Altlasten verwendet (Rückbau von Atomkraftwerken,
-  Dekontamination von verseuchten Böden, Einbau von Filterung in bestehende
-  klimaschädliche Anlagen, etc.)
-- diese beiden Punkte gelten bis keine fossile Energie mehr produziert wird bzw.
-  alle Altlasten beseitigt sind
-- es erzeugt daher einen Anreiz möglichst innovativ zu sein, um den Zeitraum schnell
-  zu erreichen
+Die Klimapolitik ist die Alternativloseste von allen. Denn hierbei geht es um
+nicht weniger als die Fortexistenz der Menschheit. Die wissenschaftlichen
+Befunde sind eindeutig: Klimawandel existiert, ist in hohem Maße durch den Menschen
+verursacht und die Zeit etwas zu tun läuft uns davon. Daher muss zeitnah und
+mutig gehandelt werden, um die Herausforderung zu meistern und den Klimawandel
+zu bekämpfen bevor sogenannte Tip-of-Points erreicht werden, ab denen Kettenreaktionen
+den Klimawandel verstärken.
 
-- Umsetzung des Klimaabkommens von Paris und Übertreffen der Commitments
-- Streichung aller Subventionen an Unternehmen, die fossile Brennstoffe produzieren
-- kein Fracking erlauben
-- Kohle-Steuer einführen, die die Umweltzerstörung durch fossile Brennstoffe einpreist
-  und somit angesichts der (zu erwartenden) Klimaschäden zu einem faireren Wettbewerb führt
+Vor dem Hintergrund der enormen Anstrengungen, die nötig sein werden, ergeben
+sich drastische Schritte. 5% der Profite der 50 größten DAX-Unternehmen sollen
+in einen Fond gehen, der Innovationsprojekte für saubere Energie finanziert.
+Dies können neuartige Speichertechnologien, Transporttechnologien, Technologien
+zur effizienten Energiegewinnung oder ähnliche Projekte sein. Die hervorgehenden
+Technologien sollen bezahlbar sein. Diese Regelung bleibt in Kraft bis keine
+fossile Energie mehr produziert wird in Deutschland und zuverlässig 100% des 
+Strom- und Wärmebedarfs aus erneuerbaren Energien gedeckt werden.
 
+Weitere 5% der Profite derselben Unternehmen gehen in einen weiteren Fond. Die
+Mittel dieses Fonds werden zur Bekämpfung von Klima-Altlasten verwendet, wie
+bspw. dem Rückbau von AKWs, der Dekontamination von verseuchten Böden oder dem
+Einbau von Filtertechnologien in noch bestehende klimaschädliche Anlagen. Die
+Regelung bleibt in Kraft bis alle Altlasten beseitigt sind.
+
+Beide Punkte erzeugen einen Anreiz möglichst innovativ zu sein und schnellstmöglich
+die Energiewende zu schaffen.
+
+Diese Maßnahmen dienen auch zur Erreichung der Ziele des Klimaabkommens von Paris
+und sollen dazu geeignet sein die dort vereinbarten Ziele sogar zu übertreffen.
+Es sollen alle Subventionen an Unternehmen, die fossile Brennstoffe produzieren,
+gestrichen werden. Ebenfalls soll Fracking verboten sein.
+
+Es soll eine Kohlesteuer eingeführt werden, die die Umweltzerstörung
+durch fossile Brennstoffe einpreist und somit überhaupt erst zu einem annähernd
+fairen Wettbewerb führt. Im Gegenzug sollen Unternehmenssteuern an anderer Stelle
+gesenkt werden, sodass das Steueraufkommen nahezu identisch bleibt. Dadurch werden
+hauptsächlich die Unternehmen getroffen, die am meisten für die Zerstörung der
+Umwelt verantwortlich sind.
+
+Um die Klimaziele zu erreichen, dürfen ferner keinerlei fossile Projekte mehr
+genehmigt werden und bestehende sind schnellstmöglich zu beenden.
+
+Zusammenfassend ergeben sich diese Forderungen:
+
+  * 5% der DAX Top 50 Profite in Fond zur Finanzierung von Innovationsprojekten 
+    für saubere Energie
+  * 5% der DAX Top 50 Profite in Fond zur Bekämpfung von Klima-Altlasten
+  * Stop aller Subventionen an fossile Brennstoffe produzierende Unternehmen
+  * generelles Verbot von Fracking
+  * Einführung einer Kohlesteuer - Ausgleich durch Steuersenkung für Unternehmen
+    an anderer Stelle
+  * Genehmigungsstopp für neue Projekte zur Förderung fossiler Energien
+
+## Abschließende Worte
+
+Diese Agenda ist kein detailliertes Regierungsprogramm. Sie umfasst die allgemeine
+Agenda für die Gesellschaft und essentielle Bestandteile dieser. Allerdings
+ist es auch klar, dass es erheblich mehr Politikfelder gibt, als die hier
+Abgebildeten. Es kann daher sein, dass einzelne Details nicht erwähnt sind. Dies
+tut der Agenda jedoch keinen Abbruch, denn sie bietet eine gute Übersicht über 
+die Richtung, die Deutschland gehen sollte.
