@@ -132,7 +132,7 @@ Kurze Zusammenfassung der bisherigen Argumentation:
 ### militärische Auslandseinsätze
 
 Wir kommen zum wohl schwierigsten Part des ganzen Themas. Welche militärischen
-Auslandseinsätze nicht OK und welche nicht? Oder wollen wir gar keine?
+Auslandseinsätze sind OK und welche nicht? Oder wollen wir gar keine?
 
 Es gibt eine notwendige Bedingung, bevor ein Einsatz überhaupt erwogen wird.
 Der Einsatz muss völkerrechtskonform sein. Das geht durch folgende zwei
