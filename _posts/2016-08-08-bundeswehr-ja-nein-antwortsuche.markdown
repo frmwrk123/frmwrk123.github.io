@@ -298,7 +298,7 @@ sorgen für ein Erfolgsgefühl und reduzieren Fluchtursachen. Ein gutes
 Beispiel dafür ist die 
 [Bekämpfung von Ebola in Sierra Leone](https://media.ccc.de/v/32c3-7561-how_open_source_software_second_hand_laptops_and_hackers_helped_stop_ebola_and_stopped_an_apocalypse).
 
-## Einstellung zu den Soldat*innen der Bundeswehr
+## Einstellung zu den Soldat_innen der Bundeswehr
 
 Im Militär zu arbeiten ist nicht ein Job wie jeder andere. Aber es wäre auch falsch
 zu behaupten, dass alle Militärangehörige Spaß am Töten hätten und Monster seien.
@@ -313,22 +313,22 @@ wird und man z.B. auf der Gamescom versucht Jugendliche für die Bundeswehr zu b
 Allerdings kann man auch nicht für eine Bundeswehr sein ohne diese Problematik
 zumindest zu erörtern.
 
-Ganz wichtig wäre die Änderung der Einstellung zu den Soldat*innen im Einsatz.
+Ganz wichtig wäre die Änderung der Einstellung zu den Soldat_innen im Einsatz.
 Diese suchen sich die Auslandseinsätze nicht aus. Von daher sind auch sie
 nicht Schuld an den Folgen der Einsätze, sondern die Politiker, die eben jene
 Einsätze befürworten. Wenn wir die Bundeswehr auf Einsätze schicken, dann
-muss sie auch für die Einsätze gut ausgerüstet sein und die Soldat*innen müssen
+muss sie auch für die Einsätze gut ausgerüstet sein und die Soldat_innen müssen
 die Unterstützung vor, während und NACH dem Einsatz bekommen, die sie verdienen.
 Wer unter PTBS bzw. PTSD (engl.) leidet, muss die notwendige medizinische Versorgung
 bekommen und es darf nicht darauf hinauslaufen, dass medizinisches Personal
 Empfehlungen geben muss, die nicht dem besten gesundheitlichen Interesse des
-Patienten/der Patientin dienen. Wer nicht mehr an sich nicht mehr in einen Einsatz
+Patienten/der Patientin dienen. Wer nicht mehr in einen Einsatz
 sollte, dem muss ein Psychologe/Mediziner auch sagen dürfen, dass die Bundeswehr
 nicht mehr der richtige Arbeitsort ist.
 
 Genauso wie wir die Fluchtursachen bekämpfen müssen und nicht die Symptome
-(Flüchtlinge), müssen wir auch die Entscheidungsträger zur Verantwortung
-ziehen und nicht die Soldat*innen verantwortlich machen. Es muss ein
+(Geflüchtete), müssen wir auch die Entscheidungsträger zur Verantwortung
+ziehen und nicht die Soldat_innen verantwortlich machen. Es muss ein
 Ende geben mit den sog. Bauernopfern wenn es einen Skandal gibt. Es wird Zeit,
 dass eine grundlegende Aufarbeitung stattfindet bevor man den Skandal für beendet
 erklärt.
