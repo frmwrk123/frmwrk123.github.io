@@ -377,7 +377,7 @@ Dieses Grundeinkommen würde die vielen Sozialausgaben ersetzen und somit eine m
 Bürokratieverringerung mit sich bringen, bestehende Sozialhilfeempfänger_innen
 aus der faktischen Stigmatisierung befreien und allen Bürger_innen ein menschenwürdiges
 Leben ermöglichen. Niemand wäre mehr gezwungen gegen die Würde einen Job anzunehmen,
-nur um zu überleben oder sich die Pein des HartIV zu geben. Damit wäre Artikel 1
+nur um zu überleben oder sich die Pein des HartzIV zu geben. Damit wäre Artikel 1
 des Grundgesetzes endlich erfüllt. Selbst sehr wirtschaftsnahe Verbände wie der IWF
 fordern mittlerweile ein solches Grundeinkommen. Umsetzbar wäre es ebenfalls, wenn
 bedacht wird, dass die gesamte Überprüfungsbürokratie wegfällt und damit deren
