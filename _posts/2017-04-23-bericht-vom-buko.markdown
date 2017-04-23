@@ -43,6 +43,7 @@ Der Marktplatz umschließt die Heidelberger Heiliggeistkirche an deren Außenfas
 u.a. kleine Souvenirshops zu finden sind.
 
 ![Marktplatz mit Blick auf Heiliggeistkirche](https://media.2martens.de/images/buko48-heidelberg/DSC09343.JPG)
+
 ![Turm der Heiliggeistkirche](https://media.2martens.de/images/buko48-heidelberg/DSC09344.JPG)
 
 "Die Heiliggeistkirche ist die größte und bedeutendste Kirche in Heidelberg. Mit 
@@ -85,12 +86,14 @@ schließlich zum Hauptteil des Marktplatzes zu kommen. Dort ist das Rathaus
 Heidelbergs zu sehen, vor dem eine Hochzeitsfeier stattfand. 
 
 ![Marktplatz mit Blick auf Rathaus](https://media.2martens.de/images/buko48-heidelberg/DSC09353.JPG)
+
 ![Rathaus mit Hochzeit](https://media.2martens.de/images/buko48-heidelberg/DSC09355.JPG)
 
 Vom Marktplatz ging es weiter Richtung Schloss - vorbei am Karlsplatz und der
 Stadthaltestelle der berühmten Heidelberger Bergbahnen.
 
 ![Karlsplatz](https://media.2martens.de/images/buko48-heidelberg/DSC09357.JPG)
+
 ![Karlsplatz mit Blick auf Bergbahnhaltestelle](https://media.2martens.de/images/buko48-heidelberg/DSC09359.JPG)
 
 Nach einem kurzen, steilen und anstrengendem Anstieg bin ich dann auf dem Weg
@@ -106,9 +109,13 @@ den Weg "bezwungen" hatte und die wunderbare Aussicht genießen konnte. Die näc
 paar Eindrücke daher ohne Worte.
 
 ![Weg zum Schlosspark](https://media.2martens.de/images/buko48-heidelberg/DSC09361.JPG)
+
 ![Fassade des Schlosses](https://media.2martens.de/images/buko48-heidelberg/DSC09363.JPG)
+
 ![Blick auf den erklommenen Weg](https://media.2martens.de/images/buko48-heidelberg/DSC09365.JPG)
+
 ![Blick vom Park auf den Schloss](https://media.2martens.de/images/buko48-heidelberg/DSC09371.JPG)
+
 ![Ostfassade des Schlosses](https://media.2martens.de/images/buko48-heidelberg/DSC09376.JPG)
 
 Auf den markanten Bogen wandelnd, konnte ich das gesamte Tal mit der Altstadt
@@ -116,12 +123,15 @@ Heidelbergs bewundern. Es war eine wahrhaft sagenhafte Aussicht. Einst beschritt
 auch Goethe diese Pfade.
 
 ![Panoramablick](https://media.2martens.de/images/buko48-heidelberg/DSC09390.JPG)
+
 ![Weinhang am anderen Neckarufer](https://media.2martens.de/images/buko48-heidelberg/DSC09392.JPG)
+
 ![Goethe-Denkmal](https://media.2martens.de/images/buko48-heidelberg/DSC09393.JPG)
 
 Mein Weg führte mich im Anschluss zum Vater Rhein und zur Großen Grotte.
 
 ![Vater Rhein](https://media.2martens.de/images/buko48-heidelberg/DSC09397.JPG)
+
 ![Große Grotte](https://media.2martens.de/images/buko48-heidelberg/DSC09403.JPG)
 
 
@@ -132,7 +142,9 @@ vollständig umgesetzt wurde. Später ist der Garten als Landschaftsgarten
 umgestaltet worden.
 
 ![Radierung mit Design des Pfälzischen Gartens](https://media.2martens.de/images/buko48-heidelberg/DSC09408.JPG)
+
 ![Erklärtafel zum Schloss Heidelberg](https://media.2martens.de/images/buko48-heidelberg/DSC09410.JPG)
+
 ![Design des Landschaftsgartens](https://media.2martens.de/images/buko48-heidelberg/DSC09411.JPG)
 
 Zurück in der Stadt bin ich am letzten noch funktionstüchtigen Wasserteilkasten
@@ -215,6 +227,7 @@ Damit neigt sich der Sonntag auch schon einem Ende zu. Bevor ich jedoch ganz
 gegangen bin, habe ich noch ein paar Bilder von der Schule gemacht.
 
 ![Lageplan der Schule](https://media.2martens.de/images/buko48-heidelberg/DSC09442.JPG)
+
 !["Stein der Weisen" oder wo ein Antragssong entstand](https://media.2martens.de/images/buko48-heidelberg/DSC09439.JPG)
 
 # Heidelberg - Teil 2
@@ -225,15 +238,25 @@ Dinge abgegriffen, die ich am Freitag vergessen hatte.
 Diese folgen hier einfach ohne Kommentar.
 
 ![Luftqualität am Bismarckplatz](https://media.2martens.de/images/buko48-heidelberg/DSC09451.JPG)
+
 ![Statue vor dem Friedrichsbau](https://media.2martens.de/images/buko48-heidelberg/DSC09458.JPG)
+
 ![Chronik Teil 1.1](https://media.2martens.de/images/buko48-heidelberg/DSC09460.JPG)
+
 ![Chronik Teil 1.2](https://media.2martens.de/images/buko48-heidelberg/DSC09461.JPG)
+
 ![Chronik Teil 1.3](https://media.2martens.de/images/buko48-heidelberg/DSC09462.JPG)
+
 ![Chronik Teil 1 Bild](https://media.2martens.de/images/buko48-heidelberg/DSC09463.JPG)
+
 ![Chronik Teil 2.1](https://media.2martens.de/images/buko48-heidelberg/DSC09470.JPG)
+
 ![Chronik Teil 2.2](https://media.2martens.de/images/buko48-heidelberg/DSC09473.JPG)
+
 ![Chronik Teil 2.3](https://media.2martens.de/images/buko48-heidelberg/DSC09472.JPG)
+
 ![Chronik Teil 2 Bild](https://media.2martens.de/images/buko48-heidelberg/DSC09474.JPG)
+
 ![Chronik Teil 2 Bild 2](https://media.2martens.de/images/buko48-heidelberg/DSC09475.JPG)
 
 Da ich noch etwas Zeit hatte, habe ich mich bei einem Café gesetzt und eine
@@ -259,13 +282,16 @@ stand einst das Speyerer Tor.
 Abschließend habe ich noch ein paar Bilder vom Heidelberger Hauptbahnhof nachgeholt.
 
 ![Geschichte Hbf](https://media.2martens.de/images/buko48-heidelberg/DSC09450.JPG)
+
 ![Heidelberg Hbf Richtung Süden/Osten](https://media.2martens.de/images/buko48-heidelberg/DSC09479.JPG)
+
 ![Heidelberg Hbf Richtung Mannheim/Weinheim](https://media.2martens.de/images/buko48-heidelberg/DSC09491.JPG)
 
 Damit schließt sich der Kreis. Vom kurzen Zwischenhalt in Mannheim folgen noch
 ein Bild vom Bahnhofsvorplatz und dem Eingangsportal zum Bahnhof.
 
 ![Mannheim Hbf Bahnhofsvorplatz](https://media.2martens.de/images/buko48-heidelberg/DSC09497.JPG)
+
 ![Mannheim Hbf Eingangsportal](https://media.2martens.de/images/buko48-heidelberg/DSC09500.JPG)
 
 # Ausblick 
