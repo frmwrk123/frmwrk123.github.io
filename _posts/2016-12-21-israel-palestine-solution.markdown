@@ -28,7 +28,7 @@ the land), you would be quick to criticize it for this behaviour. Especially
 if the people in the occupied area are treated worse than the citizens of the
 occupying country. Now take the same behaviour but this time it's not a dictatorship
 but a liberal democracy doing it. Would you criticize them in the same way?
-You might say Yes no but you won't. The reason is that you value a liberal
+You might say Yes but you won't. The reason is that you value a liberal
 democracy with a ground positive value while the dictatorship has a ground
 negative value before considering anything else. Therefore - in plain English -
 a democracy has to behave more illegaly and/or has to be fucked up more, before
