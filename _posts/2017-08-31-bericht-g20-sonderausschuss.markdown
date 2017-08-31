@@ -5,8 +5,8 @@ date:   2017-08-31 18:00:00 +0200
 categories: politics, G20
 ---
 
-Am heutigen Tage (31. August 2017) fand die konstituierende Sitzung des G20-
-Sonderausschusses statt. Wer darauf hoffte, dass diese Sitzung mittels Livestream
+Am heutigen Tage (31. August 2017) fand die konstituierende Sitzung des 
+G20-Sonderausschusses statt. Wer darauf hoffte, dass diese Sitzung mittels Livestream
 übertragen wird, wurde enttäuscht. Der Livestream wird erst ab der nächsten Sitzung
 vorhanden sein. Dafür gibt es formale Gründe, denn ein Livestream wird einstimmig
 befürwortet. Die Arbeit des Ausschusses wird sich chronologisch in drei Zeitebenen
