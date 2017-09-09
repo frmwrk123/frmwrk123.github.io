@@ -67,19 +67,19 @@ das Wetter nicht das beste und der Gendarmenmarkt nicht annähernd voll. Dennoch
 hier ein paar Impressionen von der heutigen Demo.
 
 Der ehemalige Bundesdatenschutzbeauftragte war einer der Redner*innen auf der Bühne.
-[!Peter Schaar spricht auf der Kundgebung](https://media.2martens.de/images/freiheit40-demo-berlin2017/DSC02092.JPG)
+![Peter Schaar spricht auf der Kundgebung](https://media.2martens.de/images/freiheit40-demo-berlin2017/DSC02092.JPG)
 
 Auf einem Teil des Platzes befanden sich Infostände für interessierte Gäste.
-[!Infostände Teil 1](https://media.2martens.de/images/freiheit40-demo-berlin2017/DSC02093.JPG)
-[!Infostände Teil 2](https://media.2martens.de/images/freiheit40-demo-berlin2017/DSC02094.JPG)
-[!GRÜNE JUGEND Stand](https://media.2martens.de/images/freiheit40-demo-berlin2017/DSC02096.JPG)
-[!Flyer und Sticker für die Revolution](https://media.2martens.de/images/freiheit40-demo-berlin2017/DSC02097.JPG)
+![Infostände Teil 1](https://media.2martens.de/images/freiheit40-demo-berlin2017/DSC02093.JPG)
+![Infostände Teil 2](https://media.2martens.de/images/freiheit40-demo-berlin2017/DSC02094.JPG)
+![GRÜNE JUGEND Stand](https://media.2martens.de/images/freiheit40-demo-berlin2017/DSC02096.JPG)
+![Flyer und Sticker für die Revolution](https://media.2martens.de/images/freiheit40-demo-berlin2017/DSC02097.JPG)
 
 Auch die FDP und die Jungen Liberalen waren vertreten. Ebenso die Piraten,
 Bündnis 90/Die GRÜNEN, die GRÜNE JUGEND und Demokratie in Bewegung. Von den LINKEN, 
 der SPD und den anderen Parteien keine Spur.
-[!Botschaft der Jungen Liberalen](https://media.2martens.de/images/freiheit40-demo-berlin2017/DSC02107.JPG)
+![Botschaft der Jungen Liberalen](https://media.2martens.de/images/freiheit40-demo-berlin2017/DSC02107.JPG)
 
 Die GRÜNE JUGEND konnte mit der größten Fahne aufwarten.
-[!Größte Fahne](https://media.2martens.de/images/freiheit40-demo-berlin2017/DSC02113.JPG)
+![Größte Fahne](https://media.2martens.de/images/freiheit40-demo-berlin2017/DSC02113.JPG)
 
