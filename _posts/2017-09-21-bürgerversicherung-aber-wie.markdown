@@ -20,7 +20,7 @@ an der bisherigen gesetzlichen Krankenversicherung oder an der privaten orientie
 
 Ein Abschnitt ist insbesondere interessant:
 
-"Mit der Bürger*innenversicherung wäre Gesundheit stabil, zukunftsfest und 
+"Mit der Bürger\*innenversicherung wäre Gesundheit stabil, zukunftsfest und 
 fair finanziert und alle  Kassen  würden  auf  Grundlage  eines  weniger 
 manipulationsan fälligen Risikoausgleichs um die beste Versorgung konkurrieren."
 (Quelle: Bundestagswahlprogramm Bündnis 90/Die GRÜNEN)
@@ -31,9 +31,9 @@ Arten von Versorgung? Wenn es um die medizinische Versorgung geht, stellt
 sich ernsthaft die Frage, wie Kassen ohne extra Finanzierung eine bessere
 Versorgung ermöglichen können. 
 
-Das Wahlprogramm lässt auch offen, ob aktuell nur Privatpatient*innen zugängliche
+Das Wahlprogramm lässt auch offen, ob aktuell nur Privatpatient\*innen zugängliche
 Leistungen wie freie Arztwahl, kaum Wartezeiten, sinnvolle Vorsorgeleistungen wie 
-professionelle Zahnreinigung in Zukunft endlich allen Patient*innen zugänglich
+professionelle Zahnreinigung in Zukunft endlich allen Patient\*innen zugänglich
 sein werden oder ob der Zugang dazu quasi verboten wird.
 
 Rein logisch muss es weiterhin möglich sein, die bestmögliche medizinische
@@ -45,10 +45,13 @@ nur zwei Umsetzungsmöglichkeiten:
 - Grundversorgung für **alle** und bestmögliche Versorgung als Zusatz für Leute,
   die es sich leisten können
 
+Die erste Option lässt sich kaum finanzieren.
 Die zweite Option hätte zwar weiterhin zwei Klassen, aber mit dem Vorteil, dass
 man sich "private" Qualität egoistisch erkaufen kann, aber solidarisch die Grundversorgung
 finanziert und ohne Gesundheitscheck auf die Grundversorgung zurückgehen kann, 
-wenn es finanziell enger wird. Die erste Option lässt sich kaum finanzieren.
+wenn es finanziell enger wird. Wenn Zusatzleistungen als allgemein sinnvoll
+befunden werden, dann wandern sie vom Zusatzbereich in den Grundversorgungsbereich.
+Eine Entnahme von Leistungen aus der Grundversorgung muss ausgeschlossen sein.
 
 Ergo: Eine Zweiklassenmedizin wird sich nicht effektiv abschaffen lassen, außer
 man zwingt alle zu einer Qualität, die nicht die beste ist.
