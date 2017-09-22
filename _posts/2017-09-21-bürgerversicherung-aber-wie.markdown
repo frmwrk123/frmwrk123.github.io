@@ -14,7 +14,7 @@ nicht das Ziel sein.
 Ein Blick in das Wahlprogramm der GRÜNEN deutet zwar in eine Richtung, klärt
 aber die Details nicht wirklich auf. Für ein wirkliches Verständnis, wie die
 Bürger\*innenversicherung praktisch aussieht, lohnt sich daher ein Blick in
-einen Flyer der Bundestagsfraktion der GRÜNEN, welcher im Jahr 2016 entstand.
+einen [Flyer der Bundestagsfraktion der GRÜNEN][0], welcher im Jahr 2016 entstand.
 
 Dabei verändert die Versicherung anders als es bspw. Herr Lindner behauptet,
 nicht die Struktur der Anbieterseite. Es wird keine Einheitskasse geben.
@@ -45,3 +45,5 @@ ohne wirklich Nachteile entstehen zu lassen. Die Zweiklassengesellschaft wird
 aufgelöst und die medizinische Versorgung verbessert.
 
 #DarumGrün
+
+[0]: https://www.gruene-bundestag.de/fileadmin/media/gruenebundestag_de/publikationen/broschueren_und_flyer/flyer_buergerversicherung.pdf
