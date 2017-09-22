@@ -12,52 +12,36 @@ Versorgung würde in der Tat schlechte Leistung für Alle bedeuten und kann
 nicht das Ziel sein.
 
 Ein Blick in das Wahlprogramm der GRÜNEN deutet zwar in eine Richtung, klärt
-aber die essentielle Frage zur effektiven medizinischen Versorgung nicht wirklich.
-Die Qualität soll sich verbessern, es soll eine bessere Vernetzung und Versorgung
-in der Fläche sichergestellt werden. Soweit ganz gut. Aber leider wird mit keinem
-Wort erklärt, ob die neue Versicherung sich in der medizinischen Versorgung
-an der bisherigen gesetzlichen Krankenversicherung oder an der privaten orientiert.
+aber die Details nicht wirklich auf. Für ein wirkliches Verständnis, wie die
+Bürger\*innenversicherung praktisch aussieht, lohnt sich daher ein Blick in
+einen Flyer der Bundestagsfraktion der GRÜNEN, welcher im Jahr 2016 entstand.
 
-Ein Abschnitt ist insbesondere interessant:
+Dabei verändert die Versicherung anders als es bspw. Herr Lindner behauptet,
+nicht die Struktur der Anbieterseite. Es wird keine Einheitskasse geben.
+Stattdessen bleiben die bisherigen gesetzlichen Krankenkassen und privaten
+Versicherungsunternehmen bestehen. Die Bürger\*innenversicherung stellt im
+Endeffekt eine einheitliche Versicherungspolice mit gleichen Bedingungen dar.
 
-"Mit der Bürger\*innenversicherung wäre Gesundheit stabil, zukunftsfest und 
-fair finanziert und alle  Kassen  würden  auf  Grundlage  eines  weniger 
-manipulationsan fälligen Risikoausgleichs um die beste Versorgung konkurrieren."
-(Quelle: Bundestagswahlprogramm Bündnis 90/Die GRÜNEN)
+Jede Kasse und jedes Unternehmen kann dabei den Beitragssatz selber anpassen
+und verschiedene Leistungen anbieten. Der Beitrag darf sich aber nur nach dem
+Einkommen richten und ein Wechsel zwischen verschiedenen Anbietern ist jederzeit
+und ohne Nachteile möglich. Kein Mensch darf irgendwo abgewiesen werden. Es gibt
+also einen Aufnahmezwang. Die Police garantiert eine hochqualitative Leistung,
+da sie einen Satz an obligatorischen Leistungen enthält, die von **allen**
+Anbietern bezahlt werden müssen. Arbeitgeber werden auch wieder paritätisch
+an den Kosten beteiligt. Über die Basis hinaus können Zusatzversicherungen 
+abgeschlossen werden. Anders als bisher gibt es aufgrund des freien Wechsels
+zwischen den Anbietern bei gleicher Grundversorgung und ohne Diskriminierung 
+erstmals einen echten und fairen Wettbewerb.
 
-Da stellt sich doch sofort die Frage, auf welche Weise um die Versorgung
-konkurriert werden kann. Geht es um eine medizinische Versorgung oder andere
-Arten von Versorgung? Wenn es um die medizinische Versorgung geht, stellt
-sich ernsthaft die Frage, wie Kassen ohne extra Finanzierung eine bessere
-Versorgung ermöglichen können. 
+Um verschiedene Risikobelastungen zu vermeiden, wird es eine Umverteilung 
+der Einnahmen zwischen den Kassen und Versicherern geben, damit kein Anbieter
+über Gebühr durch Risiken belastet ist. Anbieter mit unterdurchschnittlichen
+Risiken geben also Geld ab und solche mit höherem Risiko bekommen Geld.
 
-Das Wahlprogramm lässt auch offen, ob aktuell nur Privatpatient\*innen zugängliche
-Leistungen wie freie Arztwahl, kaum Wartezeiten, sinnvolle Vorsorgeleistungen wie 
-professionelle Zahnreinigung in Zukunft endlich allen Patient\*innen zugänglich
-sein werden oder ob der Zugang dazu quasi verboten wird.
-
-Rein logisch muss es weiterhin möglich sein, die bestmögliche medizinische
-Versorgung zu bekommen. Ansonsten wären Menschen gesetzlich daran gehindert die
-beste Versorgung zu bekommen und das wäre ein Skandal. Daher bleiben eigentlich
-nur zwei Umsetzungsmöglichkeiten:
-
-- die bestmögliche medizinische Versorgung für **alle**
-- Grundversorgung für **alle** und bestmögliche Versorgung als Zusatz für Leute,
-  die es sich leisten können
-
-Die erste Option lässt sich kaum finanzieren.
-Die zweite Option hätte zwar weiterhin zwei Klassen, aber mit dem Vorteil, dass
-man sich "private" Qualität egoistisch erkaufen kann, aber solidarisch die Grundversorgung
-finanziert und ohne Gesundheitscheck auf die Grundversorgung zurückgehen kann, 
-wenn es finanziell enger wird. Wenn Zusatzleistungen als allgemein sinnvoll
-befunden werden, dann wandern sie vom Zusatzbereich in den Grundversorgungsbereich.
-Eine Entnahme von Leistungen aus der Grundversorgung muss ausgeschlossen sein.
-
-Ergo: Eine Zweiklassenmedizin wird sich nicht effektiv abschaffen lassen, außer
-man zwingt alle zu einer Qualität, die nicht die beste ist.
-
-Es sind also noch Fragen offen, die es zu klären gilt. Die Offenheit im Wahlprogramm
-ermöglicht die Hoffnung, dass am Ende die richtige Option gewinnt. Ein Verbleiben
-im Status Quo ist in jedem Fall nicht hinnehmbar.
+Die Versicherung umfasst in Wahrheit noch viel mehr Maßnahmen. Die wichtigsten
+Aspekte wurden aber hier dargelegt. Eine solche Versicherung hat viele Vorteile
+ohne wirklich Nachteile entstehen zu lassen. Die Zweiklassengesellschaft wird
+aufgelöst und die medizinische Versorgung verbessert.
 
 #DarumGrün
