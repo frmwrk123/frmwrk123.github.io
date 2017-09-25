@@ -164,7 +164,7 @@ mich in den LaVo eingelebt und mein Vollzeit-Masterstudium begonnen. Dort war
 ich buchstäblich am Limit. Der persönliche Kontakt mit den führenden Hamburger
 GRÜNEN, allen voran Anna Gallina, war dann gepaart mit der Möglichkeit das
 Parteiprogramm zu beeinflussen der Grund für den Eintritt in die Partei im
-Januar/Februar des Jahres. Die Entscheidung des GRÜNEN LaVo zu den Abschiebungen
+Januar/Februar des Jahres 2017. Die Entscheidung des GRÜNEN LaVo zu den Abschiebungen
 nach Afghanistan war dort ein wichtiger Faktor, der mich davon überzeugt hat, 
 dass meine inhaltliche Position und die der Hamburger GRÜNEN nicht so weit
 auseinander ist. Auch mein Kreisverband scheint veranschaulicht durch  Anna Gallina, 
