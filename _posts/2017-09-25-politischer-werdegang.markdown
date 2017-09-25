@@ -131,6 +131,17 @@ Studierendenparlaments zusammen mit jemandem von der Liste Links und dem RCDS.
 In dieser Funktion habe ich die Wahlen für rund 40.000 Studierende maßgeblich 
 mitorganisiert.
 
+Im Frühjahr 2016 hat sich auch Diem25 gegründet. Ich bin seit Gründung Mitglied
+und finde es absolut wichtig, dass weder der Status Quo beibehalten noch in die
+Nationalstaaten zurückgekehrt wird. In dieser Richtung sind mir auch die GRÜNEN
+nach wie vor viel zu dicht an Merkels Politik orientiert. Ohne grundlegende
+Reformen kann die EU nicht gerettet werden. Diem25 hat mit dem [European New Deal][2]
+den richtigen Plan dazu. Die Europawahlen im Jahr 2019 müssen dafür sorgen, dass
+eine parlamentarische Mehrheit diesen Plan unterstützt. Ich kann nur hoffen,
+dass die GRÜNEN die Zeichen der Zeit erkennen und diesen Plan unterstützen.
+
+[2]: https://diem25.org/end
+
 ## Erstes Parteiengagement
 
 Der September 2016 war vor allem wegen der großen Anti-CETA-Demo bedeutsam. Zur
