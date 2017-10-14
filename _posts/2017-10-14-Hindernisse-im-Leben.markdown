@@ -27,7 +27,7 @@ trägt.
 
 Können solche U-Catastrophies (das Gegenteil von Katastrophen) auch im echten
 Leben passieren? Oder sind sie lediglich Teil von geschriebenen Geschichten?
-Es ist meine Überzeugung, dass solche Freundschaften auch im echten Leben
+Es ist meine Überzeugung, dass solche U-Catastrophies auch im echten Leben
 entstehen können.
 
 Berühmte Beispiele sind Hurricanes wie Katrina, die eine Schicksalsgemeinschaft
