@@ -77,8 +77,8 @@ bekannte Strukturen. Es könnte sich Traurigkeit einstellen, eventuell auch
 Depression. Im schlimmsten Fall könnte es zu Suizidgefährdung führen.
 
 Etwas weniger schlimm aber dafür über einen längeren Zeitraum hatte ich
-tatsächlich so eine Weggabelungssituation. Vom Kindergarten bis zum Ende der
-\10. Klasse wurde ich gemobbt. Meinen Bruder konnte ich auch nicht unbedingt
+tatsächlich so eine Weggabelungssituation. Vom Kindergarten bis zum Ende der 10.
+Klasse wurde ich gemobbt. Meinen Bruder konnte ich auch nicht unbedingt
 leiden. Diese dauerhaft beschissene Situation ging so weit, dass ich teilweise
 die Pausen vor dem Lehrerzimmer verbrachte und teilweise nicht mehr zur Schule
 wollte. Freund\*innen hatte ich in der Zeit keine. Die einzige Freizeitaktivität
