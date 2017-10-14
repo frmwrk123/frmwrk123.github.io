@@ -51,7 +51,7 @@ sich auch noch die Eltern von Augustus und in Folge dessen muss Augustus eine
 Wohnung vom Jugendamt bekommen. Diese Dreierpackung an übertragenen Faustschlägen
 ins Gesicht würde viele Menschen auf den Boden zwingen. An dieser Stelle eröffnet
 sich eine Kreuzung im Lebensweg. Wie geht das Leben von Augustus an dieser Stelle
-weiter? Dies lasse ich offen, damit sich alle Leser*innen diese Situation selber
+weiter? Dies lasse ich offen, damit sich alle Leser\*innen diese Situation selber
 vorstellen und überlegen können, wie sie in der Situation agieren würden.
 
 Allerdings werde ich darlegen, welche Faktoren die Zukunft von Augustus maßgeblich
@@ -59,10 +59,10 @@ beeinflussen. Das mache ich daran deutlich, was für mich in so einer Situation
 wichtig wäre.
 
 Nach so einer Ereigniskette und nach Wegfall der Eltern als Stütze wäre es für
-mich zentral, dass ich Freund*innen habe, mit denen ich über die Erfahrungen reden
+mich zentral, dass ich Freund\*innen habe, mit denen ich über die Erfahrungen reden
 kann und die mir eine Konstante bieten, an der ich mich orientieren kann.
 Dadurch könnte ich trotz aller widrigen Umstände vernünftig bleiben und mir
-mithilfe meiner Freund*innen eine neue Existenz aufbauen. Auch die Schule wäre
+mithilfe meiner Freund\*innen eine neue Existenz aufbauen. Auch die Schule wäre
 in so einer Situation eine Konstante, die eine Neustrukturierung des Lebens
 erleichtert.
 Mit diesen beiden Stützen wäre es unter Umständen möglich bereits früher als
@@ -81,7 +81,7 @@ tatsächlich so eine Weggabelungssituation. Vom Kindergarten bis zum Ende der
 \10. Klasse wurde ich gemobbt. Meinen Bruder konnte ich auch nicht unbedingt
 leiden. Diese dauerhaft beschissene Situation ging so weit, dass ich teilweise
 die Pausen vor dem Lehrerzimmer verbrachte und teilweise nicht mehr zur Schule
-wollte. Freund*innen hatte ich in der Zeit keine. Die einzige Freizeitaktivität
+wollte. Freund\*innen hatte ich in der Zeit keine. Die einzige Freizeitaktivität
 waren Computerspiele.
 
 Mein Lebensweg hätte sich an unzähligen Momenten in eine düstere Entwicklung
