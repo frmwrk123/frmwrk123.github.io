@@ -107,17 +107,6 @@ Viele Fragen drehten sich um die von Herrn Scholz im Vorfeld abgegebene
 Sicherheitsgarantie. Die Antworten waren meistens ausweichend. Letztlich
 gibt es in den Aussagen einen zumindest scheinbaren Hauptwiderspruch.
 
-### Vorbereitung des Einsatzes
-
-Die GRÜNEN haben sich nur wenig zu Wort gemeldet. Das erste Mal ging es um die
-strukturelle Vorbereitung des Einsatzes. Es wurde gefragt, ob mit dem heutigen
-Wissen eine andere Vorbereitung sinnig erscheint. Insbesondere wurde die Einbeziehung
-von Universitäten erwähnt.
-
-Scholz antwortete, wie so häufig, ausweichend und behauptete, dass die Vorbereitung
-exzellent verlief. Die Frage, insbesondere der Aspekt der Unis, wurde damit nicht
-beantwortet.
-
 ### Vorhersehbarkeit der Ereignisse
 
 Auf der einen Seite behauptete Scholz mehrfach, dass die klügsten Köpfe der Polizei
@@ -168,6 +157,17 @@ der Sicherheit überzeugt war. Ehrlich gesagt ist dieser Aspekt aber auch nicht
 der kritische. Hätte Scholz es politisch überlebt, wenn er im Vorfeld gesagt
 hätte "Sorry Leute, aber wir können die Sicherheit für die Bevölkerung nicht
 garantieren"? Sicherlich nicht. 
+
+### Vorbereitung des Einsatzes
+
+Die GRÜNEN haben sich nur wenig zu Wort gemeldet. Das erste Mal ging es um die
+strukturelle Vorbereitung des Einsatzes. Es wurde gefragt, ob mit dem heutigen
+Wissen eine andere Vorbereitung sinnig erscheint. Insbesondere wurde die Einbeziehung
+von Universitäten erwähnt.
+
+Scholz antwortete, wie so häufig, ausweichend und behauptete, dass die Vorbereitung
+exzellent verlief. Die Frage, insbesondere der Aspekt der Unis, wurde damit nicht
+beantwortet.
 
 ### Priorität Staatsgäste
 
