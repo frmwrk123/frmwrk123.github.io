@@ -14,7 +14,7 @@ geht ein Teil meines Lebens zuende, der am 30. September begonnen hat.
 An jenem Tag fand die herbstliche LMV der GRÜNEN JUGEND Hamburg statt. Aufgrund
 einer nicht ausreichenden Anzahl an Bewerbungen von Frauen, Inter- und 
 Trans\*-Personen konnte das Amt der Schatzmeisterei nicht besetzt werden. Ein
-FIT\*-Forum wurde einberufen und den Platz auch nicht geöffnet. Diese Entscheidung
+FIT\*-Forum wurde einberufen und hat den Platz auch nicht geöffnet. Diese Entscheidung
 habe ich damals geteilt und teile sie heute. Sie hatte trotzdem einen signifikanten
 Einfluss auf mein Leben.
 
