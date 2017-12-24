@@ -17,7 +17,7 @@
                     {% for item in site.data.header-menu.items %}
                         {% if item.items %}
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="{{ item.link }}" id="navbarDropdown" role="button"
+                                <a class="nav-link dropdown-toggle{% if item.link == page.url %} active{% endif %}" href="{{ item.link }}" id="navbarDropdown" role="button"
                                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     {{ item.title }}
                                 </a>
@@ -29,7 +29,7 @@
                             </li>
                         {% else %}
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ item.link }}">{{ item.title }}</a>
+                                <a class="nav-link{% if item.link == page.url %} active{% endif %}" href="{{ item.link }}">{{ item.title }}</a>
                             </li>
                         {% endif %}
                     {% endfor %}
