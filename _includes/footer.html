@@ -4,8 +4,9 @@
             <div class="col-4">
                 <nav class="nav">
                     <ul class="nav">
-                        <li class="nav-item"><a class="nav-link" href="/legal-notice">Impressum</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/datenschutz">Datenschutz</a></li>
+                        {% for item in site.data.footer-menu.items %}
+                        <li class="nav-item"><a class="nav-link" href="{{ item.link }}">{{ item.title }}</a></li>
+                        {% endfor %}
                     </ul>
                 </nav>
                 <a href="https://uberspace.de">
