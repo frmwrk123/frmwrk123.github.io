@@ -1,0 +1,5 @@
+show: false
+type: success
+text: >
+  Welcome on my relaunched website. Please see info on
+  <a class="alert-link" href="/about">About page</a>.

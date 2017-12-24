@@ -61,9 +61,10 @@
     {% endfor %}
 </header>
 
+{% if site.data.notification.show %}
 <div class="container my-3">
-    {% comment %}notification area {% endcomment %}
-    <div class="alert alert-primary" role="alert">
-        This is a primary alert—check it out!
+    <div class="alert alert-{{ site.data.notification.type }}" role="alert">
+        {{ site.data.notification.text }}
     </div>
 </div>
+{% endif %}
