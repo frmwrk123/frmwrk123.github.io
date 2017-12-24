@@ -5,10 +5,16 @@
 
 <body>
 {% include header.html %}
-<main class="container">
-    {{ content }}
-</main>
-{% include sidebar.html %}
+<div class="container">
+    <div class="row">
+        <main class="col-sm-9">
+            {{ content }}
+        </main>
+        <div class="col-sm-3">
+            {% include sidebar.html %}
+        </div>
+    </div>
+</div>
 {% include footer.html %}
 </body>
 </html>
