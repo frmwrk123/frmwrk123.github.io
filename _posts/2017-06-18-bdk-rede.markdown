@@ -9,8 +9,8 @@ Vom 16. bis 18. Juni fand der Bundesparteitag der GRÜNEN - die
 Bundesdelegiertenkonferenz - im Velodrom in Berlin statt. Es folgt meine Rede
 auf dem Bundesparteitag, welche in Videoformat auch auf Youtube zu sehen ist:
 
-<div class="video-container">
-<iframe width="560" height="315" 
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" width="560" height="315" 
 src="https://www.youtube-nocookie.com/embed/3BlOrCdFefo?rel=0&amp;start=8952" 
 frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen>
 </iframe>
