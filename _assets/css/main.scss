@@ -20,14 +20,14 @@ $navbarHeight: 60px;
 }
 
 body {
-  padding-top: $navbarHeight;
+  padding-top: $navbarHeight + 15px;
 }
 
 body.submenu {
-  padding-top: 2*$navbarHeight;
+  padding-top: 2*$navbarHeight + 15px;
 }
 
-main {
+#main {
   padding-bottom: 150px;
 }
 
