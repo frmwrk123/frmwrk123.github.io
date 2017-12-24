@@ -13,8 +13,18 @@
   border-bottom: 2px solid $light;
 }
 
+$navbarHeight: 60px;
+
+#submenuNavbar {
+  top: $navbarHeight;
+}
+
 body {
-  padding-top: 60px;
+  padding-top: $navbarHeight;
+}
+
+body.submenu {
+  padding-top: 2*$navbarHeight;
 }
 
 main {

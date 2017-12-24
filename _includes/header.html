@@ -2,7 +2,8 @@
     <nav class="navbar navbar-expand-lg navbar-light fixed-top">
         <div class="container">
             <a class="navbar-brand" href="{{ site.baseurl }}/">
-                <img src="/assets/images/2martensIco.svg" width="30" height="30" class="d-inline-block align-top" alt="">
+                <img src="/assets/images/2martensIco.svg" width="30" height="30" class="d-inline-block align-top"
+                     alt="">
                 {{ site.title }}
             </a>
 
@@ -15,28 +16,49 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     {% for item in site.data.header-menu.items %}
-                        {% if item.items %}
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle{% if item.link == page.url %} active{% endif %}" href="{{ item.link }}" id="navbarDropdown" role="button"
-                                   data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    {{ item.title }}
-                                </a>
-                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    {% for subitem in item.items %}
-                                        <a class="dropdown-item" href="{{ subitem.link }}">{{ subitem.title }}</a>
-                                    {% endfor %}
-                                </div>
-                            </li>
-                        {% else %}
-                            <li class="nav-item">
-                                <a class="nav-link{% if item.link == page.url %} active{% endif %}" href="{{ item.link }}">{{ item.title }}</a>
-                            </li>
-                        {% endif %}
+                    <li class="nav-item">
+                        <a class="nav-link{% if item.link == page.url %} active{% endif %}" href="{{ item.link }}">
+                            {{ item.title }}
+                        </a>
+                    </li>
                     {% endfor %}
                 </ul>
             </div>
         </div>
     </nav>
+    {% for item in site.data.header-menu.items %}
+        {% if item.items %}
+            {% if page.url == item.link %}
+                {% assign showSubmenu = true %}
+            {% elsif page.parent_link == item.link %}
+                {% assign showSubmenu = true %}
+            {% else %}
+                {% assign showSubmenu = false %}
+            {% endif %}
+            {% if showSubmenu %}
+                <nav id="submenuNavbar" class="navbar navbar-expand-lg navbar-light fixed-top">
+                    <div class="container">
+                        <button class="navbar-toggler" type="button" data-toggle="collapse"
+                                data-target="#subnavbarSupportedContent" aria-controls="subnavbarSupportedContent"
+                                aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+
+                        <div class="collapse navbar-collapse" id="subnavbarSupportedContent">
+                            <ul class="navbar-nav mr-auto">
+                                {% for subitem in item.items %}
+                                <li class="nav-item">
+                                    <a class="nav-link{% if subitem.link == page.url %} active{% endif %}"
+                                       href="{{ subitem.link }}">{{ subitem.title }}</a>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+            {% endif %}
+        {% endif %}
+    {% endfor %}
 </header>
 
 <div class="container my-3">
