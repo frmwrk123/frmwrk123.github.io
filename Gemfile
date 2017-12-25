@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 # gem 'github-pages', group: :jekyll_plugins
 gem 'activesupport'
 # gem 'github-pages-health-check'
+gem 'html-proofer', group: :development
 gem 'jekyll'
 group :jekyll_plugins do
   gem 'autoprefixer-rails'
