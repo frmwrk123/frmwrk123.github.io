@@ -2,13 +2,60 @@
 layout: default
 ---
 
+<h1>2martens.de</h1>
+
+<p>
+    Welcome on my personal website. This home page is comparable to the README of this website. You can find a
+    <a href="#readers-guide">readers guide</a> here. Furthermore you will find below all
+    <a href="#blog-posts">blog posts</a> related to the site itself.
+</p>
+
+<h2>Features</h2>
+
+<p>
+    Despite being a simple collection of static pages and posts, this website has some features that differentiate it
+    from others.
+</p>
+
+<ul class="list-unstyled text-justify">
+    <li><span class="font-weight-bold">No Tracking</span>: You read correct. This website doesn't use any tracker. Zero.</li>
+    <li><span class="font-weight-bold">No Cookies</span>:
+        This website doesn't use any cookies. Hence it cannot connect two visits to the same device.
+    </li>
+    <li><span class="font-weight-bold">(Almost) no javascript</span>:
+        This site uses almost no javascript. Javascript is only used to replace the Font Awesome span elements with svg
+        elements.
+    </li>
+    <li><span class="font-weight-bold">(Almost) no external requests</span>:
+        To protect your privacy as good as possible, the amount of external requests is almost zero. The only occurance
+        of external requests occurs in combination with embedded videos.
+    </li>
+    <li><span class="font-weight-bold">Privacy-friendly embedded videos</span>:
+        Embedded YouTube videos use the youtube-nocookie.com domain which proclaims that no data is stored about the
+        website visitors until they actually click to play the video.
+    </li>
+    <li><span class="font-weight-bold">Uberspace-powered</span>:
+        This site is hosted on Uberspace 7. That is the new version of Uberspace hosts which is currently in Public Beta.
+    </li>
+</ul>
+
+<h2 id="readers-guide">Readers guide</h2>
+
+<p>
+    The posts are grouped by categories. These can be found on the main menu. In addition you can find my publications
+    under Computer Science. The reports from the G20 special committee in Hamburg can be found under Politics and there
+    under G20. The Blog category contains all posts that don't match other categories.
+</p>
+
+<h2 id="blog-posts">Blog posts</h2>
+
 <ul class="post-list list-unstyled">
-  {% for post in site.posts %}
-  <li class="mb-4">
-    <span class="small text-muted">{{ post.date | date: "%b %-d, %Y" }}</span>
-    <p class="h4 post-title">
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </p>
-  </li>
-  {% endfor %}
+    {% for post in site.categories['site'] %}
+    <li class="mb-4">
+        <span class="small text-muted">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <p class="h4 post-title">
+            <a class="post-link" href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+        </p>
+    </li>
+    {% endfor %}
 </ul>
