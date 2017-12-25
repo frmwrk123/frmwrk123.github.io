@@ -2,7 +2,7 @@
 layout: post
 title:  "Bericht von Novembersitzung des G20-Sonderausschusses"
 date:   2017-11-10 10:00:00 +0200
-categories: politics, G20
+categories: politics G20
 ---
 
 Die Sitzung begann um 17 Uhr mit dem Eingangsstatement des Bürgermeisters Olaf

@@ -2,7 +2,7 @@
 layout: post
 title:  "Bericht von Dezembersitzung des G20-Sonderausschusses"
 date:   2017-12-24 10:00:00 +0200
-categories: politics, G20
+categories: politics G20
 ---
 
 Am 21. Dezember fand die Dezembersitzung des G20-Sonderausschusses statt.
