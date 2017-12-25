@@ -35,6 +35,7 @@ defaults:
 markdown: kramdown
 exclude:
   - scripts
+  - README.md
   - Gemfile
   - Gemfile.lock
   - deploy_ed25519.enc
