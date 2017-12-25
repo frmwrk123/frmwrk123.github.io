@@ -1,0 +1,92 @@
+---
+title: Curriculum Vitae
+permalink: /cv/
+sidebarboxes: job_offers
+---
+
+{% if site.data.author.image %}
+<aside class="float-right">
+    <div class="card sidebar mb-3">
+        <img class="card-img-top" src="{{ site.data.author.image }}" alt="Image of {{ site.data.author.name }}">
+    </div>
+</aside>
+{% endif %}
+
+<h2>Personal Data</h2>
+
+<ul class="list-unstyled">
+    <li><span class="font-weight-bold">Name:</span> {{ site.data.author.name }}</li>
+    <li><span class="font-weight-bold">Age:</span> {{ site.data.author.age }}</li>
+    <li><span class="font-weight-bold">Location:</span> {{ site.data.author.location }}</li>
+</ul>
+
+{% if site.data.author.skills %}
+<h2>Skills</h2>
+
+<ul class="list-unstyled">
+    {% for item in site.data.author.skills %}
+        <li><span class="font-weight-bold">{{ item.category }}:</span> {{ item.items | join:', ' }} </li>
+    {% endfor %}
+</ul>
+
+{% endif %}
+
+{% if site.data.author.education %}
+<h2>Education</h2>
+<ul class="list-unstyled">
+    {% for item in site.data.author.education %}
+    <li class="media mb-2">
+        <span class="align-self-center mr-3 far {{ item.icon }} fa-fw fa-2x"></span>
+        <div class="media-body">
+            <h5 class="mt-0">{{ item.title }}</h5>
+            <ul class="list-unstyled">
+                {% if item.start %}
+                <li><span class="font-weight-bold">Start:</span>
+                    <time datetime="{{ item.start | date_to_xmlschema }}">
+                        {{ item.start | date: "%b %-d, %Y" }}
+                    </time>
+                </li>
+                {% endif %}
+                {% if item.end %}
+                <li><span class="font-weight-bold">End:</span>
+                    <time datetime="{{ item.end | date_to_xmlschema }}">
+                        {{ item.end | date: "%b %-d, %Y" }}
+                    </time>
+                </li>
+                {% endif %}
+            </ul>
+        </div>
+    </li>
+    {% endfor %}
+</ul>
+{% endif}
+
+{% if site.data.author.politics %}
+<h2>Politics</h2>
+
+<ul class="list-unstyled">
+    {% for item in site.data.author.politics %}
+    <li class="media mb-2">
+        <span class="align-self-center mr-3 far {{ item.icon }} fa-fw fa-2x"></span>
+        <div class="media-body">
+            <h5 class="mt-0">{{ item.title }}</h5>
+            <ul class="list-unstyled">
+                {% if item.start %}
+                <li><span class="font-weight-bold">Start:</span>
+                    <time datetime="{{ item.start | date_to_xmlschema }}">
+                        {{ item.start | date: "%b %-d, %Y" }}
+                    </time>
+                </li>
+                {% endif %}
+                {% if item.end %}
+                <li><span class="font-weight-bold">End:</span>
+                    <time datetime="{{ item.end | date_to_xmlschema }}">
+                        {{ item.end | date: "%b %-d, %Y" }}
+                    </time>
+                </li>
+                {% endif %}
+            </ul>
+        </div>
+    </li>
+    {% endfor %}
+</ul>

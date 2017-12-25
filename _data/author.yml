@@ -3,6 +3,55 @@ image: /assets/images/jim.jpg
 image_desc:
 age: 23
 location: Hamburg, Germany
-cv_link: /cv
+cv_link: /cv/
 github_username: 2martens
 twitter_username: 2martens
+skills:
+  - category: Programming languages
+    items:
+      - Python
+      - PHP
+      - JavaScript
+      - Java
+      - C++
+  - category: Markup languages
+    items:
+      - HTML
+      - Markdown
+      - XML
+      - YAML
+      - reStructuredText
+      - JSON
+  - category: CMS
+    items:
+      - Typo3
+      - Wordpress
+  - category: Software
+    items:
+      - LibreOffice
+      - MS Office
+      - OpenProject
+      - InDesign
+      - Jenkins
+      - TeamCity
+      - MS Project
+education:
+  - title: Master of Science in Computer Science
+    start: 2016-10-01
+    icon: fa-university
+  - title: Bachelor of Science in Computer Science
+    start: 2012-10-01
+    end: 2016-09-30
+    icon: fa-graduation-cap
+politics:
+  - title: Member of the board of Green Youth Hamburg<br>Beisitzer im Landesvorstand der GRÜNEN JUGEND Hamburg
+    start: 2016-10-15
+    end: 2017-09-30
+    icon: fa-user
+  - title: Member of the Presidium of the Student Parliament at the University Hamburg<br>Mitglied im Präsidium des Studierendenparlaments der Uni Hamburg
+    start: 2016-04-14
+    end: 2017-04-20
+    icon: fa-users
+  - title: Member of the Student Parliament at the University Hamburg<br>Mitglied des Studierendenparlaments der Uni Hamburg
+    start: 2015-04-09
+    icon: fa-users
