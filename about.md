@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+sidebarboxes: author job_offers
 ---
 
 This website is all about my personal policial statements (for now).
