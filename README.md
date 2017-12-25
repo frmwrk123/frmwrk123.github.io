@@ -24,6 +24,42 @@ what you need to change to make it your own (minimal changes).
 - assets/images/brand.svg: must be changed to your brand image
 - assets/pdf/cv.pdf: change for your CV in PDF format
 - _posts/: delete and write your own posts
+- _includes/: no need to touch, nothing hard-coded inside
+- _includes/sidebar/: contains available sidebar boxes, 
+  add files here and then you can already use the new sidebar box
+- pages/: directory for pages, don't forget permalink variable for new pages,
+  update every page but 404.html and cv.html to your situation
+- index.html: you should probably update the text here
 
 Beyond this no changes are absolutely necessary. No links are hard-coded in the pages,
 layouts or include files beyond the technical dependencies.
+
+The sidebar is configured via variables in the YAML front matter. By default the
+author sidebar box is shown everywhere. You can customize this by adding the variable
+``sidebarboxes`` to the front matter of a post, page or category. Then specify all
+boxes you want to use by their file name without the extension in the order they 
+should appear separated by a whitespace each. Look into existing pages for examples.
+
+Without any new files other than posts, these categories are supported out of the box:
+
+- speeches (appears under Speeches menu point)
+- politics (appear under Politics menu point)
+- politics G20 (appears both under Politics and Politics/G20 menu points)
+- cs (appears under Computer Science menu point)
+- blog (appears under Blog menu point)  
+- site (appears on home page)
+
+## Continuous Integration and Deployment
+
+The .travis.yml file is already in a good state to use it for own needs. But you need
+to update it to make it work for you. In the following I will list the absolute
+minimal changes you need to do.
+
+- scripts/deploy.sh: change martens7 to your Uberspace user 
+  and wolf.uberspace.de to your host
+- .travis.yml: update the known hosts for your Uberspace host, 
+  update the before_deploy section (first dash)
+- deploy_ed25519.enc: change to your encrypted SSH key
+
+To understand how to prepare the SSH connection, follow this link:
+https://oncletom.io/2016/travis-ssh-deploy/
