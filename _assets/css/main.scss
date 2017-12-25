@@ -16,16 +16,21 @@ $navbarHeight: 58px;
   top: $navbarHeight;
 }
 
-body {
-  padding-top: $navbarHeight + 15px;
-}
-
-body.submenu {
-  padding-top: 2*$navbarHeight + 15px;
-}
-
 #main {
-  padding-bottom: 295px;
+  margin-top: $navbarHeight + 15px;
+  margin-bottom: 295px;
+}
+
+#main.submenu {
+  margin-top: 2*$navbarHeight + 15px;
+}
+
+*[id]:before {
+  display: block;
+  content: " ";
+  margin-top: -2*$navbarHeight; // Set the Appropriate Height
+  height: 2*$navbarHeight; // Set the Appropriate Height
+  visibility: hidden;
 }
 
 .site-header > .navbar {

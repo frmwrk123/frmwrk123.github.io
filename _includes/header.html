@@ -60,11 +60,3 @@
         {% endif %}
     {% endfor %}
 </header>
-
-{% if site.data.notification.show %}
-<div class="container my-3">
-    <div class="alert alert-{{ site.data.notification.type }}" role="alert">
-        {{ site.data.notification.text }}
-    </div>
-</div>
-{% endif %}

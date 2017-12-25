@@ -13,15 +13,24 @@
         {% endif %}
     {% endif %}
 {% endfor %}
-<body class="{% if showSubmenu %}submenu{% endif %}">
+<body>
 {% include header.html %}
-<div id="main" class="container">
-    <div class="row">
-        <main class="col-sm-9">
-            {{ content }}
-        </main>
-        <div class="col-sm-3">
-            {% include sidebar.html %}
+<div id="main" class="{% if showSubmenu %}submenu{% endif %}">
+    {% if site.data.notification.show %}
+        <div class="container my-3">
+            <div class="alert alert-{{ site.data.notification.type }}" role="alert">
+                {{ site.data.notification.text }}
+            </div>
+        </div>
+    {% endif %}
+    <div class="container">
+        <div class="row">
+            <main class="col-sm-9">
+                {{ content }}
+            </main>
+            <div class="col-sm-3">
+                {% include sidebar.html %}
+            </div>
         </div>
     </div>
 </div>
