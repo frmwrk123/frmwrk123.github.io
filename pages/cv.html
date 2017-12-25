@@ -54,6 +54,9 @@ sidebarboxes: cv-pdf job_offers
                     </time>
                 </li>
                 {% endif %}
+                {% if item.grade %}
+                <li><span class="font-weight-bold">Grade:</span> {{ item.grade }}</li>
+                {% endif %}
             </ul>
         </div>
     </li>
