@@ -2,7 +2,9 @@ language: ruby
 rvm:
 - 2.3.3
 addons:
-  ssh_known_hosts: wolf.uberspace.de
+  ssh_known_hosts:
+    - wolf.uberspace.de
+    - 185.26.156.65
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
