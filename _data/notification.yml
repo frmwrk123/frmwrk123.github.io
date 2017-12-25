@@ -1,6 +1,6 @@
 show: true
 type: info
 text: >
-  <span class="far fa-exclamation-circle"></span>
+  <span class="far fa-info-circle"></span>
   Welcome on my relaunched website. Please see take your time and read the information on the
   <a class="alert-link" href="/">home page</a> before continuing.
