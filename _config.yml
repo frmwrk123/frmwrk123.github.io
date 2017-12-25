@@ -39,3 +39,4 @@ exclude:
   - Gemfile.lock
   - deploy_ed25519.enc
   - LICENSE
+  - vendor
