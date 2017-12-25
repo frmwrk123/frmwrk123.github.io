@@ -8,6 +8,10 @@ cv_pdf: /assets/pdf/cv.pdf
 github_username: 2martens
 twitter_username: 2martens
 skills:
+  - category: Languages
+    items:
+      - German (mother tongue)
+      - English (fluid)
   - category: Programming languages
     items:
       - Python
