@@ -2,7 +2,7 @@
 layout: post
 title:  "Meine Rede von dem Bundesparteitag der GRÜNEN"
 date:   2017-06-18 17:00:00 +0200
-categories: politics
+categories: speeches
 ---
 
 Vom 16. bis 18. Juni fand der Bundesparteitag der GRÜNEN - die 

@@ -1,4 +1,6 @@
 items:
+  - link: /speeches/
+    title: Speeches
   - link: /politics/
     title: Politics
     items:
