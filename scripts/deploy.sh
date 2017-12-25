@@ -4,3 +4,4 @@ ssh martens7@wolf.uberspace.de rm -rf tmp/old.build
 ssh martens7@wolf.uberspace.de mkdir tmp/old.build
 ssh martens7@wolf.uberspace.de mv html/* tmp/old.build/
 ssh martens7@wolf.uberspace.de mv tmp/$TRAVIS_BUILD_ID/* html/
+ssh martens7@wolf.uberspace.de rm -rf tmp/$TRAVIS_BUILD_ID
