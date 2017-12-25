@@ -2,7 +2,7 @@
 layout: post
 title:  "Strategie zur Erhöhung der Wahlbeteiligung bei der StuPa-Wahl 2016/17"
 date:   2016-10-02 08:00:00 +0200
-categories: hopo
+categories: politics
 ---
 
 Wie jedes Jahr steht auch dieses Jahr wieder eine Wahl zum Studierendenparlament
