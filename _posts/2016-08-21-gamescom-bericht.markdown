@@ -2,7 +2,7 @@
 layout: post
 title:  "Gamescom 2016 - Mein Bericht"
 date:   2016-08-21 14:00:00 +0200
-categories: games
+categories: blog
 ---
 
 ## Anfang

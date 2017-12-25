@@ -8,5 +8,7 @@ items:
         title: G20
   - link: /cs/
     title: Computer Science
+  - link: /blog/
+    title: Blog
   - link: /about/
     title: About

@@ -2,7 +2,7 @@
 layout: post
 title:  "Hindernisse im Leben oder die Kunst des Aufstehens"
 date:   2017-10-14 12:00:00 +0200
-categories: general
+categories: blog
 ---
 
 Alle Menschen haben diese Momente. Momente im Leben, in denen einfach nichts
