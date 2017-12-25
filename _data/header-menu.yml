@@ -1,6 +1,9 @@
 items:
   - link: /politics/
     title: Politics
+    items:
+      - link: /politics/g20/
+        title: G20
   - link: /about/
     title: About
   - link: /media/
