@@ -2,7 +2,7 @@
 layout: post
 title:  "Verwendete Unity3D-Plugins für die Bachelorarbeit oder Versteckte Studiengebühren"
 date:   2016-09-08 18:00:00 +0200
-categories: hopo
+categories: cs
 ---
 
 Im Juli konnte ich nach monatelanger Arbeit die Bachelorarbeit beenden. Mit dem

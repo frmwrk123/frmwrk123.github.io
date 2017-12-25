@@ -6,6 +6,8 @@ items:
     items:
       - link: /politics/g20/
         title: G20
+  - link: /cs/
+    title: Computer Science
   - link: /about/
     title: About
   - link: /media/
