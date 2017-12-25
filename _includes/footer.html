@@ -11,9 +11,11 @@
                         {% endfor %}
                     </ul>
                 </nav>
-                <a href="https://uberspace.de">
-                    <img src="{% link /assets/images/uberspace-badge-white.png %}" alt="Uberspace promotional image" />
+                {% if site.data.promotion.show %}
+                <a href="{{ site.data.promotion.link }}">
+                    <img src="{{ site.data.promotion.image }}" alt="{{ site.data.promotion.title }} promotional image" />
                 </a>
+                {% endif %}
             </div>
             <div class="col-sm-8">
                 <ul class="list-unstyled">
@@ -31,13 +33,13 @@
                 </ul>
                 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
                     <img alt="Creative Commons License" style="border-width:0"
-                         src="/assets/images/cc-by-sa40.png"/>
+                         src="{% link /assets/images/cc-by-sa40.png %}"/>
                 </a><br/>
-                <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">2martens dot de</span> by
-                <a xmlns:cc="http://creativecommons.org/ns" href="https://2martens.de"
+                <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">{{ site.title }}</span> by
+                <a xmlns:cc="http://creativecommons.org/ns" href="{{ site.url }}"
                    property="cc:attributionName"
                    rel="cc:attributionURL">
-                    Jim Martens
+                    {{ site.data.author.name }}
                 </a> is licensed under a
                 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
                     Creative Commons Attribution-ShareAlike 4.0 International License
