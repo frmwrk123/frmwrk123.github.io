@@ -5,9 +5,9 @@ layout: default
 <h1>2martens.de</h1>
 
 <p>
-    Welcome on my personal website. This home page is comparable to the README of this website. You can find a
-    <a href="#readers-guide">readers guide</a> here. Furthermore you will find below all
-    <a href="#blog-posts">blog posts</a> related to the site itself.
+    Welcome on my personal website. This home page is comparable to the README of this website. You can find the features
+    and a <a href="#readers-guide">readers guide</a> here. {% if site.categories['site'].size > 0 %}
+        Furthermore you will find below all <a href="#blog-posts">blog posts</a> related to the site itself.{% endif %}
 </p>
 
 <h2>Features</h2>
@@ -47,6 +47,7 @@ layout: default
     under G20. The Blog category contains all posts that don't match other categories.
 </p>
 
+{% if site.categories['site'].size > 0 %}
 <h2 id="blog-posts">Blog posts</h2>
 
 <ul class="post-list list-unstyled">
@@ -59,3 +60,4 @@ layout: default
     </li>
     {% endfor %}
 </ul>
+{% endif %}
