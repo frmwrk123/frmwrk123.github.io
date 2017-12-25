@@ -1,5 +1,6 @@
-show: false
-type: success
+show: true
+type: info
 text: >
-  Welcome on my relaunched website. Please see info on
-  <a class="alert-link" href="/about">About page</a>.
+  <span class="far fa-exclamation-circle fa-2x"></span>
+  Welcome on my relaunched website. Please see take your time and read the information on the
+  home page before continuing.
