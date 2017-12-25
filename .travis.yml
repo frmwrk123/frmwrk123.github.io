@@ -15,12 +15,11 @@ before_deploy:
 - eval "$(ssh-agent -s)"
 - chmod 600 /tmp/deploy_ed25519
 - ssh-add /tmp/deploy_ed25519
+- chmod +x scripts/deploy.sh
 deploy:
   provider: script
   skip_cleanup: true
-  script:
-    - rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/_site martens7@wolf.uberspace.de:tmp/$TRAVIS_BUILD_ID
-    - ssh martens7@wolf.uberspace.de rm -rf tmp/old.build && mkdir tmp/old.build && mv html/* tmp/old.build/ && mv tmp/$TRAVIS_BUILD_ID/* html/
+  script: scripts/deploy.sh
   on:
     branch:
       - master

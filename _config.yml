@@ -33,3 +33,9 @@ defaults:
 
 # Build settings
 markdown: kramdown
+exclude:
+  - scripts
+  - Gemfile
+  - Gemfile.lock
+  - deploy_ed25519.enc
+  - LICENSE
