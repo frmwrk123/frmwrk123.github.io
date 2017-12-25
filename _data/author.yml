@@ -4,6 +4,7 @@ image_desc:
 age: 23
 location: Hamburg, Germany
 cv_link: /cv/
+cv_pdf: /assets/pdf/cv.pdf
 github_username: 2martens
 twitter_username: 2martens
 skills:
