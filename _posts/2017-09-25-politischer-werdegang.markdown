@@ -3,6 +3,7 @@ layout: post
 title:  "Politischer Werdegang oder Wie wurde ich ein Grüner?"
 date:   2017-09-25 08:00:00 +0200
 categories: politics
+parent_link: /politics/
 ---
 
 ## Einleitung

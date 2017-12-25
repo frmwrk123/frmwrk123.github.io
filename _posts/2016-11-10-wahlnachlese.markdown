@@ -3,6 +3,7 @@ layout: post
 title:  "Nachlese zur Wahl in den USA"
 date:   2016-11-10 07:00:00 +0200
 categories: politics
+parent_link: /politics/
 ---
 
 Ich kenne keine Person persönlich, die sich einen Präsidenten Trump gewünscht hätte.

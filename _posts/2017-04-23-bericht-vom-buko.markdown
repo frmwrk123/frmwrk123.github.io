@@ -3,6 +3,7 @@ layout: post
 title:  "Bericht vom 48. Bundeskongress der GRÜNEN JUGEND"
 date:   2017-04-23 17:00:00 +0200
 categories: politics
+parent_link: /politics/
 ---
 
 Vom 21. bis 23. April fand der 48. Bundeskongress der GRÜNEN JUGEND

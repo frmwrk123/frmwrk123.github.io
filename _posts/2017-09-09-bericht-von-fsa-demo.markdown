@@ -3,6 +3,7 @@ layout: post
 title:  "Bericht von Freiheit 4.0 Demo in Berlin"
 date:   2017-09-09 14:00:00 +0200
 categories: politics
+parent_link: /politics/
 ---
 
 Zum 9. September bin ich nach Berlin gefahren, um die Demo gegen Massenüberwachung

@@ -3,6 +3,7 @@ layout: post
 title:  "Wahl in Mecklenburg-Vorpommern und Einfluss auf Deutschland"
 date:   2016-09-04 18:00:00 +0200
 categories: politics
+parent_link: /politics/
 ---
 
 Heute haben die Bürger*Innen von Mecklenburg-Vorpommern gewählt und die ersten

@@ -3,6 +3,7 @@ layout: post
 title:  "Eine Progressive Agenda für Deutschland"
 date:   2016-12-04 18:00:00 +0200
 categories: politics
+parent_link: /politics/
 ---
 
 ## Einleitung

@@ -3,6 +3,7 @@ layout: post
 title:  "Jahresabschluss 2017"
 date:   2017-12-15 20:00:00 +0200
 categories: politics
+parent_link: /politics/
 ---
 
 Das Jahr 2017 neigt sich dem Ende zu. Zum Ende des Jahres findet

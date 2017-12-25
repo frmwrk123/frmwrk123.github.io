@@ -3,6 +3,7 @@ layout: post
 title:  "Vorausschauend regieren"
 date:   2017-09-24 08:00:00 +0200
 categories: politics
+parent_link: /politics/
 ---
 
 Jeder ist bestimmt schon einmal in einem Zug gefahren und musste eine ruckartige

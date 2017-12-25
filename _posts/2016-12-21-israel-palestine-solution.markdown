@@ -3,6 +3,7 @@ layout: post
 title:  "A potential solution for the Israel-Palestine conflict"
 date:   2016-12-21 16:00:00 +0200
 categories: politics
+parent_link: /politics/
 ---
 
 The Israel-Palestine conflict is almost as old as the end of World War Two.

@@ -3,6 +3,7 @@ layout: post
 title:  "Burying - das antidemokratische Verhalten der GroKo"
 date:   2016-06-27 12:00:00 +0200
 categories: politics
+parent_link: /politics/
 ---
 
 Was läuft nicht alles parallel im Moment. Zum Einen haben wir die Fußball EM

@@ -3,6 +3,7 @@ layout: post
 title:  "Don't pretend, Represent! - Why I am doing what I am doing"
 date:   2016-07-12 6:00:00 +0200
 categories: politics
+parent_link: /politics/
 ---
 
 Yesterday I was essentially asked if I do the things I am doing, because

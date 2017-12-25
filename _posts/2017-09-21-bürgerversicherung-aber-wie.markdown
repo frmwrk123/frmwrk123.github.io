@@ -3,6 +3,7 @@ layout: post
 title:  "Bürger*innenversicherung - aber wie?"
 date:   2017-09-21 18:00:00 +0200
 categories: politics
+parent_link: /politics/
 ---
 
 Eine Bürger*innenversicherung ist vom Prinzip her erst einmal toll. Es ist aber
