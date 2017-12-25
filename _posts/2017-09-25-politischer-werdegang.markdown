@@ -200,7 +200,7 @@ Ich schloss meine Rede mit:
 > fear, hope. Against austerity, prosperity. Against corruption, transparency. 
 > United we stand, divided we fall. Fight for and vote green in 2017. #votegreen17
 
-[1]: politics/2017/06/18/bdk-rede.html
+[1]: {{ site.baseurl }}{% link _posts/2017-06-18-bdk-rede.markdown %}
 
 ## Bundestagswahlkampf
 
