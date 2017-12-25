@@ -12,6 +12,10 @@
 
 $navbarHeight: 58px;
 
+.large {
+  font-size: $font-size-lg;
+}
+
 #submenuNavbar {
   top: $navbarHeight;
 }
