@@ -23,6 +23,8 @@ skills:
     items:
       - HTML
       - Markdown
+      - CSS
+      - SQL
       - XML
       - YAML
       - reStructuredText
@@ -31,6 +33,13 @@ skills:
     items:
       - Typo3
       - Wordpress
+  - category: VCS
+    items:
+      - Git
+  - category: OS
+    items:
+      - Windows
+      - Linux
   - category: Software
     items:
       - LibreOffice
