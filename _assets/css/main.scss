@@ -3,9 +3,6 @@
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 "bootstrap-custom"
-//"base",
-//"layout",
-//"syntax-highlighting"
 ;
 
 .site-header > .navbar {
@@ -13,7 +10,7 @@
   border-bottom: 2px solid $light;
 }
 
-$navbarHeight: 60px;
+$navbarHeight: 58px;
 
 #submenuNavbar {
   top: $navbarHeight;
