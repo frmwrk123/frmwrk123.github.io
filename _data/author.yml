@@ -9,6 +9,11 @@ cv_link: /cv/
 cv_pdf: /assets/pdf/cv.pdf
 github_username: 2martens
 twitter_username: 2martens
+publications:
+  - link: /assets/pdf/bachelor-thesis.pdf
+    title: Face Detection and Head Tracking for perspective rendering (Bachelor Thesis)
+    author: Jim Martens
+    date: 2016-07-19
 skills:
   - category: Languages
     items:

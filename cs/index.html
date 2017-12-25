@@ -12,21 +12,27 @@ sidebarboxes: author
     Furthermore you will find here blog posts that cover topics related to the studies and Computer Science.
 </p>
 
+{% if site.data.author.publications %}
 <h2>Publications</h2>
 
-<div class="media">
-    <a href="{% link assets/pdf/bachelor-thesis.pdf %}"><span class="mr-3 far fa-file-pdf fa-5x"></span></a>
-    <div class="media-body">
-        <h5 class="mt-0">Face Detection and Head Tracking for perspective rendering (Bachelor Thesis)</h5>
-        <ul class="list-unstyled">
-            <li><span class="font-weight-bold">Author:</span> Jim Martens</li>
-            <li><span class="font-weight-bold">Date:</span>
-                <time datetime="{{ '2016-07-19' | date_to_xmlschema }}" itemprop="datePublished">
-                {{ '2016-07-19' | date: "%b %-d, %Y" }}
-                </time>
-            </li>
-        </ul>
-    </div>
-</div>
+<ul class="list-unstyled">
+    {% for publication in site.data.author.publications %}
+    <li class="media">
+        <a href="{{ publication.link }}"><span class="mr-3 far fa-file-pdf fa-5x"></span></a>
+        <div class="media-body">
+            <h5 class="mt-0">{{ publication.title }}</h5>
+            <ul class="list-unstyled">
+                <li><span class="font-weight-bold">Author:</span> {{ publication.author }}</li>
+                <li><span class="font-weight-bold">Date:</span>
+                    <time datetime="{{ publication.date | date_to_xmlschema }}" itemprop="datePublished">
+                        {{ publication.date | date: "%b %-d, %Y" }}
+                    </time>
+                </li>
+            </ul>
+        </div>
+    </li>
+    {% endfor %}
+</ul>
+{% endif %}
 
 <h2>Blog posts</h2>
