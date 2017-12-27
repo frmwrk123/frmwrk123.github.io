@@ -10,7 +10,7 @@
     {% stylesheet fa-svg-with-js.css %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}"
-          href="{% link feed.xml %}">
+          href="{{ site.baseurl }}{% link feed.xml %}">
 
     <script>
         FontAwesomeConfig = { autoAddCss: false }

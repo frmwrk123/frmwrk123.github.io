@@ -16,7 +16,7 @@ layout: default
     <li class="mb-4">
         <span class="small text-muted">{{ post.date | date: "%b %-d, %Y" }}</span>
         <p class="h4 post-title">
-            <a class="post-link" href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </p>
     </li>
     {% endfor %}

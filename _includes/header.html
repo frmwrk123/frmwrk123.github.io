@@ -17,7 +17,7 @@
                 <ul class="navbar-nav mr-auto">
                     {% for item in site.data.header-menu.items %}
                     <li class="nav-item">
-                        <a class="nav-link{% if item.link == page.url %} active{% endif %}" href="{{ item.link }}">
+                        <a class="nav-link{% if item.link == page.url %} active{% endif %}" href="{{ item.link | relative_url }}">
                             {{ item.title }}
                         </a>
                     </li>
@@ -49,7 +49,7 @@
                                 {% for subitem in item.items %}
                                 <li class="nav-item">
                                     <a class="nav-link{% if subitem.link == page.url %} active{% endif %}"
-                                       href="{{ subitem.link }}">{{ subitem.title }}</a>
+                                       href="{{ subitem.link | relative_url }}">{{ subitem.title }}</a>
                                 </li>
                                 {% endfor %}
                             </ul>

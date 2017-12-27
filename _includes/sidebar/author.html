@@ -6,7 +6,7 @@
             <li><span class="font-weight-bold">Name:</span>&nbsp;{{ site.data.author.name }}</li>
             <li><span class="font-weight-bold">Age:</span>&nbsp;{{ site.data.author.age }}</li>
             <li><span class="font-weight-bold">Location:</span>&nbsp;{{ site.data.author.location }}</li>
-            <li><a href="{{ site.data.author.cv_link }}">Further information...</a></li>
+            <li><a href="{{ site.data.author.cv_link | relative_url }}">Further information...</a></li>
         </ul>
     </div>
 </div>
