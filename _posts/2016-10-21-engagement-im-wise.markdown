@@ -2,7 +2,7 @@
 layout: post
 title:  "Engagement im Wintersemester 16/17"
 date:   2016-10-21 08:00:00 +0200
-categories: hopo
+categories: politics
 ---
 
 Ein neues Semester bedeutet immer auch neue Arbeit. Dabei ist dieses Wintersemester

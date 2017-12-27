@@ -3,6 +3,7 @@ layout: post
 title:  "Ressortprinzip, Gewaltenteilung und die Leiden des kleinen Koalitionspartners"
 date:   2017-09-19 12:00:00 +0200
 categories: politics
+parent_link: /politics/
 ---
 
 Im Zuge der G20-Aufarbeitung wird häufig Kritik an den GRÜNEN laut. Sie hätten

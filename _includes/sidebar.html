@@ -1,0 +1,6 @@
+{% if page.sidebarboxes %}
+    {% assign boxes = page.sidebarboxes | split:' ' %}
+    {% for box_name in boxes %}
+        {% include sidebar/{{ box_name }}.html %}
+    {% endfor %}
+{% endif %}

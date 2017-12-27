@@ -3,6 +3,7 @@ layout: post
 title:  "Bundeswehr ja/nein und wenn ja, wie? - Eine linke Antwortsuche"
 date:   2016-08-08 14:00:00 +0200
 categories: politics
+parent_link: /politics/
 ---
 
 ## Einleitung

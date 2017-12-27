@@ -3,6 +3,7 @@ layout: post
 title:  "Burying - das antidemokratische Verhalten der GroKo"
 date:   2016-06-27 12:00:00 +0200
 categories: politics
+parent_link: /politics/
 ---
 
 Was läuft nicht alles parallel im Moment. Zum Einen haben wir die Fußball EM
@@ -33,9 +34,9 @@ Es gab in den vergangenen Tagen auch nicht namentliche Abstimmungen die auf
 der verlinkten Seite nicht so einfach abrufbar sind. Diese findet man bei
 den Tagesordnungen der vergangenen Sitzungen:
 
-* [178. Sitzungstag](https://www.bundestag.de/dokumente_tagesordnungen_details/?wp=18&number=178)
-* [179. Sitzungstag](https://www.bundestag.de/dokumente_tagesordnungen_details/?wp=18&number=179)
-* [180. Sitzungstag](https://www.bundestag.de/dokumente_tagesordnungen_details/?wp=18&number=180)
+* [178. Sitzungstag](http://dip21.bundestag.de/dip21/btp/18/18178.pdf)
+* [179. Sitzungstag](http://dip21.bundestag.de/dip21/btp/18/18179.pdf)
+* [180. Sitzungstag](http://dip21.bundestag.de/dip21/btp/18/18180.pdf)
 
 Unter diesen ebenfalls beschlossenen Gesetzen findet man eine Art "Zwangsbeglückung"
 mit [Smart-Metern](http://dip21.bundestag.de/dip21/btd/18/075/1807555.pdf) und

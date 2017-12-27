@@ -2,7 +2,7 @@
 layout: post
 title:  "Bullshit-Argumente"
 date:   2016-05-13 10:30:00 +0200
-categories: general
+categories: blog
 ---
 
 Dies wird eine Sammlung von Bullshit-Argumenten, die ich mir leider zu häufig

@@ -1,0 +1,6 @@
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^jim\.2martens\.de [NC]
+RewriteRule ^(.*)$ https://2martens.de/$1 [L,R=301]
+
+ErrorDocument 404 /404.html

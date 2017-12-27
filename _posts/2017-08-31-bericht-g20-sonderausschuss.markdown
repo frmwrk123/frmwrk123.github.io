@@ -2,7 +2,8 @@
 layout: post
 title:  "Bericht von konstituierender Sitzung des G20-Sonderausschusses"
 date:   2017-08-31 18:00:00 +0200
-categories: politics, G20
+categories: politics G20
+parent_link: /politics/
 ---
 
 Am heutigen Tage (31. August 2017) fand die konstituierende Sitzung des 

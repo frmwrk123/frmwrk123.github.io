@@ -3,6 +3,7 @@ layout: post
 title:  "Nachlese zur Wahl in den USA"
 date:   2016-11-10 07:00:00 +0200
 categories: politics
+parent_link: /politics/
 ---
 
 Ich kenne keine Person persönlich, die sich einen Präsidenten Trump gewünscht hätte.
@@ -67,8 +68,8 @@ Hitler nach der Wahl 1933. Wir wissen was mit Hitler und Deutschland passiert is
 Es gibt bereits erste Berichte über den Tag 1 nach der Wahl. Es wurden Schmierereien
 mit "Make America White Again" kombiniert mit einem Hakenkreuz 
 [gefunden](https://twitter.com/sokane1/status/796547871000711172). Zwei
-Trump-Unterstützer haben einen muslimischen Studenten brutal [attackiert und 
-geschlagen](https://twitter.com/ShaunKing/status/796545691598409728). 
+Trump-Unterstützer haben einen muslimischen Studenten brutal attackiert und 
+geschlagen (Tweet wurde mittlerweile gelöscht). 
 Unabhängig von Trumps Regierungshandeln ist bereits jetzt eine
 Veränderung sichtbar, weil sich all die Rassisten bestätigt fühlen und in Trump
 einen Befürworter ihrer Gewalt sehen. Daher muss gegen Trump vom ersten Tag an

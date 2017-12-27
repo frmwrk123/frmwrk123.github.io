@@ -1,0 +1,38 @@
+---
+layout: category
+title: Computer Science
+category: cs
+sidebarboxes: author
+---
+
+<h1>Computer Science</h1>
+
+<p>
+    On this page you can find all my publications that were created as part of both the bachelor and master studies.
+    Furthermore you will find here blog posts that cover topics related to the studies and Computer Science.
+</p>
+
+{% if site.data.author.publications %}
+<h2>Publications</h2>
+
+<ul class="list-unstyled">
+    {% for publication in site.data.author.publications %}
+    <li class="media">
+        <a href="{{ publication.link }}"><span class="mr-3 far fa-file-pdf fa-5x"></span></a>
+        <div class="media-body">
+            <h5 class="mt-0">{{ publication.title }}</h5>
+            <ul class="list-unstyled">
+                <li><span class="font-weight-bold">Author:</span> {{ publication.author }}</li>
+                <li><span class="font-weight-bold">Date:</span>
+                    <time datetime="{{ publication.date | date_to_xmlschema }}" itemprop="datePublished">
+                        {{ publication.date | date: "%b %-d, %Y" }}
+                    </time>
+                </li>
+            </ul>
+        </div>
+    </li>
+    {% endfor %}
+</ul>
+{% endif %}
+
+<h2>Blog posts</h2>

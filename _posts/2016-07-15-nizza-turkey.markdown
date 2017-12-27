@@ -3,6 +3,7 @@ layout: post
 title:  "Nizza und Putsch in der Türkei"
 date:   2016-07-15 21:00:00 +0200
 categories: politics
+parent_link: /politics/
 ---
 
 Heute bin ich noch komplett ahnungslos bei der AStA-Sitzung gewesen und im 

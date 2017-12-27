@@ -2,7 +2,7 @@
 layout: post
 title:  "Kandidaturrede für StuPa-Präsidium"
 date:   2016-04-15 14:44:46 +0200
-categories: hopo
+categories: speeches
 ---
 
 Hallo erstmal,

@@ -3,6 +3,7 @@ layout: post
 title:  "Bericht von der BDK der GRÜNEN - Aussprache Bundestagswahl"
 date:   2017-11-25 16:00:00 +0200
 categories: politics
+parent_link: /politics/
 ---
 
 Heute findet die Bundesdelegiertenkonferenz der GRÜNEN statt. Ich bin für

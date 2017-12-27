@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+"bootstrap-custom"
+;
+
+.site-header > .navbar {
+  //border-top: 5px solid $dark;
+  border-bottom: 2px solid $light;
+}
+
+$navbarHeight: 58px;
+
+.large {
+  font-size: $font-size-lg;
+}
+
+#submenuNavbar {
+  top: $navbarHeight;
+}
+
+#main {
+  margin-top: $navbarHeight + 15px;
+  margin-bottom: 295px;
+}
+
+#main.submenu {
+  margin-top: 2*$navbarHeight + 15px;
+}
+
+*[id]:before {
+  display: block;
+  content: " ";
+  margin-top: -2*$navbarHeight; // Set the Appropriate Height
+  height: 2*$navbarHeight; // Set the Appropriate Height
+  visibility: hidden;
+}
+
+.site-header > .navbar {
+  background-color: $body-bg;
+}
+
+.site-footer {
+  border-top: 2px solid $light;
+  background-color: $body-bg;
+}
+
+.post-content, p {
+    text-align: justify;
+}
+
+.post-title {
+    font-weight: $font-weight-normal;
+}
+
+.card.sidebar {
+    width: 20rem;
+}

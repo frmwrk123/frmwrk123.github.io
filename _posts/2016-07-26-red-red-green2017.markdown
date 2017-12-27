@@ -3,6 +3,7 @@ layout: post
 title:  "Rot-Rot-Grün 2017"
 date:   2016-07-26 15:00:00 +0200
 categories: politics
+parent_link: /politics/
 ---
 
 Rot-Rot-Grün ist mittlerweile ein Begriff geworden. In Thüringen regiert
