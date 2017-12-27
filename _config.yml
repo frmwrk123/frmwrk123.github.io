@@ -33,7 +33,8 @@ defaults:
 
 # Build settings
 markdown: kramdown
-include: .htaccess
+include:
+  - .htaccess
 exclude:
   - scripts
   - README.md
