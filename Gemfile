@@ -26,6 +26,8 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-titles-from-headings'
   gem 'jemoji'
+  gem 'sprockets', '~> 4.0.beta'
+  gem 'uglifier'
 end
 gem 'jekyll-sass-converter'
 # themes
