@@ -1,7 +1,7 @@
 <footer class="site-footer small text-muted py-3 fixed-bottom">
     <div class="container">
         <div class="row">
-            <div class="col-sm-4">
+            <div class="col-md-4">
                 <nav>
                     <ul class="nav">
                         {% for item in site.data.footer-menu.items %}
@@ -12,12 +12,14 @@
                     </ul>
                 </nav>
                 {% if site.data.promotion.show %}
-                <a href="{{ site.data.promotion.link }}">
-                    <img src="{{ site.data.promotion.image }}" alt="{{ site.data.promotion.title }} promotional image" />
-                </a>
+                <div class="md-up">
+                    <a href="{{ site.data.promotion.link }}">
+                        <img src="{{ site.data.promotion.image }}" alt="{{ site.data.promotion.title }} promotional image" />
+                    </a>
+                </div>
                 {% endif %}
             </div>
-            <div class="col-sm-8">
+            <div class="col-md-8 md-up">
                 <ul class="list-unstyled">
                     {% if site.data.author.github_username %}
                     <li>
