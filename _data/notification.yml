@@ -1,6 +1,6 @@
 show: true
-type: info
+type: warning
 text: >
-  <span class="far fa-info-circle"></span>
-  Welcome on my relaunched website. Please see take your time and read the information on the
-  <a class="alert-link" href="/">home page</a> before continuing.
+  <span class="far fa-exclamation-triangle"></span>
+  The Snowden Refugees urgently need help. You want to get active? Take a look at the
+  <a class="alert-link" href="/snowden-refugees/">Snowden Refugees</a> page I created.
