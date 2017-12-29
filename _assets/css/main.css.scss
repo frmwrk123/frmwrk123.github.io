@@ -22,7 +22,7 @@ $navbarHeight: 58px;
 
 #main {
   margin-top: $navbarHeight + 15px;
-  margin-bottom: 295px;
+  margin-bottom: $navbarHeight + 15px;
 }
 
 #main.submenu {
@@ -56,4 +56,16 @@ $navbarHeight: 58px;
 
 .card.sidebar {
     width: 20rem;
+}
+
+@include media-breakpoint-up(md) {
+  #main {
+    margin-bottom: 295px;
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  .md-up {
+    display: none;
+  }
 }
