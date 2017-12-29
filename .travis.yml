@@ -10,7 +10,7 @@ env:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 sudo: false
 cache: bundler
-script: bundle exec jekyll build && bundle exec htmlproofer ./_site --disable-external
+script: JEKYLL_ENV=production bundle exec jekyll build && bundle exec htmlproofer ./_site --disable-external
 before_deploy:
 - openssl aes-256-cbc -K $encrypted_518a90de15e0_key -iv $encrypted_518a90de15e0_iv
   -in deploy_ed25519.enc -out /tmp/deploy_ed25519 -d
@@ -25,4 +25,3 @@ deploy:
   on:
     branch:
       - master
-      - 2.0
