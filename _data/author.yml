@@ -7,12 +7,14 @@ age: 23
 location: Hamburg, Germany
 cv_link: /cv/
 cv_pdf: /assets/pdf/cv.pdf
-job_email: jobs@2martens.de
-job_email_spam_proof: jobs at 2martens de
-politics_email: politik@2martens.de
-politics_email_spam_proof: politik at 2martens de
+generic_email: topic@2martens.de
+job_topic: jobs
+politics_topic: politik
+snowden_topic: snowden-refugees
 github_username: 2martens
 twitter_username: 2martens
+fingerprint_gpg: F0F1 53B6 5BAD 4672 01D7 544E 4739 3ABD 1F96 B7C8
+publickey_gpg: /assets/gpg/0x1F96B7C8-pub.asc
 publications:
   - link: /assets/pdf/bachelor-thesis.pdf
     title: Face Detection and Head Tracking for perspective rendering (Bachelor Thesis)

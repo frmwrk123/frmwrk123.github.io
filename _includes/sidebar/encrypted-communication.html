@@ -1,0 +1,12 @@
+<div class="card sidebar mb-3">
+    <div class="card-body">
+        <p class="card-text">
+            <a class="btn btn-primary" href="{{ site.data.author.publickey_gpg | relative_url }}">
+                <span class="far fa-key"></span>&nbsp;Download public key
+            </a><br>
+            Fingerprint of my GPG key:<br>
+            <code>{{ site.data.author.fingerprint_gpg }}</code>
+        </p>
+
+    </div>
+</div>

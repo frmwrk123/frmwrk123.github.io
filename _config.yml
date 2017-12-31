@@ -21,14 +21,14 @@ defaults:
     values:
       layout: "post"
       author: "Jim Martens"
-      sidebarboxes: "author"
+      sidebarboxes: "author encrypted-communication"
   -
       scope:
         path: ""
         type: "pages"
       values:
         layout: "page"
-        sidebarboxes: "author"
+        sidebarboxes: "author encrypted-communication"
 
 
 # Build settings
@@ -43,3 +43,4 @@ exclude:
   - deploy_ed25519.enc
   - LICENSE
   - vendor
+  - node_modules
