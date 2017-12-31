@@ -43,3 +43,4 @@ exclude:
   - deploy_ed25519.enc
   - LICENSE
   - vendor
+  - node_modules
