@@ -63,7 +63,13 @@ layout: default
 <ul class="post-list list-unstyled">
     {% for post in site.categories['site'] %}
     <li class="mb-4">
-        <span class="small text-muted">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <div class="small text-muted">
+            <span class="far fa-calendar-alt"></span>
+            <time datetime="{{ post.date | date_to_xmlschema }}">
+                {{ post.date | date: "%b %-d, %Y" }}
+            </time>
+            • {% include reading-time.html content=post.content %}
+        </div>
         <p class="h4 post-title">
             <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </p>

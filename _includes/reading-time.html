@@ -1,0 +1,8 @@
+<span class="far fa-clock"></span>
+{% assign words = include.content | number_of_words %}
+{% if words < 180 %}
+    less than 1 minute read
+{% else %}
+    {{ words | divided_by:180 }} minute read
+{% endif %}
+

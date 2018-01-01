@@ -14,7 +14,14 @@ layout: default
     {% assign posts = posts | sort: 'date' | reverse %}
     {% for post in posts %}
     <li class="mb-4">
-        <span class="small text-muted">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <p class="small text-muted">
+            <span class="far fa-calendar-alt"></span>
+            <time datetime="{{ post.date | date_to_xmlschema }}">
+                {{ post.date | date: "%b %-d, %Y" }}
+            </time>
+            • {% include reading-time.html content=post.content %}
+        </p>
+
         <p class="h4 post-title">
             <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </p>
