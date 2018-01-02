@@ -1,4 +1,10 @@
 <img alt="{{ include.alt }}"
-     src=""
+     src="/assets/images/blank.png"
      data-echo="{% if site.data.cdn.use and jekyll.environment == 'production' %}{{ site.data.cdn.url }}{% else %}{{ site.baseurl }}{% endif %}{{ include.link }}"
      class="img-fluid" />
+
+<noscript>
+    <img alt="{{ include.alt }}"
+         src="{% if site.data.cdn.use and jekyll.environment == 'production' %}{{ site.data.cdn.url }}{% else %}{{ site.baseurl }}{% endif %}{{ include.link }}"
+         class="img-fluid" />
+</noscript>
