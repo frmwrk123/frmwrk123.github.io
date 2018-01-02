@@ -20,47 +20,39 @@ nicht zerstört. In der Altstadt stehen 2830 Gebäude unter Denkmalschutz.
 Die Altstadttour begann mit der Buslinie 32 und einer Fahrt zum 
 Universitätsplatz - vorbei an dem großen Verteilerknoten Bismarckplatz.
 
-<img alt="Bismarckplatz aus dem Bus" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09324.JPG"
-     class="img-fluid" />
-
+{% include image.html alt="Bismarckplatz aus dem Bus" 
+     link="/buko48-heidelberg/DSC09324.JPG" %}
 
 Die Fahrt führte entlang des Neckarufers bis zur Kongresshaus.
 
-<img alt="Blick über den Neckar"
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09331.JPG"
-     class="img-fluid" />
+{% include image.html alt="Blick über den Neckar"
+     link="/buko48-heidelberg/DSC09331.JPG" %}
 
 Sie endete schließlich auf dem Universitätsplatz - inmitten der wunderschönen
 Altstadt. 
 
-<img alt="Universitätsplatz Richtung Hauptstraße"
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09335.JPG"
-     class="img-fluid" />
+{% include image.html alt="Universitätsplatz Richtung Hauptstraße"
+     link="/buko48-heidelberg/DSC09335.JPG" %}
 
 Von dort ging es zu Fuß über die Hauptachse der Altstadt und zum Sibley Haus.
 
-<img alt="Sibley Haus"
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09338.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Sibley Haus"
+     link="/buko48-heidelberg/DSC09338.JPG" %}
 
 Auf dem Weg zum Marktplatz gibt es allerlei kleine Gassen mit schöner Aussicht.
 Diese führt zur Heidelberger Jesuitenkirche.
 
-<img alt="Gasse mit Blick auf Jesuitenkirche" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09340.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Gasse mit Blick auf Jesuitenkirche" 
+     link="/buko48-heidelberg/DSC09340.JPG" %}
 
 Der Marktplatz umschließt die Heidelberger Heiliggeistkirche an deren Außenfassade
 u.a. kleine Souvenirshops zu finden sind.
 
-<img alt="Marktplatz mit Blick auf Heiliggeistkirche" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09343.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Marktplatz mit Blick auf Heiliggeistkirche" 
+     link="/buko48-heidelberg/DSC09343.JPG" %}
 
-<img alt="Turm der Heiliggeistkirche" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09344.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Turm der Heiliggeistkirche" 
+     link="/buko48-heidelberg/DSC09344.JPG" %}
 
 "Die Heiliggeistkirche ist die größte und bedeutendste Kirche in Heidelberg. Mit 
 der Apsis zum Marktplatz steht sie mitten in der Heidelberger Altstadt. Ihr Turm 
@@ -86,9 +78,8 @@ Tuchhändlerfamilie erbaut wurde. Es ist das älteste noch erhaltene Gebäude in
 Heidelberger Altstadt und eine der meistbesuchten Sehenswürdigkeiten in Heidelberg.
 Auf dem folgenden Bild kann das Eingangsportal des Hotels gesehen werden.
 
-<img alt="Eingangsportal des Hotels 'Zum Ritter'" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09346.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Eingangsportal des Hotels 'Zum Ritter'" 
+     link="/buko48-heidelberg/DSC09346.JPG" %}
 
 Ich bin links an der Kirche vorbeigegangen. Dabei kann das Südportal der Alten
 Brücke erahnt werden. Sie gehört zu einem der ältesten deutschen Brückenbauwerken
@@ -97,32 +88,27 @@ und wurde 1248 erstmals urkundlich erwähnt. In der heutigen Form wurde sie
 gesprengt, um den Vormarsch der Alliierten über den Neckar zu stoppen. Bereits
 1947 war sie jedoch wieder vollständig rekonstruiert.
 
-<img alt="Weg zum Südportal der Alten Brücke" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09349.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Weg zum Südportal der Alten Brücke" 
+     link="/buko48-heidelberg/DSC09349.JPG" %}
 
 Statt dem Weg zu folgen bin ich jedoch weiter um die Kirche herumgegangen, um
 schließlich zum Hauptteil des Marktplatzes zu kommen. Dort ist das Rathaus 
 Heidelbergs zu sehen, vor dem eine Hochzeitsfeier stattfand. 
 
-<img alt="Marktplatz mit Blick auf Rathaus" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09353.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Marktplatz mit Blick auf Rathaus" 
+     link="/buko48-heidelberg/DSC09353.JPG" %}
 
-<img alt="Rathaus mit Hochzeit" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09355.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Rathaus mit Hochzeit" 
+     link="/buko48-heidelberg/DSC09355.JPG" %}
 
 Vom Marktplatz ging es weiter Richtung Schloss - vorbei am Karlsplatz und der
 Stadthaltestelle der berühmten Heidelberger Bergbahnen.
 
-<img alt="Karlsplatz" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09357.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Karlsplatz" 
+     link="/buko48-heidelberg/DSC09357.JPG" %}
 
-<img alt="Karlsplatz mit Blick auf Bergbahnhaltestelle" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09359.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Karlsplatz mit Blick auf Bergbahnhaltestelle" 
+     link="/buko48-heidelberg/DSC09359.JPG" %}
 
 Nach einem kurzen, steilen und anstrengendem Anstieg bin ich dann auf dem Weg
 zum Schlosspark angelangt. Bis dahin hatte ich noch die Jacke an, was bei den
@@ -136,52 +122,41 @@ Umso mehr hatte ich eine massive Ausschüttung von Glückshormonen, als ich endl
 den Weg "bezwungen" hatte und die wunderbare Aussicht genießen konnte. Die nächsten
 paar Eindrücke daher ohne Worte.
 
-<img alt="Weg zum Schlosspark" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09361.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Weg zum Schlosspark" 
+     link="/buko48-heidelberg/DSC09361.JPG" %}
 
-<img alt="Fassade des Schlosses" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09363.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Fassade des Schlosses" 
+     link="/buko48-heidelberg/DSC09363.JPG" %}
 
-<img alt="Blick auf den erklommenen Weg" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09365.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Blick auf den erklommenen Weg" 
+     link="/buko48-heidelberg/DSC09365.JPG" %}
 
-<img alt="Blick vom Park auf den Schloss" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09371.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Blick vom Park auf den Schloss" 
+     link="/buko48-heidelberg/DSC09371.JPG" %}
 
-<img alt="Ostfassade des Schlosses" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09376.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Ostfassade des Schlosses" 
+     link="/buko48-heidelberg/DSC09376.JPG" %}
 
 Auf den markanten Bogen wandelnd, konnte ich das gesamte Tal mit der Altstadt
 Heidelbergs bewundern. Es war eine wahrhaft sagenhafte Aussicht. Einst beschritt
 auch Goethe diese Pfade.
 
-<img alt="Panoramablick" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09390.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Panoramablick" 
+     link="/buko48-heidelberg/DSC09390.JPG" %}
 
-<img alt="Weinhang am anderen Neckarufer" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09392.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Weinhang am anderen Neckarufer" 
+     link="/buko48-heidelberg/DSC09392.JPG" %}
 
-<img alt="Goethe-Denkmal" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09393.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Goethe-Denkmal" 
+     link="/buko48-heidelberg/DSC09393.JPG" %}
 
 Mein Weg führte mich im Anschluss zum Vater Rhein und zur Großen Grotte.
 
-<img alt="Vater Rhein" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09397.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Vater Rhein" 
+     link="/buko48-heidelberg/DSC09397.JPG" %}
 
-<img alt="Große Grotte" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09403.JPG" 
-     class="img-fluid" />
-
+{% include image.html alt="Große Grotte" 
+     link="/buko48-heidelberg/DSC09403.JPG" %}
 
 Zum Abschluss meines Schlossgarten-Besuchs bin ich noch Richtung Schlosshof
 gegangen, wo einige Informationen über den Schlossgarten zu finden waren. 
@@ -189,32 +164,27 @@ Er sollte als Pfälzischer Garten angelegt werden, auch wenn die Planung nie
 vollständig umgesetzt wurde. Später ist der Garten als Landschaftsgarten
 umgestaltet worden.
 
-<img alt="Radierung mit Design des Pfälzischen Gartens" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09408.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Radierung mit Design des Pfälzischen Gartens" 
+     link="/buko48-heidelberg/DSC09408.JPG" %}
 
-<img alt="Erklärtafel zum Schloss Heidelberg" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09410.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Erklärtafel zum Schloss Heidelberg" 
+     link="/buko48-heidelberg/DSC09410.JPG" %}
 
-<img alt="Design des Landschaftsgartens" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09411.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Design des Landschaftsgartens" 
+     link="/buko48-heidelberg/DSC09411.JPG" %}
 
 Zurück in der Stadt bin ich am letzten noch funktionstüchtigen Wasserteilkasten
 vorbeigekommen.
 
-<img alt="Erklärtafel zum Wasserteilkasten" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09418.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Erklärtafel zum Wasserteilkasten" 
+     link="/buko48-heidelberg/DSC09418.JPG" %}
 
 Die Stadttour habe ich beendet mit einem Blick auf das Großherzögliche Palais
 mit dem Schloss als Hintergrundkulisse. Das Palais dient heutzutage der Heidelberger
 Akademie der Wissenschaften als Sitz und wurde 1717 errichtet.
 
-<img alt="Großherzogliches Palais" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09424.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Großherzogliches Palais" 
+     link="/buko48-heidelberg/DSC09424.JPG" %}
 
 Im Anschluss habe ich die Gelegenheit noch genutzt und eine Portion Pommes Frites
 gegessen, bevor es über den Betriebshof Heidelberg zur Waldorfschule
@@ -266,9 +236,8 @@ durchgeführt. Als krönender Abschluss hat Erik Marquardt einen Fotovortrag zu
 Afghanistan gehalten. Dieser war hochinteressant. Das folgende Bild bringt den
 Vortrag gut auf den Punkt.
 
-<img alt="Menschen sind keine Welle, Lawine oder Flut" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09438.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Menschen sind keine Welle, Lawine oder Flut" 
+     link="/buko48-heidelberg/DSC09438.JPG" %}
 
 Im Abend- und Nachtprogramm habe ich eine Runde Cards against Humanity spielen
 können. Mit einigen anderen Menschen zusammen nahm ich im Anschluss als Team 
@@ -286,13 +255,11 @@ eingebracht und kurz darauf wurde er auch schon mehrheitlich angenommen.
 Damit neigt sich der Sonntag auch schon einem Ende zu. Bevor ich jedoch ganz
 gegangen bin, habe ich noch ein paar Bilder von der Schule gemacht.
 
-<img alt="Lageplan der Schule" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09442.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Lageplan der Schule" 
+     link="/buko48-heidelberg/DSC09442.JPG" %}
 
-<img alt="'Stein der Weisen' oder wo ein Antragssong entstand" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09439.JPG" 
-     class="img-fluid" />
+{% include image.html alt="'Stein der Weisen' oder wo ein Antragssong entstand" 
+     link="/buko48-heidelberg/DSC09439.JPG" %}
 
 # Heidelberg - Teil 2
 
@@ -301,100 +268,82 @@ Dinge abgegriffen, die ich am Freitag vergessen hatte.
 
 Diese folgen hier einfach ohne Kommentar.
 
-<img alt="Luftqualität am Bismarckplatz" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09451.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Luftqualität am Bismarckplatz" 
+     link="/buko48-heidelberg/DSC09451.JPG" %}
 
-<img alt="Statue vor dem Friedrichsbau" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09458.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Statue vor dem Friedrichsbau" 
+     link="/buko48-heidelberg/DSC09458.JPG" %}
 
-<img alt="Chronik Teil 1.1" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09460.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Chronik Teil 1.1" 
+     link="/buko48-heidelberg/DSC09460.JPG" %}
 
-<img alt="Chronik Teil 1.2" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09461.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Chronik Teil 1.2" 
+     link="/buko48-heidelberg/DSC09461.JPG" %}
 
-<img alt="Chronik Teil 1.3" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09462.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Chronik Teil 1.3" 
+     link="/buko48-heidelberg/DSC09462.JPG" %}
 
-<img alt="Chronik Teil 1 Bild" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09463.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Chronik Teil 1 Bild" 
+     link="/buko48-heidelberg/DSC09463.JPG" %}
 
-<img alt="Chronik Teil 2.1" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09470.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Chronik Teil 2.1" 
+     link="/buko48-heidelberg/DSC09470.JPG" %}
 
-<img alt="Chronik Teil 2.2" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09473.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Chronik Teil 2.2" 
+     link="/buko48-heidelberg/DSC09473.JPG" %}
 
-<img alt="Chronik Teil 2.3" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09472.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Chronik Teil 2.3" 
+     link="/buko48-heidelberg/DSC09472.JPG" %}
 
-<img alt="Chronik Teil 2 Bild" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09474.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Chronik Teil 2 Bild" 
+     link="/buko48-heidelberg/DSC09474.JPG" %}
 
-<img alt="Chronik Teil 2 Bild 2" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09475.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Chronik Teil 2 Bild 2" 
+     link="/buko48-heidelberg/DSC09475.JPG" %}
 
 Da ich noch etwas Zeit hatte, habe ich mich bei einem Café gesetzt und eine
 heiße Schokolade und Kaiserschmarn verzehrt.
 
-<img alt="Kaiserschmarn" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09468.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Kaiserschmarn" 
+     link="/buko48-heidelberg/DSC09468.JPG" %}
 
 Während ich dort saß und aß, bewegte sich eine Demo auf der Hauptstraße vorbei,
 die scheinbar für die deutsch-israelische Freundschaft auf die Straße ging.
 
-<img alt="Demo" 
-    src="https://media.2martens.de/images/buko48-heidelberg/DSC09466.JPG" 
-    class="img-fluid" />
+{% include image.html alt="Demo" 
+     link="/buko48-heidelberg/DSC09466.JPG" %}
 
 Auf dem Weg zurück zum Hauptbahnhof stieß ich auf das folgende Schild. Vielleicht
 eine Idee für Hamburg?
 
-<img alt="Straßenkunst-Standort" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09469.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Straßenkunst-Standort" 
+     link="/buko48-heidelberg/DSC09469.JPG" %}
 
 Am Ende der Hauptstraße befindet sich wieder der Bismarckplatz. An dieser Stelle
 stand einst das Speyerer Tor.
 
-<img alt="Speyerer Tor" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09476.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Speyerer Tor" 
+     link="/buko48-heidelberg/DSC09476.JPG" %}
 
 Abschließend habe ich noch ein paar Bilder vom Heidelberger Hauptbahnhof nachgeholt.
 
-<img alt="Geschichte Hbf" src="https://media.2martens.de/images/buko48-heidelberg/DSC09450.JPG" class="img-fluid" />
+{% include image.html alt="Geschichte Hbf" 
+     link="/buko48-heidelberg/DSC09450.JPG" %}
 
-<img alt="Heidelberg Hbf Richtung Süden/Osten" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09479.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Heidelberg Hbf Richtung Süden/Osten" 
+     link="/buko48-heidelberg/DSC09479.JPG" %}
 
-<img alt="Heidelberg Hbf Richtung Mannheim/Weinheim" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09491.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Heidelberg Hbf Richtung Mannheim/Weinheim" 
+     link="/buko48-heidelberg/DSC09491.JPG" %}
 
 Damit schließt sich der Kreis. Vom kurzen Zwischenhalt in Mannheim folgen noch
 ein Bild vom Bahnhofsvorplatz und dem Eingangsportal zum Bahnhof.
 
-<img alt="Mannheim Hbf Bahnhofsvorplatz" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09497.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Mannheim Hbf Bahnhofsvorplatz" 
+     link="/buko48-heidelberg/DSC09497.JPG" %}
 
-<img alt="Mannheim Hbf Eingangsportal" 
-     src="https://media.2martens.de/images/buko48-heidelberg/DSC09500.JPG" 
-     class="img-fluid" />
+{% include image.html alt="Mannheim Hbf Eingangsportal" 
+     link="/buko48-heidelberg/DSC09500.JPG" %}
 
 # Ausblick 
 
