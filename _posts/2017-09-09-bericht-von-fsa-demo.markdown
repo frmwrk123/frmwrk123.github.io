@@ -68,33 +68,32 @@ das Wetter nicht das beste und der Gendarmenmarkt nicht annähernd voll. Dennoch
 hier ein paar Impressionen von der heutigen Demo.
 
 Der ehemalige Bundesdatenschutzbeauftragte war einer der Redner*innen auf der Bühne.
-<img alt="Peter Schaar spricht auf der Kundgebung" 
-     src="https://media.2martens.de/images/freiheit40-demo-berlin2017/DSC02092.JPG"
-     class="img-fluid" />
+
+{% include image.html alt="Peter Schaar spricht auf der Kundgebung"
+   link="/freiheit40-demo-berlin2017/DSC02092.JPG" %}
 
 Auf einem Teil des Platzes befanden sich Infostände für interessierte Gäste.
-<img alt="Infostände Teil 1" 
-     src="https://media.2martens.de/images/freiheit40-demo-berlin2017/DSC02093.JPG"
-     class="img-fluid" />
- <img alt="Infostände Teil 2" 
-      src="https://media.2martens.de/images/freiheit40-demo-berlin2017/DSC02094.JPG"
-      class="img-fluid" />
-<img alt="GRÜNE JUGEND Stand" 
-     src="https://media.2martens.de/images/freiheit40-demo-berlin2017/DSC02096.JPG"
-     class="img-fluid" />
-<img alt="Flyer und Sticker für die Revolution" 
-     src="https://media.2martens.de/images/freiheit40-demo-berlin2017/DSC02097.JPG"
-     class="img-fluid" />
+
+{% include image.html alt="Infostände Teil 1"
+   link="/freiheit40-demo-berlin2017/DSC02093.JPG" %}
+   
+{% include image.html alt="Infostände Teil 2"
+   link="/freiheit40-demo-berlin2017/DSC02094.JPG" %}
+   
+{% include image.html alt="GRÜNE JUGEND Stand"
+   link="/freiheit40-demo-berlin2017/DSC02096.JPG" %}
+   
+{% include image.html alt="Flyer und Sticker für die Revolution"
+   link="/freiheit40-demo-berlin2017/DSC02097.JPG" %}
 
 Auch die FDP und die Jungen Liberalen waren vertreten. Ebenso die Piraten,
 Bündnis 90/Die GRÜNEN, die GRÜNE JUGEND und Demokratie in Bewegung. Von den LINKEN, 
 der SPD und den anderen Parteien keine Spur.
-<img alt="Botschaft der Jungen Liberalen" 
-     src="https://media.2martens.de/images/freiheit40-demo-berlin2017/DSC02107.JPG"
-     class="img-fluid" />
+
+{% include image.html alt="Botschaft der Jungen Liberalen"
+   link="/freiheit40-demo-berlin2017/DSC02107.JPG" %}
 
 Die GRÜNE JUGEND konnte mit der größten Fahne aufwarten.
-<img alt="Größte Fahne" 
-     src="https://media.2martens.de/images/freiheit40-demo-berlin2017/DSC02113.JPG"
-     class="img-fluid" />
 
+{% include image.html alt="Größte Fahne"
+   link="/freiheit40-demo-berlin2017/DSC02113.JPG" %}
