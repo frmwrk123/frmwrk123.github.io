@@ -1,4 +1,4 @@
 <img alt="{{ include.alt }}"
      src=""
-     data-echo="{% if site.data.cdn.use %}{{ site.data.cdn.url }}{% else %}{{ site.baseurl }}{% endif %}{{ include.link }}"
+     data-echo="{% if site.data.cdn.use and jekyll.environment == 'production' %}{{ site.data.cdn.url }}{% else %}{{ site.baseurl }}{% endif %}{{ include.link }}"
      class="img-fluid" />
