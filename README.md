@@ -1,6 +1,6 @@
 # Personal Website
 
-[![Build Status](https://travis-ci.org/2martens/2martens.github.io.png?branch=2.0)](https://travis-ci.org/2martens/2martens.github.io)
+[![Build Status](https://travis-ci.org/2martens/2martens.de.png)](https://travis-ci.org/2martens/2martens.de)
 
 This repository hosts my personal website. It is jekyll powered with all required
 dependencies described in the Gemfile. If you wanted, you could create the very same
