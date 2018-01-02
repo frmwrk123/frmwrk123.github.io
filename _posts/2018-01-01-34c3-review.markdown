@@ -1,0 +1,521 @@
+---
+layout: post
+title:  "34C3 Review"
+date:   2018-01-01 10:00:00 +0200
+categories: blog
+---
+
+The last few days of 2017 were spent in Leipzig, attending the 34C3. It was my fourth congress and the first one in
+Leipzig. I didn't know what to expect from the new location and I never was in Leipzig before. In addition I was 
+interested in the new ICE route from Berlin to Munich and thought that the part Berlin-Leipzig would be interesting.
+In preparation of the congress I looked through the talks and was blown away. There were - again - so many good talks,
+especially the shortly announced one with Snowden via livestream was promising.
+
+I arrived in Leipzig on the 26th December. The plan was to quickly drive to the hotel to leave the trolley there and then
+drive to the exhibition halls. Well, it turned out that the public transport in Leipzig on holidays and especially between
+Christmas and New Year wasn't that good, especially compared to Hamburg. Overall it took us about 3 hours to drive
+to the hotel, leave the stuff behind and then drive to the exhibition halls. In 2018 I will already arrive on the 25th
+in order to participate the entire 26th December. The train journey itself was without problems but the route from
+Berlin to Leipzig was in fact not new. That part hasn't changed. The new route for the ICE trains only starts
+in Halle/Leipzig. Another dent in the initial experience was the fact that the hotel was one station outside
+the Leipzig tariff zone 110. Another thing I will make sure to get right in 2018 will be the location of my hotel.
+It will be within the Leizig tariff zone.
+
+## The Bad and the Ugly
+
+But enough with these environmental conditions. Let's start with the congress itself. The area was huge and much
+bigger than the CCH in Hamburg. Though it is not entirely correct to simply compare the top-down area since the CCH
+had a lot more verticality throughout whereas in the Leipzig exhibition halls most things happened on one level. In
+any case many people brought rolling devices with them to cover the long distances more quickly. Some even built their
+own rolling chairs. The Congress Center Leipzig (CCL) was home to the Heaven, the smallest lecture hall and the
+merchandise as well as some political assemblies. There was one huge hall (Hall 2) which was filled with all the
+assemblies and two halls filled with the big lecture halls. The connecting glass hall was home to CERT, the main entrance,
+food catering and some more things.
+
+It was definitely a different light experience. The big glass hall allowed daylight consumption and made it plain
+obvious when that was missing. Furthermore it was never as warm as the CCH. I'd say the lighting and the temperature
+feeling were the main detractors from the experience. In the CCH I was able to stay much longer without being tired,
+simply because there was a lot more to discover and more exciting locations. The new areas are good for the amount of
+people but it all felt a lot more anonymous and less comfortable. I had a bit of CeBIT feeling in the congress thanks
+to the long walking times and the few opportunities to sit down. This dragged my feeling down. Furthermore the out of
+center location in Leipzig meant that there were no relative cheap opportunities to eat. You had a Mc Donalds within
+10 walking minutes but after one side exit was closed down, the walking distance doubled at least, which ruled it out
+in the next days. Other than that only the expensive catering inside the congress was available. There was also the
+Heaven's kitchen but like always you lack vouchers in the beginning and have too many in the end. This was especially
+true, because I always had shifts during the meal times, something I will avoid next time. However I can positively note
+that the available catering offered more variety and most importantly more hot meals than the CCH.
+
+The location of the hotel also limited the time I was able to stay at the congress, since the tram line driving to
+the hotel didn't benefit from the better connections of the tram line driving to the congress and therefore didn't drive
+through the night. Then again, there would not have been many things to do after the last talks were over. That reinforced
+a bit the CeBIT feeling. The layout was good for huge amounts of people but the spirit and charm of all the small
+things in the CCH was gone.
+
+If the goal of the congress are more professionalized conference processes than this new location is wonderful. But
+if it supposed to maintain the community spirit of previous congresses many things must be improved for 35C3. First and
+foremost a lot more content must be available per square meter. Right now the space may be bigger but the relative
+amount of content per square meter is lower, which makes the entire experience more stressed.
+
+I know that a lot of this has been negative and more will come but I'd like to start with that and then mention the 
+good parts. Coupled with the many hours needed for a
+T-Shirt at the beginning, the unfitting times for angel meetings, many already booked out shifts on the 26th and less
+breaks in the lecture schedule, the experience was everything but great. In 2016 there were consistent breaks between
+15:00 and 16:00 and between 19:30 and 20:30. The talks by the way didn't start earlier. In 2017 there was only one
+break to be found which was consistent across all lecture halls and days and that was between 17:30 and 18:30.
+With the afternoon and evening breaks in 2016 it was possible to have two meals without missing a talk. In 2017
+there was only one time frame to get a meal and not miss something. It was so early that you were hungry again before
+midnight. The longer walking times but not longer breaks between the talks made it also more difficult to quickly
+eat some small thing (e.g. an ice cream) before the next talk. In the CCH it was certainly possible for most talks
+(except for the really big talks) to go to Heaven between the talks, talk to people, go to toilet there, eat a bit
+and then go back to the next talk. In the new location you need almost the entire time to go from one hall to
+the other and there is no food just outside the lecture halls. The nearest food is almost always 5 minutes away.
+
+If I would end at this point, the summary of the congress would be devastating. But it's not over yet.
+
+## The Good
+
+There were many great talks and I sadly experienced only a handful of talks. The second day of congress was the only
+one where I could visit some more talks. The talk with Snowden was definitely the most memorable one. There were
+many more world history like talks but I sadly visited far fewer talks than at 33C3 so I couldn't visit most of them.
+The talks that I did visit where mostly great.
+Another positive aspect were the many great people I saw and spoke to during the congress. It's always nice to catch up
+and meet friends you otherwise don't see. In addition it always feels good to be a part of world history or witness
+it happening right next to you. 
+
+Furthermore I used the time during the congress to finish the relaunch of my website. The relaunched website
+will form the base for better coordinated activity in the year 2018. Thanks to some immediate feedback I was able
+to fix some glaring issues related to the mobile friendliness of the website. This website also brought with it a lot
+more motivation for activity going forward.
+
+## Leipzig
+
+I drove back to Hamburg on the 31st December. This allowed me to explore some areas of Leipzig. I used the time between
+check-out at the hotel and the departure of the ICE to walk trough the inner city of Leipzig and visit the Völkerschlachtdenkmal.
+Along the way I have made some images which illustrate this very well. Therefore I will show these images in the following
+section with a bit of explanation for some images. There are MANY images.
+
+First of are some images from the S-Bahn station at the central station. However
+these were made during the 34C3 as I used an S-Bahn to drive to the exhibition halls.
+
+{% include image.html alt="Entrance to City tunnel at Hbf (tief) from Tram side"
+   link="/34c3/DSC02309.JPG" %}
+   
+{% include image.html alt="Hbf (tief) platform level"
+   link="/34c3/DSC02311.JPG" %}
+   
+{% include image.html alt="S-Bahn at Hbf (tief)"
+   link="/34c3/DSC02313.JPG" %}
+   
+{% include image.html alt="inside S-Bahn to Messe"
+  link="/34c3/DSC02315.JPG" %}
+  
+After arriving with the Tram at the central station I went by foot into the
+inner city. The first significant building was the St. Nicholas's Church.
+
+{% include image.html alt="Look back to central station"
+   link="/34c3/DSC02316.JPG" %}
+   
+{% include image.html alt="St. Nicholas's Church from further away"
+   link="/34c3/DSC02322.JPG" %}
+   
+{% include image.html alt="St. Nicholas's Church"
+   link="/34c3/DSC02324.JPG" %}
+
+{% include image.html alt="Old St. Nicholas's School"
+   link="/34c3/DSC02325.JPG" %}
+   
+After passing the Nikolaikirche I encountered "Real Life" instructions.
+
+{% include image.html alt="Real Life Instructions"
+   link="/34c3/DSC02326.JPG" %}
+
+A few minutes later I was on the central place of the inner city, the old
+market. Here I found the Old City Hall, which is nowadays a museum
+for the city history.
+
+{% include image.html alt="Old City Hall"
+   link="/34c3/DSC02332.JPG" %}
+   
+{% include image.html alt="Old City Hall"
+   link="/34c3/DSC02333.JPG" %}
+   
+{% include image.html alt="Old City Hall"
+   link="/34c3/DSC02334.JPG" %}
+   
+{% include image.html alt="memorial stone for Robert Blum"
+   link="/34c3/DSC02335.JPG" %} 
+
+Next up was the St. Thomas's Church and a Commerzbank building with golden
+aspects.
+
+{% include image.html alt="St. Thomas's Church"
+   link="/34c3/DSC02338.JPG" %}
+
+{% include image.html alt="golden Commerzbank building"
+   link="/34c3/DSC02341.JPG" %}
+   
+In front of the Thomaskirche was a Bach statue.
+
+{% include image.html alt="Statue of Bach"
+   link="/34c3/DSC02403.JPG" %}
+   
+From there I went in the direction of the Wilhelm-Leuschner-Platz, even though
+I didn't know that at the time. On the way I saw this advertisement and couldn't
+resist to make a photo of it.
+
+{% include image.html alt="Advertisement"
+   link="/34c3/DSC02346.JPG" %}
+   
+{% include image.html alt="historic building"
+   link="/34c3/DSC02349.JPG" %}
+
+{% include image.html alt="historic building"
+   link="/34c3/DSC02352.JPG" %}
+   
+At the exit of the inner city I found the music school, a Deutsche Bank building
+and the lonely entrance to the S-Bahn station Wilhelm-Leuschner-Platz.
+
+{% include image.html alt="Music school"
+   link="/34c3/DSC02353.JPG" %}
+   
+{% include image.html alt="Deutsche Bank building"
+   link="/34c3/DSC02355.JPG" %}
+
+{% include image.html alt="Wilhelm-Leuschner-Platz station"
+   link="/34c3/DSC02354.JPG" %}
+   
+I continued left towards the Moritz Bastei, the Gewandhaus, the university and the
+Augustusplatz. However I wasn't aware of it at the time. The first university
+building I saw was the mensa. Next I saw a statue from Albrecht Thaer, the Moritz
+bastei and the Gewandhaus.
+
+{% include image.html alt="Mensa"
+   link="/34c3/DSC02359.JPG" %}
+   
+{% include image.html alt="Albrecht Thaer statue"
+   link="/34c3/DSC02360.JPG" %}
+
+{% include image.html alt="Moritz Bastei"
+   link="/34c3/DSC02363.JPG" %}
+   
+{% include image.html alt="New Gewandhaus"
+   link="/34c3/DSC02366.JPG" %}
+   
+From here I walked right onto the Augustusplatz and was overwhelmed by the
+main entrance to the University of Leipzig. They even have their own
+University Church St. Pauli or otherwise known as Paulinum. The main building
+is the New Augusteum.
+
+{% include image.html alt="University Leipzig skyline"
+   link="/34c3/DSC02368.JPG" %}
+   
+{% include image.html alt="University Leipzig main entrance"
+   link="/34c3/DSC02369.JPG" %}
+
+{% include image.html alt="University Leipzig building plan"
+   link="/34c3/DSC02370.JPG" %}
+   
+{% include image.html alt="University Leipzig building plan legend"
+   link="/34c3/DSC02371.JPG" %}
+   
+{% include image.html alt="Paulinum - University Church Music Trail station"
+   link="/34c3/DSC02372.JPG" %}
+   
+{% include image.html alt="Paulinum - University Church St. Pauli"
+   link="/34c3/DSC02373.JPG" %}
+
+Right next to the university was a Vapiano. I was hungry at the time but didn't
+want to stop here. Therefore I made further images from the Augustusplatz.
+The first image after the Vapiano is from the opera house, followed by images
+from the New Gewandhaus and some "Omnia vincit labor" installation.
+
+{% include image.html alt="Vapiano at Augustusplatz"
+   link="/34c3/DSC02374.JPG" %}
+   
+{% include image.html alt="Opera House"
+   link="/34c3/DSC02377.JPG" %}
+   
+{% include image.html alt="New Gewandhaus"
+   link="/34c3/DSC02378.JPG" %}
+   
+{% include image.html alt="Omnia vincit labor installation"
+   link="/34c3/DSC02379.JPG" %}
+   
+At the Augustusplatz I also saw the start point for the Leipzig Music trail.
+
+{% include image.html alt="Leipzig Music Trail"
+   link="/34c3/DSC02381.JPG" %}
+   
+After I was done exploring the Augustusplatz I went back in the direction of the
+market and encountered some statues on a cross.
+
+{% include image.html alt="Statues on a cross"
+   link="/34c3/DSC02387.JPG" %}
+   
+On the way back to the market I saw again the St. Nicholas's Church.
+
+{% include image.html alt="St. Nicholas's Church"
+   link="/34c3/DSC02391.JPG" %}
+   
+All of a sudden I felt like ancient Rome when I saw a stele.
+
+{% include image.html alt="Stele"
+   link="/34c3/DSC02392.JPG" %}
+   
+I read an explanatory text about the peaceful revolution which also
+contained a map of the city center. Lastly I saw a statue of Goethe.
+
+{% include image.html alt="explanation about peaceful revolution"
+   link="/34c3/DSC02394.JPG" %}   
+   
+{% include image.html alt="map of Leipzig inner city"
+   link="/34c3/DSC02395.JPG" %}
+   
+{% include image.html alt="Goethe statue"
+   link="/34c3/DSC02401.JPG" %}
+   
+At this point I walked through the inner city of Leipzig for one hour (12 to 1pm). I took
+a break and went to the "Brauhaus an der Thomaskirche", where I drank a hot
+chocolate and ate fried potatoes. Strengthened by the meal I walked to the
+S-Bahn station Markt and was headed for the Völkerschlachtdenkmal.
+
+Despite being a new construction, the entrance to the S-Bahn station is historic.
+Historically there was an "Untergrundmesshalle" below the market which was used
+for exhibition purposes.
+
+{% include image.html alt="Untergrundmesshalle entrance"
+   link="/34c3/DSC02337.JPG" %}
+   
+{% include image.html alt="Untergrundmesshalle staircase"
+   link="/34c3/DSC02416.JPG" %}
+   
+{% include image.html alt="Untergrundmesshalle memorial plate"
+   link="/34c3/DSC02417.JPG" %}
+
+{% include image.html alt="Historic entrance to S-Bahn station Markt"
+   link="/34c3/DSC02420.JPG" %}
+   
+{% include image.html alt="S-Bahn station Markt upper floor"
+   link="/34c3/DSC02418.JPG" %}
+   
+{% include image.html alt="S-Bahn station Markt from top"
+   link="/34c3/DSC02421.JPG" %}
+   
+On the Sunday, which Silvester was, the S-Bahn drove every 15 minutes to
+the Völkerschlachtdenkmal. After missing one S-Bahn I finally took the one
+at 2:06 pm and made images from within the S-Bahn. Sadly most of these
+images are of poor quality so I can show only few of them.
+
+{% include image.html alt="S-Bahn Mitteldeutschland network"
+   link="/34c3/DSC02429.JPG" %}
+   
+{% include image.html alt="Wilhelm-Leuschner-Platz interior"
+   link="/34c3/DSC02432.JPG" %}
+   
+{% include image.html alt="S-Bahn from inside"
+   link="/34c3/DSC02433.JPG" %}
+   
+{% include image.html alt="Leipzig MDR station"
+   link="/34c3/DSC02448.JPG" %}
+   
+{% include image.html alt="Leipzig Völkerschlachtdenkmal station"
+   link="/34c3/DSC02457.JPG" %}
+   
+After I arrived at the Völkerschlachtdenkmal I went towards the Street of the
+18th October and from there could see the memorial. I went to the memorial,
+documented the renovation information, took some pictures and then went
+towards the main entrance.
+
+{% include image.html alt="Street of 18th October"
+   link="/34c3/DSC02462.JPG" %}
+   
+{% include image.html alt="Memorial from far"
+   link="/34c3/DSC02465.JPG" %}
+   
+{% include image.html alt="Renovation information"
+   link="/34c3/DSC02470.JPG" %}
+   
+{% include image.html alt="View to memorial from across the lake"
+   link="/34c3/DSC02472.JPG" %}
+   
+{% include image.html alt="Close-up of memorial from across the lake"
+   link="/34c3/DSC02475.JPG" %}
+   
+{% include image.html alt="Map of memorial interior"
+   link="/34c3/DSC02477.JPG" %}
+   
+{% include image.html alt="Explanatory information"
+   link="/34c3/DSC02480.JPG" %}
+
+The memorial was closed so I was only able to look at it from the outside. But
+that was enough.
+
+{% include image.html alt="Memorial from bottom"
+   link="/34c3/DSC02481.JPG" %}
+   
+{% include image.html alt="View across the lake"
+   link="/34c3/DSC02482.JPG" %}
+   
+{% include image.html alt="View from first level"
+   link="/34c3/DSC02483.JPG" %}
+   
+{% include image.html alt="View to top from highest level"
+   link="/34c3/DSC02488.JPG" %}
+   
+{% include image.html alt="View across Leipzig"
+   link="/34c3/DSC02489.JPG" %}
+   
+{% include image.html alt="View across Leipzig"
+   link="/34c3/DSC02491.JPG" %}
+   
+{% include image.html alt="View across Leipzig"
+   link="/34c3/DSC02492.JPG" %}
+   
+{% include image.html alt="View across Leipzig"
+   link="/34c3/DSC02494.JPG" %}
+   
+{% include image.html alt="View across Leipzig"
+   link="/34c3/DSC02495.JPG" %}
+   
+{% include image.html alt="View across Leipzig"
+   link="/34c3/DSC02496.JPG" %}
+   
+{% include image.html alt="View across Leipzig"
+   link="/34c3/DSC02498.JPG" %}
+   
+After I made these images of Leipzig from above, I started to go back to the
+S-Bahn station. On the way I saw an old water tower and the apparently newest
+tram with respect to Leipzig.
+
+{% include image.html alt="Memorial from side"
+   link="/34c3/DSC02502.JPG" %}
+   
+{% include image.html alt="Old water tower"
+   link="/34c3/DSC02504.JPG" %}
+   
+{% include image.html alt="Newest tram"
+   link="/34c3/DSC02506.JPG" %} 
+   
+Short before the station I saw something similar to a signpost on the ground.
+
+{% include image.html alt="Ground-based signpost"
+   link="/34c3/DSC02510.JPG" %}
+   
+Back at the station I took the next S-Bahn to the central station. This one
+was special though. The interior light was off, which I didn't notice until we
+entered the city tunnel. 
+
+{% include image.html alt="S-Bahn network part 1"
+   link="/34c3/DSC02514.JPG" %}
+   
+{% include image.html alt="S-Bahn network part 2"
+   link="/34c3/DSC02515.JPG" %}
+   
+{% include image.html alt="Map of Leipzig inner city"
+   link="/34c3/DSC02528.JPG" %}
+   
+{% include image.html alt="S-Bahn without interior lights inside a tunnel"
+   link="/34c3/DSC02530.JPG" %}
+   
+I left the train in the central station and notified the driver that the lights
+were off. He fixed it immediately. This time I left the station on the side of
+the central station itself and came up inside it's hall.
+
+{% include image.html alt="Exit Citytunnel inside central station from middle level"
+   link="/34c3/DSC02535.JPG" %}
+   
+{% include image.html alt="Exit Citytunnel inside central station from above"
+   link="/34c3/DSC02537.JPG" %}
+   
+The citytunnel entrance was at the location of the former platforms 1 through 6.
+
+{% include image.html alt="Former platforms 1 through 6"
+   link="/34c3/DSC02538.JPG" %}
+   
+I had some time left so I went to the complete opposite side of the central
+station where I was surprised to see some historic locomotives and a memorial
+for the deported people during the Nazi reign.
+
+{% include image.html alt="Deportation memorial"
+   link="/34c3/DSC02557.JPG" %}
+
+{% include image.html alt="Deportation memorial"
+   link="/34c3/DSC02558.JPG" %}
+   
+{% include image.html alt="Historic steam engine"
+   link="/34c3/DSC02559.JPG" %}
+   
+{% include image.html alt="Historic steam engine"
+   link="/34c3/DSC02560.JPG" %}
+   
+{% include image.html alt="Historic steam engine"
+   link="/34c3/DSC02561.JPG" %}
+   
+The first historical locomotive was a steam engine, followed by a Hanseat of the
+Hamburg version. The Hanseat trains were built in the 30s and had a regular top speed
+of 160 kph. At that time it was revolutionary and they were the fastest trains of the
+world. Hence they were called "flying trains". 
+Nowadays 160 kph is the regular top speed for most mainline regional services.
+The presented Hanseat is the last existing one of the Hamburg variant.
+   
+{% include image.html alt="Hanseat"
+   link="/34c3/DSC02563.JPG" %}
+   
+{% include image.html alt="Hanseat"
+   link="/34c3/DSC02565.JPG" %}
+   
+{% include image.html alt="Hanseat"
+   link="/34c3/DSC02566.JPG" %}
+   
+Behind the Hanseat came some old electronic locomotives.
+
+{% include image.html alt="historic electronic locomotive E04-01"
+   link="/34c3/DSC02571.JPG" %}
+   
+{% include image.html alt="historic electronic locomotive E04-01"
+   link="/34c3/DSC02572.JPG" %}
+   
+{% include image.html alt="historic electronic locomotive E44-046"
+   link="/34c3/DSC02575.JPG" %}
+   
+{% include image.html alt="historic electronic locomotive E44-046"
+   link="/34c3/DSC02576.JPG" %}
+   
+{% include image.html alt="historic electronic locomotive E44-046"
+   link="/34c3/DSC02577.JPG" %}
+  
+{% include image.html alt="historic electronic locomotive E44-046"
+   link="/34c3/DSC02578.JPG" %}
+   
+{% include image.html alt="historic electronic locomotive E94-056"
+   link="/34c3/DSC02579.JPG" %}
+   
+While I was looking at these old locomotives a more modern train arrived.
+
+{% include image.html alt="old vs. semi-old"
+   link="/34c3/DSC02587.JPG" %}
+   
+I went in the direction of my train. On the way I passed by some documentation
+of 100 years Leipzig central station and an image of the new ICE route from
+Berlin to Nuremberg. As I initially wrote, the part from Berlin to Leipzig isn't
+new.
+
+{% include image.html alt="Berlin-Munich route"
+   link="/34c3/DSC02606.JPG" %}
+   
+Last but not least are some panorama views of the central station.
+
+{% include image.html alt="Leipzig central station panorama"
+   link="/34c3/DSC02615.JPG" %}
+   
+{% include image.html alt="Leipzig central station panorama"
+   link="/34c3/DSC02616.JPG" %}
+   
+{% include image.html alt="Leipzig central station panorama"
+   link="/34c3/DSC02617.JPG" %}
+   
+## The End
+
+Now that you have survived the many images I just want to write that this
+journey through Leipzig was the key part that made me very happy about the
+34C3.
