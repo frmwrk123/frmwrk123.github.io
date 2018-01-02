@@ -23,12 +23,23 @@ layout: default
         This website doesn't use any cookies. Hence it cannot connect two visits to the same device.
     </li>
     <li><span class="font-weight-bold">(Almost) no javascript</span>:
-        This site uses almost no javascript. Javascript is only used to make the menus responsive and to replace the
-        Font Awesome span elements with svg elements.
+        This site uses almost no javascript. Javascript is only used to make the menus responsive, to replace the
+        Font Awesome span elements with svg elements and to load images on demand to make site loading faster.
     </li>
     <li><span class="font-weight-bold">(Almost) no external requests</span>:
-        To protect your privacy as good as possible, the amount of external requests is almost zero. The only occurance
-        of external requests occurs in combination with embedded videos and to load the slim version of jQuery.
+        To protect your privacy as good as possible, the amount of external requests is as low as possible. External
+        requests are only used for embedded videos, to load the slim version of jQuery and whenever external media
+        is referenced.
+    </li>
+    <li><span class="font-weight-bold">Privacy-friendly CDN</span>:
+        The external media is saved in an S3 storage bucket, which resides in Frankfurt/Main and is encrypted on the
+        server-side. The media is then distributed by Cloud Front to Europe, the US and Canada. Only HTTPS connections
+        are allowed by Cloud Front. No access logs are created as far as it is in my control. Perhaps Amazon creates
+        access logs themselves. A custom sub domain named cdn.2martens.de is used to fetch this media.
+
+        If you have fundamental problems with these requests, you can block cdn.2martens.de so that the images are not
+        loaded. In their place you will find alternative texts that should be roughly descriptive of what is visible
+        on the image.
     </li>
     <li><span class="font-weight-bold">Privacy-friendly embedded videos</span>:
         Embedded YouTube videos use the youtube-nocookie.com domain which proclaims that no data is stored about the
