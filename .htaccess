@@ -1,10 +1,13 @@
 RewriteEngine On
 
+# rewrite jim.2martens.de to 2martens.de
 RewriteCond %{HTTP_HOST} ^jim\.2martens\.de [NC]
 RewriteRule ^(.*)$ https://2martens.de/$1 [L,R=301]
 
+# custom 404 error page
 ErrorDocument 404 /404.html
 
+# sets cache header for most static files, max-age is set to one day
 <filesMatch ".(css|jpg|jpeg|png|gif|js|ico|pdf)$">
 Header set Cache-Control "max-age=86400, public"
 </filesMatch>

@@ -1,6 +1,6 @@
 # Personal Website
 
-[![Build Status](https://travis-ci.org/2martens/2martens.de.png)](https://travis-ci.org/2martens/2martens.de)
+[![Build Status](https://api.travis-ci.org/2martens/2martens.de.png)](https://travis-ci.org/2martens/2martens.de)
 
 This repository hosts my personal website. It is jekyll powered with all required
 dependencies described in the Gemfile. If you wanted, you could create the very same
@@ -19,6 +19,8 @@ what you need to change to make it your own (minimal changes).
 - _data/header-menu.yml: defines the header menu
 - _data/notification.yml: defines the global configuration and if it is visible
 - _data/promotion.yml: defines the promotion and if it is visible
+- _data/cdn.yml: defines whether a CDN is used and what it's URL is
+- _data/lazy-loading.yml: defines whether images are loaded lazily
 - assets/: required static files
 - assets/images/uberspace-badge-*.png: must be changed to accomodate your promotional image
 - assets/images/brand.svg: must be changed to your brand image
@@ -30,6 +32,7 @@ what you need to change to make it your own (minimal changes).
 - pages/: directory for pages, don't forget permalink variable for new pages,
   update every page but 404.html and cv.html to your situation
 - index.html: you should probably update the text here
+- .htaccess: remove the part that rewrites jim.2martens.de to 2martens.de
 
 Beyond this no changes are absolutely necessary. No links are hard-coded in the pages,
 layouts or include files beyond the technical dependencies.
@@ -48,6 +51,22 @@ Without any new files other than posts, these categories are supported out of th
 - cs (appears under Computer Science menu point)
 - blog (appears under Blog menu point)  
 - site (appears on home page)
+
+## Responsive images
+
+If you want to include responsive images in posts, use the following:
+
+```
+{% include image.html alt="<your alt text>" link="<the relative link to the image>" %}
+```
+
+If you have enabled a CDN and are in a production environment (JEKYLL_ENV set to production)
+the URL of the image will use the CDN. Otherwise it will be relative to the root directory
+of the website. The advantage in this approach is quite obvious. If you want to change
+the HTML of an image, you just need to change the image.html and the link to a potential CDN
+only has to be changed in one location and not in potentially thousands of img tags or the 
+markdown equivalent. The HTML provided by image.html automatically adds "img-fluid" to all
+images which makes them responsive by using Bootstrap.
 
 ## Continuous Integration and Deployment
 
