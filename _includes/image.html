@@ -1,3 +1,4 @@
 <img alt="{{ include.alt }}"
-     src="{% if site.data.cdn.use %}{{ site.data.cdn.url }}{% else %}{{ site.baseurl }}{% endif %}{{ include.link }}"
+     src=""
+     data-echo="{% if site.data.cdn.use %}{{ site.data.cdn.url }}{% else %}{{ site.baseurl }}{% endif %}{{ include.link }}"
      class="img-fluid" />

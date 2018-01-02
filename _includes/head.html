@@ -19,5 +19,13 @@
             integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
             crossorigin="anonymous"></script>
     {% asset main.js %}
+    {% asset echo.js %}
+    <script defer>
+        echo.init({
+            offset: 500,
+            throttle: 250,
+            unload: false
+        });
+    </script>
     {% asset fontawesome-all.js defer %}
 </head>
