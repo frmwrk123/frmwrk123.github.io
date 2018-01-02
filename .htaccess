@@ -4,3 +4,7 @@ RewriteCond %{HTTP_HOST} ^jim\.2martens\.de [NC]
 RewriteRule ^(.*)$ https://2martens.de/$1 [L,R=301]
 
 ErrorDocument 404 /404.html
+
+<filesMatch ".(css|jpg|jpeg|png|gif|js|ico|pdf)$">
+Header set Cache-Control "max-age=86400, public"
+</filesMatch>
