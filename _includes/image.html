@@ -1,3 +1,4 @@
+{% if site.data.lazy-loading.enabled %}
 <img alt="{{ include.alt }}"
      src="/assets/images/blank.png"
      data-echo="{% if site.data.cdn.use and jekyll.environment == 'production' %}{{ site.data.cdn.url }}{% else %}{{ site.baseurl }}{% endif %}{{ include.link }}"
@@ -8,3 +9,8 @@
          src="{% if site.data.cdn.use and jekyll.environment == 'production' %}{{ site.data.cdn.url }}{% else %}{{ site.baseurl }}{% endif %}{{ include.link }}"
          class="img-fluid" />
 </noscript>
+{% else %}
+<img alt="{{ include.alt }}"
+     src="{% if site.data.cdn.use and jekyll.environment == 'production' %}{{ site.data.cdn.url }}{% else %}{{ site.baseurl }}{% endif %}{{ include.link }}"
+     class="img-fluid" />
+{% endif %}
