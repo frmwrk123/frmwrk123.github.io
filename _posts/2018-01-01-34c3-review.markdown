@@ -126,7 +126,7 @@ inner city. The first significant building was the St. Nicholas's Church.
    
 After passing the Nikolaikirche I encountered "Real Life" instructions.
 
-{% include image.html alt="Real Life Instructions"
+{% include image.html alt="House wall coloured with Real Life Instructions"
    link="/34c3/DSC02326.JPG" %}
 
 A few minutes later I was on the central place of the inner city, the old
@@ -163,7 +163,7 @@ From there I went in the direction of the Wilhelm-Leuschner-Platz, even though
 I didn't know that at the time. On the way I saw this advertisement and couldn't
 resist to make a photo of it.
 
-{% include image.html alt="Advertisement"
+{% include image.html alt="Advertisement about frosting your body fat"
    link="/34c3/DSC02346.JPG" %}
    
 {% include image.html alt="historic building"
@@ -181,7 +181,7 @@ and the lonely entrance to the S-Bahn station Wilhelm-Leuschner-Platz.
 {% include image.html alt="Deutsche Bank building"
    link="/34c3/DSC02355.JPG" %}
 
-{% include image.html alt="Wilhelm-Leuschner-Platz station"
+{% include image.html alt="Wilhelm-Leuschner-Platz station entrance on an empty place"
    link="/34c3/DSC02354.JPG" %}
    
 I continued left towards the Moritz Bastei, the Gewandhaus, the university and the
@@ -238,12 +238,12 @@ from the New Gewandhaus and some "Omnia vincit labor" installation.
 {% include image.html alt="New Gewandhaus"
    link="/34c3/DSC02378.JPG" %}
    
-{% include image.html alt="Omnia vincit labor installation"
+{% include image.html alt="Omnia vincit labor installation on top of a building"
    link="/34c3/DSC02379.JPG" %}
    
 At the Augustusplatz I also saw the start point for the Leipzig Music trail.
 
-{% include image.html alt="Leipzig Music Trail"
+{% include image.html alt="Leipzig Music Trail sign"
    link="/34c3/DSC02381.JPG" %}
    
 After I was done exploring the Augustusplatz I went back in the direction of the

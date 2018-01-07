@@ -98,7 +98,7 @@ Heidelbergs zu sehen, vor dem eine Hochzeitsfeier stattfand.
 {% include image.html alt="Marktplatz mit Blick auf Rathaus" 
      link="/buko48-heidelberg/DSC09353.JPG" %}
 
-{% include image.html alt="Rathaus mit Hochzeit" 
+{% include image.html alt="Hochzeitsgesellschaft vor dem Rathaus" 
      link="/buko48-heidelberg/DSC09355.JPG" %}
 
 Vom Marktplatz ging es weiter Richtung Schloss - vorbei am Karlsplatz und der
@@ -122,10 +122,10 @@ Umso mehr hatte ich eine massive Ausschüttung von Glückshormonen, als ich endl
 den Weg "bezwungen" hatte und die wunderbare Aussicht genießen konnte. Die nächsten
 paar Eindrücke daher ohne Worte.
 
-{% include image.html alt="Weg zum Schlosspark" 
+{% include image.html alt="Weg zum Schlosspark mit Schlossruine rechter Hand" 
      link="/buko48-heidelberg/DSC09361.JPG" %}
 
-{% include image.html alt="Fassade des Schlosses" 
+{% include image.html alt="Fassade des Schlosses von unten" 
      link="/buko48-heidelberg/DSC09363.JPG" %}
 
 {% include image.html alt="Blick auf den erklommenen Weg" 
@@ -141,7 +141,7 @@ Auf den markanten Bogen wandelnd, konnte ich das gesamte Tal mit der Altstadt
 Heidelbergs bewundern. Es war eine wahrhaft sagenhafte Aussicht. Einst beschritt
 auch Goethe diese Pfade.
 
-{% include image.html alt="Panoramablick" 
+{% include image.html alt="Panoramablick über Heidelberg mit der Schlossruine linker Hand" 
      link="/buko48-heidelberg/DSC09390.JPG" %}
 
 {% include image.html alt="Weinhang am anderen Neckarufer" 
@@ -152,7 +152,7 @@ auch Goethe diese Pfade.
 
 Mein Weg führte mich im Anschluss zum Vater Rhein und zur Großen Grotte.
 
-{% include image.html alt="Vater Rhein" 
+{% include image.html alt="Statue von Vater Rhein" 
      link="/buko48-heidelberg/DSC09397.JPG" %}
 
 {% include image.html alt="Große Grotte" 
@@ -268,7 +268,7 @@ Dinge abgegriffen, die ich am Freitag vergessen hatte.
 
 Diese folgen hier einfach ohne Kommentar.
 
-{% include image.html alt="Luftqualität am Bismarckplatz" 
+{% include image.html alt="Schild über gute Luftqualität in Heidelberg" 
      link="/buko48-heidelberg/DSC09451.JPG" %}
 
 {% include image.html alt="Statue vor dem Friedrichsbau" 
@@ -310,24 +310,24 @@ heiße Schokolade und Kaiserschmarn verzehrt.
 Während ich dort saß und aß, bewegte sich eine Demo auf der Hauptstraße vorbei,
 die scheinbar für die deutsch-israelische Freundschaft auf die Straße ging.
 
-{% include image.html alt="Demo" 
+{% include image.html alt="Demo für deutsch-israelische Freundschaft" 
      link="/buko48-heidelberg/DSC09466.JPG" %}
 
 Auf dem Weg zurück zum Hauptbahnhof stieß ich auf das folgende Schild. Vielleicht
 eine Idee für Hamburg?
 
-{% include image.html alt="Straßenkunst-Standort" 
+{% include image.html alt="Schild Straßenkunst-Standort" 
      link="/buko48-heidelberg/DSC09469.JPG" %}
 
 Am Ende der Hauptstraße befindet sich wieder der Bismarckplatz. An dieser Stelle
 stand einst das Speyerer Tor.
 
-{% include image.html alt="Speyerer Tor" 
+{% include image.html alt="Erinnerungstafel für das Speyerer Tor" 
      link="/buko48-heidelberg/DSC09476.JPG" %}
 
 Abschließend habe ich noch ein paar Bilder vom Heidelberger Hauptbahnhof nachgeholt.
 
-{% include image.html alt="Geschichte Hbf" 
+{% include image.html alt="Erinnerungstafel zur Geschichte des Heidelberger Hbf" 
      link="/buko48-heidelberg/DSC09450.JPG" %}
 
 {% include image.html alt="Heidelberg Hbf Richtung Süden/Osten" 

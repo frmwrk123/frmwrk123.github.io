@@ -74,10 +74,10 @@ Der ehemalige Bundesdatenschutzbeauftragte war einer der Redner*innen auf der B�
 
 Auf einem Teil des Platzes befanden sich Infostände für interessierte Gäste.
 
-{% include image.html alt="Infostände Teil 1"
+{% include image.html alt="Infostände von u.a. attac, FIfF"
    link="/freiheit40-demo-berlin2017/DSC02093.JPG" %}
    
-{% include image.html alt="Infostände Teil 2"
+{% include image.html alt="Infostände von u.a. GRÜNE, Piraten, Demokratie in Bewegung"
    link="/freiheit40-demo-berlin2017/DSC02094.JPG" %}
    
 {% include image.html alt="GRÜNE JUGEND Stand"
@@ -90,10 +90,10 @@ Auch die FDP und die Jungen Liberalen waren vertreten. Ebenso die Piraten,
 Bündnis 90/Die GRÜNEN, die GRÜNE JUGEND und Demokratie in Bewegung. Von den LINKEN, 
 der SPD und den anderen Parteien keine Spur.
 
-{% include image.html alt="Botschaft der Jungen Liberalen"
+{% include image.html alt="Botschaft der jungen Liberalen: Vertrauen ist gut. Punkt."
    link="/freiheit40-demo-berlin2017/DSC02107.JPG" %}
 
 Die GRÜNE JUGEND konnte mit der größten Fahne aufwarten.
 
-{% include image.html alt="Größte Fahne"
+{% include image.html alt="Größte Fahne auf der Demo von der GRÜNEN JUGEND"
    link="/freiheit40-demo-berlin2017/DSC02113.JPG" %}
