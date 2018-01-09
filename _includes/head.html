@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
     <meta name="description"
-          content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+          content="{% if post.excerpt %}{{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}{% elif page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 
     {% asset main.css %}
     {% asset fa-svg-with-js.css %}
