@@ -1,12 +1,12 @@
 RewriteEngine On
 
-RewriteCond %{HTTPS} !=on
-RewriteCond %{ENV:HTTPS} !=on
-RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
-
 # rewrite jim.2martens.de to 2martens.de
 RewriteCond %{SERVER_NAME} ^jim\.2martens\.de [NC]
 RewriteRule ^(.*)$ https://2martens.de/$1 [L,R=301]
+
+RewriteCond %{HTTPS} !=on
+RewriteCond %{ENV:HTTPS} !=on
+RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
 
 # custom 404 error page
 ErrorDocument 404 /404.html
