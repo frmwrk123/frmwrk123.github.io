@@ -58,7 +58,8 @@ Fachbereich mit einer solchen Tradition zu studieren.
 Entsprechend war und ist am Fachbereich die Begeisterung für Datenschutz
 und freie Software sehr stark - im Übrigen bei Lehrenden und Studierenden. In 
 dieser Richtung ist der FSR auch allgemeinpolitisch tätig und war stets 
-Unterstützer des Hamburger [Bündnis gegen Überwachung][0] und hat an den Freiheit 
+Unterstützer des Hamburger <a href="http://www.stop-watching-hamburg.de/" rel="nofollow">Bündnis gegen Überwachung</a> 
+und hat an den Freiheit 
 statt Angst Demos teilgenommen. Zur Bundestagswahl 2013 gab es eine relativ
 spät geplante Podiumsdiskussion bei der leider nur die CDU mit Originalpersonal
 vertreten war. Die anderen Parteien wurden gespielt. Dementsprechend unfair
@@ -69,8 +70,6 @@ In die Politik wollte ich zu diesem Zeitpunkt nicht. Ich hatte das Gefühlt, das
 dort meine Ziele ohnehin nicht umgesetzt würden und wollte daher lieber ein
 Unternehmen gründen und real Veränderungen umsetzen wie bspw. eine Demokratiesierung
 der Wirtschaft.
-
-[0]: http://www.stop-watching-hamburg.de/
 
 Zum Sommer 2014 wurde ich dazu überredet erneut für den FSR zu kandidieren.
 Gesagt getan. So war ich letztlich vom Sommersemester 2014 bis zum Ende meines
@@ -136,12 +135,12 @@ Im Frühjahr 2016 hat sich auch Diem25 gegründet. Ich bin seit Gründung Mitgli
 und finde es absolut wichtig, dass weder der Status Quo beibehalten noch in die
 Nationalstaaten zurückgekehrt wird. In dieser Richtung sind mir auch die GRÜNEN
 nach wie vor viel zu dicht an Merkels Politik orientiert. Ohne grundlegende
-Reformen kann die EU nicht gerettet werden. Diem25 hat mit dem [European New Deal][2]
+Reformen kann die EU nicht gerettet werden. Diem25 hat mit dem 
+<a href="https://diem25.org/end" rel="nofollow">European New Deal</a>
 den richtigen Plan dazu. Die Europawahlen im Jahr 2019 müssen dafür sorgen, dass
 eine parlamentarische Mehrheit diesen Plan unterstützt. Ich kann nur hoffen,
 dass die GRÜNEN die Zeichen der Zeit erkennen und diesen Plan unterstützen.
 
-[2]: https://diem25.org/end
 
 ## Erstes Parteiengagement
 

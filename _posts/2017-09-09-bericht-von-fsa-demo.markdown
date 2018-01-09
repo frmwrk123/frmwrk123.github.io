@@ -52,13 +52,13 @@ nicht etwa beseitigt, sondern nachträglich gesetzlich legitimiert.
 
 Zuletzt haben es diese Law&Order-Politiker\*innen auch nicht geschafft die
 verwendete Wahlsoftware für Bundestagswahlen sicher vor Hackerangriffen zu machen.
-Nach Erkenntnissen des [Chaos Computer Clubs][0] ist es vergleichsweise einfach die
+Nach Erkenntnissen des 
+<a href="http://ccc.de/de/updates/2017/pc-wahl" rel="nofollow">Chaos Computer Clubs</a> 
+ist es vergleichsweise einfach die
 Software zu übernehmen und damit die Wahlergebnisse zu manipulieren.
 
 Um die Sicherheitsprobleme in diesem Land endlich wirksam zu bekämpfen, braucht
 es eine grüne Innenpolitik. #DarumGruen #weltaendern
-
-[0]: http://ccc.de/de/updates/2017/pc-wahl
 
 ## Ändern wir die Welt, bevor es andere tun!
 

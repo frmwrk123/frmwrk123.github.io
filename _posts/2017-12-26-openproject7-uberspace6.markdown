@@ -13,14 +13,13 @@ Anforderungen erfüllt:
 - kostenlos
 - funktioniert ohne Rootrechte
 
-Im [Uberspace-Wiki][0] gibt es einen Abschnitt "Coole Sachen", wo auch eine
-[Anleitung für Open Project 6][1] verlinkt ist. Ich versuchte dieser zu folgen,
+Im <a href="https://wiki.uberspace.de" rel="nofollow">Uberspace-Wiki</a> gibt es einen 
+Abschnitt "Coole Sachen", wo auch eine
+<a href="https://gist.github.com/tessi/466308e59e117d9fb34e" rel="nofollow">Anleitung für Open Project 6</a> 
+verlinkt ist. Ich versuchte dieser zu folgen,
 stieß aber an einigen Stellen auf Probleme. Daher folgt hier nun eine Anleitung,
 die für die aktuelle Version 6 von Uberspace funktioniert. Uberspace 7 konnte ich
 nicht nutzen, da dort Ruby noch nicht zur Verfügung steht.
-
-[0]: https://wiki.uberspace.de
-[1]: https://gist.github.com/tessi/466308e59e117d9fb34e
 
 ## Abhängigkeiten installieren
 
@@ -197,6 +196,4 @@ Website aufgerufen werden. Die Zugangsdaten des standardmäßig erstellten Nutze
 sind beim ersten Mal ``admin`` als Username und ``admin`` als Passwort.
 
 Mit diesen Schritten sollte die Installation funktionieren. damit HTTPS funktioniert,
-lese bitte die entsprechenden Seiten im [Uberspace-Wiki][2].
-
-[2]: https://wiki.uberspace.de/webserver:https
+lese bitte die entsprechenden Seiten im <a href="https://wiki.uberspace.de/webserver:https" rel="nofollow">Uberspace-Wiki</a>.

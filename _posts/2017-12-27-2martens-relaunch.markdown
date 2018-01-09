@@ -145,4 +145,4 @@ own personal website. It also explains the deployment.
 I am looking forward to a productive year 2018 and I'm happy that I will have a far
 more potent website, hosted on Asteroids (Uberspace 7), available to support me. 
 
-[1]: https://github.com/2martens/2martens.github.io/
+[1]: https://github.com/2martens/2martens.de/
