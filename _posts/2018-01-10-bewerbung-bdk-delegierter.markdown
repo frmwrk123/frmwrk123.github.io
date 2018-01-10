@@ -5,8 +5,6 @@ date:   2018-01-10 10:00:00 +0200
 categories: politics
 ---
 
-[Sachstand]: #sachstand
-
 Vom 26. auf den 27. Januar steht die nächste Bundesdelegiertenkonferenz der GRÜNEN in
 Hannover an. Die wohl wichtigste Entscheidung dieser Versammlung wird die Wahl des neuen
 Bundesvorstands sein. Insgesamt gibt es zwei quotierte Vorsitzende zu wählen, ein\*e Schatzmeister\*in,
@@ -30,7 +28,6 @@ Soweit zu dem Sachstandsbericht. Im Folgenden werde ich darlegen, warum ich gern
 für die BDK gewählt werden möchte.
 
 ## Bewerbung
-[Bewerbung]: #bewerbung
 
 Anfang 2017 bin ich den GRÜNEN beigetreten, nachdem ich bereits seit Ende September 2016 bei der
 GRÜNEN JUGEND war. Die guten zwischenmenschlichen Beziehungen und die politischen Inhalte haben
