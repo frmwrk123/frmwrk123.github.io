@@ -20,6 +20,9 @@ Interesse das gesamte Geschehen nachvollzogen werden kann. Diese Zusammenfassung
 soll einen groben und ersten Überblick geben, um gerade den Abwesenden zu ermöglichen,
 schnell und unkompliziert etwas über den Ausschuss zu erfahren.
 
+<a href="https://www.buergerschaft-hh.de/ParlDok/dokument/59121/wortprotokoll-der-%c3%b6ffentlichen-sitzung-des-sonderausschusses-gewaltt%c3%a4tige-ausschreitungen-rund-um-den-g20-gipfel-in-hamburg-.pdf"
+   rel="nofollow">Wortprotokoll der Bürgerschaft</a>
+
 ## Zusammenfassung des Ablaufs
 
 Bevor der Arbeitsauftrag des Ausschusses abgestimmt werden konnte, gab es eine

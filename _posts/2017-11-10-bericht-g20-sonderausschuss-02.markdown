@@ -17,6 +17,15 @@ Für einen detaillierten Blick auf die Befragungen sei auf das Wortprotokoll
 verwiesen. Dieser Bericht schildert meine Eindrücke und beschränkt sich
 auf einige Kernelemente und Schlussfolgerungen meinerseits.
 
+Auf der Septembersitzung war ich leider nicht anwesend. Das Wortprotokoll dafür,
+verlinke ich hier der Vollständigkeit halber dennoch.
+
+<a href="https://www.buergerschaft-hh.de/ParlDok/dokument/59392/wortprotokoll-der-%c3%b6ffentlichen-sitzung-des-sonderausschusses-gewaltt%c3%a4tige-ausschreitungen-rund-um-den-g20-gipfel-in-hamburg-.pdf"
+   rel="nofollow">Wortprotokoll der Bürgerschaft - September</a>
+
+<a href="https://www.buergerschaft-hh.de/ParlDok/dokument/59938/wortprotokoll-der-%c3%b6ffentlichen-sitzung-des-sonderausschusses-gewaltt%c3%a4tige-ausschreitungen-rund-um-den-g20-gipfel-in-hamburg-.pdf"
+   rel="nofollow">Wortprotokoll der Bürgerschaft - November</a>
+
 ## Kurioses aus dem Ausschuss
 
 Dieser Abschnitt befasst sich noch nicht mit den eigentlichen inhaltlichen Punkten.
