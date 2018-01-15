@@ -9,6 +9,11 @@ website with this repository that you can find under the official URL.
 You can use it as a starting point for your own website. In the following I will describe
 what you need to change to make it your own (minimal changes).
 
+## Guest posts
+
+If you want to contribute a post, feel free to submit a pull request with a post.
+Make sure to add the value "author" with your name.
+
 ## Customization
 
 - _config.yml: this contains the site configuration, update it to meet your needs
