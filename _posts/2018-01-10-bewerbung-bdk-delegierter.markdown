@@ -186,7 +186,7 @@ als ehemalige Bundessprecherin der GRÜNEN JUGEND hat Jamila auch viel Erfahrung
 
 Abschließend noch einige Worte zu den Satzungsänderungen. Damit Robert Habeck überhaupt gewählt
 werden könnte und sein Ministeramt nicht umgehend abgeben muss, muss die Satzung geändert werden.
-Einige reden deswegen schon von "Lex Habeck". Hintergrund dafür die sogenannte Trennung von Amt
+Einige reden deswegen schon von "Lex Habeck". Hintergrund dafür ist die sogenannte Trennung von Amt
 und Mandat. In der Diskussion stehen einige Änderungen. Von der kompletten Streichung des entsprechenden
 Passus bis zu diversen Übergangszeiten ist viel dabei. Ich favorisiere eine Lösung mit Übergangszeit
 von bis zu 12 Monaten. Eine komplette Aufhebung ist für mich nicht hinnehmbar, denn Regierungs-
