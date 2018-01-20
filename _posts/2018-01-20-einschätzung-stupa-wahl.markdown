@@ -90,7 +90,7 @@ um ihre proklamierten Inhalte mit den Tätigkeiten in der Realität zu vergleich
 Inhaltliche Punkte eines solchen Bündnisses könnten diese sein (nicht abschließend):
 
 - emanzipatorische Studienreform (RPO oder vergleichbar) auf Uniebene
-- Ausfinanzierung der Universität einfordern (Schuldenbremse in (aktueller Form)
+- Ausfinanzierung der Universität einfordern (Schuldenbremse (in aktueller Form)
   ein Problem, Rotstiftbündnis in Hamburg aufleben lassen)
 - Verbesserung der Situation im Ü35
 - Tarifvertrag für studentische Angestellte einfordern
