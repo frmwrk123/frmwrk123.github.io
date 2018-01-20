@@ -123,7 +123,7 @@ Opposition.
 
 Basierend auf den Wahlprogrammen könnten sich diese Punkte wiederfinden:
 
-- CampusCard (vmlt. ohne Rücksicht auf Datenschutz)
+- CampusCard (vmtl. ohne Rücksicht auf Datenschutz)
 - kommerzielles Campus Open Air
 - für Sanierung von Unigebäuden einsetzen
 - Foyerproblematik lösen
