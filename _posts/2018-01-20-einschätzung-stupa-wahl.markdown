@@ -144,29 +144,15 @@ und Liste Links auf der einen und den anderen Listen auf der anderen Seite.
 ## Fazit
 
 CampusGrün hat als stärkste Fraktion (10 Sitze) eindeutig die Wahl gewonnen und 
-damit den Auftrag einen AStA zu bilden. Eines ist aber klar: Wenn CampusGrün
-ein hier geschildertes Mitte-Links Bündnis nicht einmal erwägt, dann ist ganz
-schnell ein RCDS-Bündnis im AStA und ob das angesichts der vielen anliegenden
-Probleme wirklich förderlich wäre, ist zu bezweifeln. Allerdings ist auch
-erkennbar, dass es die Jusos und UKEler vereint sind, die letztlich die Entscheidung
-darüber treffen, welches Bündnis möglich werden kann. Denn sie sind aus machtpolitischen
-Gründen durchaus in der Lage sowohl mit CampusGrün als auch mit dem RCDS in einen
-AStA zu gehen.
+damit den Auftrag einen AStA zu bilden. 
 
-Ein hier geschildertes Mitte-Links Bündnis müsste also in einer Weise gestrickt
-werden, dass nicht im Laufe der Legislaturperiode einfach ein Seitensprung
-gemacht wird.
+Ein hier geschildertes Mitte-Links Bündnis, so es denn überhaupt zustande käme, 
+müsste in einer Weise gestrickt werden, dass nicht im Laufe der Legislaturperiode 
+einfach ein Seitensprung gemacht wird.
 
 Es wird auch deutlich, dass jedes dieser Bündnisse nur ganz knapp die absolute
 Mehrheit hat und daher eine hohe Anwesenheitsdisziplin vonnöten sein wird, damit
 die Sitzungen des Parlaments beschlussfähig sind ohne Abhängigkeit von der Opposition.
-Mindestens für das StuPa-Präsidium MUSS das hier geschilderte Mitte-Links Bündnis
-erwogen werden, um ein mehrheitlich rechtes Präsidium zu verhindern. Die Folgen
-eines solchen rechten Präsidiums lassen sich ja aktuell beobachten.
 
-Im Übrigen bedeutet dieses Mitte-Links-Bündnis NICHT, dass nicht weiterhin
-inhaltliche Anträge mit SDS\*, harte zeiten und Liste Links in das StuPa
-eingebracht werden können.
-
-Schließlich muss bei einer solchen Verhandlung klar sein, dass CampusGrün keinen
-AStA machen wird, wo sich CampusGrün inhaltlich nicht wiederfindet.
+Wie auch immer die nächsten Tagen und Wochen verlaufen werden, eines ist schon
+jetzt klar: Es wird (wieder) nicht einfach.
