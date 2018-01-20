@@ -107,7 +107,7 @@ Inhaltliche Punkte eines solchen Bündnisses könnten diese sein (nicht abschlie
 
 ### Mitte-Rechts
 
-Ebenso wäre eine RCDS/JuSo-Koalition möglich. Diese bestünde aus RCDS, LHG,
+Ebenso wäre eine RCDS/Juso-Koalition möglich. Diese bestünde aus RCDS, LHG,
 Jura-Liste, Campus LINKE, UKEler vereint, der Juso HSG, MIN, WiWi, der LISTE
 und den Grünen. Dieses Bündnis käme auf 8 + 7 + 6 + 2 + 1 = 24 Sitze. Die 
 Campus LINKE wird dem RCDS-Block zugerechnet, da diese personell eine Fortsetzung
