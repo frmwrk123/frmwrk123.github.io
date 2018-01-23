@@ -21,7 +21,7 @@ zu lassen. Die parlamentarische Kontrolle ist eine Farce. Wie soll diese
 funktionieren, wenn die Regierung dort eine Mehrheit hat und die 
 Parlamentarier\*innen nicht einmal mit ihrem Fraktionsvorstand über die Fehltritte 
 reden dürfen? Wenn die Regierung und ihre parlamentarische Mehrheit tatenlos 
-zuschaut, wenn rechtswidrig Beweise vernichtet werden?
+zuschauen, wenn rechtswidrig Beweise vernichtet werden?
 
 Im NSA-Untersuchungsausschuss gab es sogar einen einstimmigen Beschluss ALLER 
 Fraktionen Edward Snowden als zentralen Zeugen zu laden. Die Bundesregierung aus 
