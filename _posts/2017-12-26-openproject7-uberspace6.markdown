@@ -141,6 +141,13 @@ echo "export SECRET_KEY_BASE=$(./bin/rake secret)" >> ~/.bash_profile
 source ~/.bash_profile
 ```
 
+Die öffentlichen Assets müssen auch noch in ein Verzeichnis gepackt werden, 
+welches für den Webserver zugänglich ist. Also wird dieser Befehl verwendet:
+
+```bash
+cp -r public/* ~/html/
+```
+
 ## OpenProject starten
 
 Schließlich müssen wir noch OpenProject als Daemon einrichten. Falls dies ein
