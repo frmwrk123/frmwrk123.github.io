@@ -171,7 +171,10 @@ und Antworten zu bekommen. Sie konnte allerdings nicht auf konkrete über dieses
 Netzwerk gewonnene Erkenntnisse eingehen, da dies den Rahmen sprengen würde und
 nicht für die Öffentlichkeit geeignet sei.
 
-Beim Verfassungsschutz habe es Besprechungen gegeben. Diese seien aber als
+Der Verfassungsschutz habe frühzeitig andere Dienste eingebunden. Die Kommunikation
+habe über den Berner Club stattgefunden. Insgesamt bestand Kontakt mit 13 ausländischen
+Nachrichtendiensten. Beim Verfassungsschutz habe es intern Besprechungen gegeben[,
+potentiell auch zur Eignung Hamburgs, Anm. meinerseits]. Diese seien aber als
 Verschlusssache eingestuft und könnten daher nicht im Ausschuss erwähnt werden.
 
 Auf mehrere Fragen, wie die Auskunftspersonen denn den Einsatz der Polizei Hamburg
