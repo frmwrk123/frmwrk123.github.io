@@ -25,4 +25,24 @@ after the congress is a good time to come back. ;)
 - <a href="https://media.ccc.de/v/33c3-8287-understanding_the_snooper_s_charter" rel="nofollow">Understanding the Snooper's Charter</a>
 - <a href="https://media.ccc.de/v/33c3-8072-liberte_egalite_fraternite_and_privacy" rel="nofollow">Liberté, Egalité, Fraternité... and privacy?</a>
 
+## Browser
+
+- <a href="https://www.mozilla.org/en-US/firefox/" rel="nofollow">Firefox</a>
+- <a href="https://www.eff.org/privacybadger" rel="nofollow">Privacy Badger</a>
+- <a href="https://www.eff.org/https-everywhere" rel="nofollow">HTTPS Everywhere</a>
+- <a href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/" rel="nofollow">uBlock Origin</a>
+- <a href="https://addons.mozilla.org/en-US/firefox/addon/noscript/" rel="nofollow">NoScript</a>
+
+## Email
+
+- <a href="https://www.thunderbird.net/en-US/" rel="nofollow">Thunderbird</a>
+- <a href="https://addons.mozilla.org/en-US/thunderbird/addon/enigmail/" rel="nofollow">Enigmail</a>
+- <a href="https://posteo.de/en" rel="nofollow">Posteo.de</a>
+
+## Secure Messengers
+
+- <a href="https://signal.org/" rel="nofollow">Signal (Open Source and non-commercial)</a>
+- <a href="https://threema.ch/en" rel="nofollow">Threema (Closed Source, commercial)</a>
+- <a href="https://www.jabber.org/" rel="nofollow">Jabber (combined with end-to-end encryption addons)</a>
+- <a hreF="https://gajim.org/" rel="nofollow">Gajim (good Jabber client)</a>
 
