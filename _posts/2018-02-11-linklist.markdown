@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Starter kit privacy"
+date:   2018-02-11 10:00:00 +0200
+categories: blog
+---
+
+I am asked repeatedly about good starter links for privacy. That's why
+I have collected here a curated list of talks, articles and more
+that focus on privacy and related issues. I will update it as time goes on,
+so you should bookmark it and come back to it from time to time. Especially
+after the congress is a good time to come back. ;)
+
+## 32C3
+
+- <a href="https://media.ccc.de/v/32c3-7443-the\_price\_of\_dissent" rel="nofollow">Price of Dissent</a>
+- <a href="https://media.ccc.de/v/32c3-7307-state\_of\_the\_onion" rel="nofollow">State of the Onion</a>
+- <a href="https://media.ccc.de/v/32c3-7561-how\_open\_source\_software\_second\_hand\_laptops\_and\_hackers\_helped\_stop\_ebola\_and\_stopped\_an\_apocalypse" rel="nofollow">How Open Source software, second hand laptops and hackers helped stop ebola and stopped an apocalypse</a>
+
+
+## 33C3
+
+- <a href="https://media.ccc.de/v/33c3-8416-the\_untold\_story\_of\_edward\_snowden\_s\_escape\_from\_hong\_kong" rel="nofollow">The Untold Story of Edward Snowden's Escape from Hong Kong</a>
+- <a href="https://media.ccc.de/v/33c3-8295-the\_fight\_for\_encryption\_in\_2016" rel="nofollow">The Fight for Encryption in 2016</a>
+- <a href="https://media.ccc.de/v/33c3-8287-understanding\_the\_snooper\_s\_charter" rel="nofollow">Understanding the Snooper's Charter</a>
+- <a href="https://media.ccc.de/v/33c3-8072-liberte\_egalite\_fraternite\_and\_privacy" rel="nofollow">Liberté, Egalité, Fraternité... and privacy?</a>
+
+
