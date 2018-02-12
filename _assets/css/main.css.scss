@@ -58,6 +58,12 @@ $navbarHeight: 58px;
     width: 20rem;
 }
 
+blockquote {
+  padding: 0 1em;
+  color: $gray-600;
+  border-left: 0.25em solid $gray-300;
+}
+
 @include media-breakpoint-up(md) {
   #main {
     margin-bottom: 295px;
