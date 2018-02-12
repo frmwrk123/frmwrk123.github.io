@@ -192,10 +192,10 @@ Presse von den Plänen einer Allgemeinverfügung gehört habe. Denn bereits in e
 [schriftlichen kleinen Anfrage der LINKE][2] vom 22. Februar war die Allgemeinverfügung
 Thema:
 
-> 10.  Inwiefern sind für den G20-Gipfel Allgemeinverfügungen in Vorbereitung 
+> 10\.  Inwiefern sind für den G20-Gipfel Allgemeinverfügungen in Vorbereitung 
 > oder   beabsichtigt,   die   unter   anderem   das   Versammlungsrecht   einschränken? 
 > Bitte detailliert darstellen. 
-
+>
 > Der   Erlass   einer   Allgemeinverfügung   im   Sinne   der   Fragestellung   befindet   sich
 > momentan in der Prüfung. Diese Prüfung ist derzeit noch nicht abgeschlossen. 
 > Im  Übrigen  werden  im  Einzelfall  alle  versammlungsrechtlichen Möglichkeiten geprüft, 
