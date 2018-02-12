@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bericht von Januarsitzung des G20-Sonderausschusses"
-date:   2017-12-26 10:00:00 +0200
+date:   2018-01-26 10:00:00 +0200
 categories: politics G20
 parent_link: /politics/
 ---
