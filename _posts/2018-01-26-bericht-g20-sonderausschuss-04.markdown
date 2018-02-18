@@ -18,7 +18,7 @@ Neues Jahr, neue Qualität. Ab sofort werden auch die Tagesordnungen der
 Sitzungen verlinkt, sodass detailliert die besprochenen Punkte und die geladenen
 Gäste nachvollzogen werden können.
 
-<a href="https://www.hamburgische-buergerschaft.de/contentblob/10233930/69e54ee9ed3a38a68bc48790cd1704c6/data/180124-dl.pdf" rel="nofollow">Tagesordnung</a>
+<a href="https://www.hamburgische-buergerschaft.de/contentblob/10233930/69e54ee9ed3a38a68bc48790cd1704c6/data/180124-dl.pdf" rel="nofollow">Tagesordnung</a><br />
 <a href="https://www.buergerschaft-hh.de/ParlDok/dokument/61278/protokoll-der-%c3%b6ffentlichen-sitzung-des-sonderausschusses-gewaltt%c3%a4tige-ausschreitungen-rund-um-den-g20-gipfel-in-hamburg-.pdf" rel="nofollow">
 Wortprotokoll</a>
 
@@ -213,63 +213,70 @@ impliziert, dass die Jusos und die GRÜNE JUGEND eine extremistische Organisatio
 seien. Zumindest wurden sie in einem Atemzug mit durchaus extremistischen Organisationen
 genannt. Es folgt der entsprechende Ausschnitt aus dem Wortprotokoll.
 
->Abg. Karl-Heinz Warnholz: Ja, Herr Vorsitzender, danke. Ich habe einige Fragen an alle 
->geladenen Auskunftspersonen. Sie haben sich im Vorfeld sicherlich alle mit dem linken 
->Netzwerk bis hin zum Schwarzen Block beschäftigt, und wie wir wissen, bilden die 
+> **Abg. Karl-Heinz Warnholz:** Ja, Herr Vorsitzender, danke. Ich habe einige Fragen an alle 
+> geladenen Auskunftspersonen. Sie haben sich im Vorfeld sicherlich alle mit dem linken 
+> Netzwerk bis hin zum Schwarzen Block beschäftigt, und wie wir wissen, bilden die 
 > Linksextremisten bei Demos oft den gefürchteten Schwarzen Block. Die Chaoten tragen meistens 
 > schwarze Kleidung, um das Gemeinschaftsgefühl zu festigen, ja, sogar, Stärke zu zeigen, 
 > und um die Identifizierung zu erschweren. Beim G20 sind sogar linke Politiker 
 > aus der Hamburger Bürgerschaft hier mitmarschiert, die waren leicht zu erkennen.
-
+>
 > (Abg. Christiane Schneider: Jetzt erzählen Sie aber Märchen!)
+>
 > – Verehrte Frau Schneider, lesen Sie "Focus", Ausgabe 29/2017, dann wissen Sie, wo Sie 
 > hingehören.
+>
 > (Zuruf Abg. Christiane Schneider)
-> So, jetzt meine 
-> ... 
+>
+> So, jetzt meine ... 
+>
 > (Abg. Christiane Schneider: Das ist der erste Schritt in (?) (...)Der „Focus“ war dabei.)
+>
 > – Sie sind überall dabei. Herr Vorsitzender, darf ich fragen?
-
-> Vorsitzender: Sie haben das Wort, Herr Warnholz.
-> Abg. Karl-Heinz Warnholz:
-> Danke. Meine Fragen: Welche linken Netzwerke, vom Parlament – Linke – bis hin 
+>
+> **Vorsitzender:** Sie haben das Wort, Herr Warnholz.
+>
+> **Abg. Karl-Heinz Warnholz:** Danke. Meine Fragen: Welche linken Netzwerke, vom Parlament – Linke – bis hin 
 > zum Schwarzen Block sind Ihnen bekannt, speziell beim G20? Welche radikalen 
 > Gruppen oder Gruppierungen kennen Sie namentlich? Vielleicht können Sie 
 > die einmal aufzählen, sonst helfe ich hier nach. Und welche Mitgliederzahlen können Sie hier 
 > für Deutschland im Einzelnen nennen und wie werden die beobachtet und von wem speziell? – Danke.
 
-> Abg. Karl-Heinz Warnholz:
-> Wenn Sie das nicht können, gestatten Sie dann, Herr Vorsitzender, dass ich 
-> diese einzelnen Organisationen, das sind neun im Wesentlichen hier vom 
-> "Focus" zitiert, dass ich die dann zur Kenntnis gebe? Ich glaube, das ist 
-> kein Geheimnis.
-> Vorsitzender:
-> Wollen Sie das dem Ausschuss zur Kenntnis geben oder kurz vorlesen? 
-> Dann kann das
-> ... 
+> **Abg. Karl-Heinz Warnholz:** Wenn Sie das nicht können, gestatten Sie dann, 
+> Herr Vorsitzender, dass ich diese einzelnen Organisationen, das sind neun im 
+> Wesentlichen hier vom "Focus" zitiert, dass ich die dann zur Kenntnis gebe? Ich 
+> glaube, das ist kein Geheimnis.
+>
+> **Vorsitzender:** Wollen Sie das dem Ausschuss zur Kenntnis geben oder kurz vorlesen? 
+> Dann kann das ... 
+>
 > (Abg. Karl-Heinz Warnholz: Ich kann das auch kurz vorlesen!)
+>
 > ... die Öffentlichkeit auch und dann sparen wir vielleicht auch, dass die Auskunftspersonen 
 > jeder die Organisationen noch einmal nennt. Ja, bitte, Herr Warnholz, lesen Sie es einmal 
 > vor.
-
-> Abg. Karl-Heinz Warnholz:
-> Das ist einmal DIE LINKE, die Links-Partei in Deutschland, mit etwa 58910 
-> Personen oder Mitgliedern.
+>
+> **Abg. Karl-Heinz Warnholz:** Das ist einmal DIE LINKE, die Links-Partei in 
+> Deutschland, mit etwa 58910 Personen oder Mitgliedern.
+>
 > (Zurufe)
+>
 > Das ist die GRÜNE JUGEND. Ja, die GRÜNE JUGEND, Mitglieder etwa... 
+>
 > (Zurufe)
+>
 > – Ja, das ist eine ernste Angelegenheit, da kann man nicht drüber lachen, da muss man sich 
 > mit beschäftigen, deswegen sind wir hier. Und das ist traurig genug, wenn hier 
-> keine Auskunft gegeben werden kann. Die GRÜNE JUGEND, 8500. Man höre, die Jusos,
->...
->(Zurufe)
->... SPD-Nachwuchsorganisation, 70000. Es nennt sich die Antifa, kennen Sie auch, 
+> keine Auskunft gegeben werden kann. Die GRÜNE JUGEND, 8500. Man höre, die Jusos, ...
+>
+> (Zurufe)
+>
+> ... SPD-Nachwuchsorganisation, 70000. Es nennt sich die Antifa, kennen Sie auch, 
 > Antifaschistische Gruppierung oder Aktion, Frau Schneider, haben wir schon öfter 
 > in der Bürgerschaft gehabt, oder die Kommunistische Plattform der Partei, nennt 
 > sich DIE LINKE, Mitglieder: 1200, oder die AKL, Mitglieder: 840, oder Cuba Si, 
 > Mitglieder: 536, die Sozialistische Linke, 826, oder die Rote Hilfe e. V. aus 
 > Göttingen mit einigen Tausend. Nachzulesen im "Focus", Ausgabe..., noch einmal 
 > für alle, und dann bin ich auch ruhig, Seite 23 und 24, Ausgabe 29/2077. 
-> Ich verbessere mich, 2017, Entschuldigung, 2017.
-> – Vielen Dank.
+> Ich verbessere mich, 2017, Entschuldigung, 2017. – Vielen Dank.
 
