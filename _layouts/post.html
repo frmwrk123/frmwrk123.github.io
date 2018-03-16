@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+{% if page.date_modified %}
+{% assign modified = page.date_modified %}
+{% else %}
+{% assign modified = page.date %}
+{% endif %}
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
     <header class="post-header">
@@ -10,6 +15,7 @@ layout: default
             <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
                 {{ page.date | date: "%b %-d, %Y" }}
             </time>
+            <meta content="{{ modified | date_to_xmlschema }}" itemprop="dateModified" />
             {% if page.author %} • <span class="far fa-user"></span>
                 <span itemprop="author" itemscope itemtype="http://schema.org/Person">
                 <span itemprop="name">{{ page.author }}</span>
