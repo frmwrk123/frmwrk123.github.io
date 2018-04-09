@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Statement zu Facebook"
+date:   2018-04-09 17:00:00 +0200
+categories: blog
+---
+
+Die jüngsten Skandale in Verbindung mit Facebook zeigen einmal mehr, warum übermäßige Sammlung
+von Daten ein Problem darstellt und zwar sowohl bei Firmen als auch bei Staaten. Der Hamburger
+Justizsenator Till Steffen ist kürzlich aus Facebook ausgetreten und auch der ehemalige
+Bundesdatenschutzbeauftragte Peter Schaar war seinerzeit aus Facebook ausgetreten.
+
+Von vielen politisch aktiven Menschen wird das Problem von Facebook durchaus anerkannt.
+Gleichzeitig weisen viele von ihnen auf die "Alternativlosigkeit" von Facebook hin.
+Dabei ist dies häufig ein Zirkelschluss. Facebook sei alternativlos, weil dort "die Menschen"
+seien, also bleibt man selber dort und infolge dessen sind "die Menschen" bei Facebook, weil
+dort die Infos zu finden sind.
+
+Wie also aus dem Kreis ausbrechen? Für Parteien und politisch Aktive wird es mit Sicherheit
+nicht unmittelbar möglich sein Facebook als Informationskanal den Rücken zu kehren. Allerdings
+sollte es keine Facebook-exklusiven Infos geben und auch alternative soziale Netzwerke sollten bespielt
+werden. Als solches ist zum Beispiel Diaspora zu nennen. Dort könnten Behörden, Parteien und
+politisch Aktive ihre Homebase haben und zusätzlich Infos auf Facebook veröffentlichen. In jedem
+Fall sollte aber auch eine Interaktion außerhalb sozialer Netzwerke möglich sein.
+
+Für Diskussionen in geschlossenen Gruppen ist Facebook aber datenschutztechnisch ungeeignet.
+Es gibt etliche Alternativen für Diskussionsplattformen, die für interne Diskussionen geeignet
+sind und verwendet werden können. Zudem gilt hier nicht das Argument der Reichweite, da alle
+Mitglieder einer geschlossenen Gruppe bspw. einer Partei über ihre politische Ausrichtung
+miteinander verbunden sind. Die Partei könnte sich also entscheiden eine ggf. bereits
+auf Facebook vorhandene Diskussionsgruppe in andere Medien zu verlagern. Gerade wenn
+Mitglieder einer Partei aus Datenschutzgründen explizit nicht bei Facebook anzutreffen sind,
+wie bspw. Till Steffen und Peter Schaar im Falle der GRÜNEN, sollten diese nicht gezwungen
+werden Facebook zu haben, um an einer parteiinternen Diskussion teilnehmen zu können.
+
+Parteien und politisch Aktive sind in der Verantwortung als Vorbilder voranzugehen und zu zeigen,
+dass es auch abseits von Facebook gute Möglichkeiten zum Austausch gibt. In der gebotenen Zeit
+kommen dann auch die Menschen, wenn sie merken, dass die "coolen Kids" eben nicht bei Facebook
+sondern anderswo anzutreffen sind.
+
+Was bedeutet das für mich persönlich? Ich werde auch weiterhin auf Facebook vertreten sein, allerdings
+wie bisher Facebook nicht für private Kommunikation nutzen. Alle meiner Beiträge sind öffentlich,
+denn jede\*r kann und soll sie lesen. Es ist aber nicht als Diskussionsplattform gedacht. Daher 
+kann auch nur ich auf meiner Pinnwand schreiben. Ich werde Facebook also gezielt benutzen, um
+meine Beiträge auf meiner Website zu verbreiten und Menschen auf politische Inhalte aufmerksam zu
+machen. 
+
+Gleichzeitig hoffe ich darauf, dass endlich netzpolitisches Verständnis in den Reihen der
+Politiker\*innen Einzug erhält und sie sich endlich nicht mehr von den Konzernen und schönen
+Hochglanzbroschüren von Marketingabteilungen über den Tisch ziehen lassen. Es braucht endlich
+Interoperabilität, sodass Nutzer\*innen auf Facebook mit Nutzer\*innen auf Diaspora kommunizieren
+können. Dies würde zu einem Kreislauf führen, indem nur noch datenschutzfreundliche Unternehmen
+eine Chance hätten Nutzer\*innen auf ihren Netzwerken zu behalten. Alle anderen würden ziemlich
+rasant die Nutzer\*innenbasis verlieren. Denn niemand gibt freiwillig Daten ab, wenn sie anderswo
+die gleiche Leistung ohne diese Datenabgabe erhalten können.
