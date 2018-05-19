@@ -44,3 +44,8 @@ exclude:
   - LICENSE
   - vendor
   - node_modules
+
+# asset settings
+assets:
+  cdn:
+    url: https://cdn.2martens.de
