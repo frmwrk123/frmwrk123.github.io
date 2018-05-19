@@ -18,6 +18,7 @@ group :jekyll_plugins do
   # gem 'jekyll-mentions'
   gem 'jekyll-optional-front-matter'
   gem 'jekyll-paginate'
+  gem 'jekyll-picture-tag'
   gem 'jekyll-readme-index'
   gem 'jekyll-redirect-from'
   gem 'jekyll-relative-links'
