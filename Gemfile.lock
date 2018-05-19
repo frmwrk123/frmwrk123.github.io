@@ -10,7 +10,7 @@ GEM
       public_suffix (>= 2.0.2, < 4.0)
     autoprefixer-rails (8.5.0)
       execjs
-    bootstrap (4.0.0)
+    bootstrap (4.1.1)
       autoprefixer-rails (>= 6.0.3)
       popper_js (>= 1.12.9, < 2)
       sass (>= 3.5.2)
@@ -230,7 +230,7 @@ PLATFORMS
 DEPENDENCIES
   activesupport
   autoprefixer-rails
-  bootstrap (~> 4.0.0.beta2)
+  bootstrap (~> 4.1.1)
   html-proofer
   jekyll
   jekyll-assets

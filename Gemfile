@@ -6,7 +6,7 @@ gem 'html-proofer', group: :development
 gem 'jekyll'
 group :jekyll_plugins do
   gem 'autoprefixer-rails'
-  gem 'bootstrap', '~> 4.0.0.beta2'
+  gem 'bootstrap', '~> 4.1.1'
   gem 'jekyll-assets'
   gem 'jekyll-avatar'
   gem 'jekyll-coffeescript'
