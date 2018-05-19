@@ -13,6 +13,9 @@ description: > # this means to ignore newlines until "baseurl:"
   related to me personally.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://2martens.de" # the base hostname & protocol for your site
+collections:
+  events:
+    output: true
 defaults:
   -
     scope:
@@ -28,6 +31,13 @@ defaults:
         type: "pages"
       values:
         layout: "page"
+        sidebarboxes: "author encrypted-communication"
+  -
+    scope:
+      path: ""
+      type: "events"
+    values:
+        layout: "event"
         sidebarboxes: "author encrypted-communication"
 
 # Build settings

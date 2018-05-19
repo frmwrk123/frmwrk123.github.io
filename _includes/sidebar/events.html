@@ -1,0 +1,42 @@
+{% if site.events.size > 0 %}
+<div class="card sidebar mb-3">
+    <header class="card-header">
+        Events
+    </header>
+    <ul class="list-group list-group-flush list-unstyled">
+        {% capture now-unix %}{{ 'now' | date: '%s' | divided_by: 86400 }}{% endcapture %}
+        {% for event in site.events %}
+            {% capture event-time %}{{ event.start_date | date: '%s' | divided_by: 86400 }}{% endcapture %}
+            {% if now-unix <= event-time %}
+            <li itemscope itemtype="http://schema.org/Event">
+                <div class="card-body">
+                    <header>
+                        <h6 itemprop="name about"><a href="{{ event.url | relative_url }}">{{ event.title }}</a></h6>
+                        <ul class="list-unstyled">
+                            <li><span class="far fa-map-marker"></span> <span itemprop="location">{{ event.location }}</span></li>
+                            <li>
+                                <span class="far fa-calendar-alt"></span>
+                                <time datetime="{{ event.start_date | date_to_xmlschema }}" itemprop="startDate">
+                                    {% if event.end_date %}Start: {% else %}Date: {% endif %}{{ event.start_date | date: "%b %-d, %Y %H:%M" }}
+                                </time>
+                            </li>
+                            {% if event.end_date %}
+                            <li>
+                                <span class="far fa-calendar-alt"></span>
+                                <time datetime="{{ event.end_date | date_to_xmlschema }}" itemprop="endDate">
+                                    End: {{ event.end_date | date: "%b %-d, %Y %H:%M" }}
+                                </time>
+                            </li>
+                            {% endif %}
+                        </ul>
+                    </header>
+                    <div class="card-text text-justify" itemprop="description">
+                        {{ event.content }}
+                    </div>
+                </div>
+            </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}
