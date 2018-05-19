@@ -5,32 +5,32 @@
 (function () {
 'use strict';
 
-var _WINDOW = {};
+let _WINDOW = {};
 try {
   if (typeof window !== 'undefined') _WINDOW = window;
   
 } catch (e) {}
 
-var _ref = _WINDOW.navigator || {};
-var _ref$userAgent = _ref.userAgent;
-var userAgent = _ref$userAgent === undefined ? '' : _ref$userAgent;
+let _ref = _WINDOW.navigator || {};
+let _ref$userAgent = _ref.userAgent;
+let userAgent = _ref$userAgent === undefined ? '' : _ref$userAgent;
 
-var WINDOW = _WINDOW;
-
-
+let WINDOW = _WINDOW;
 
 
-var IS_IE = ~userAgent.indexOf('MSIE') || ~userAgent.indexOf('Trident/');
-
-var NAMESPACE_IDENTIFIER = '___FONT_AWESOME___';
 
 
+let IS_IE = ~userAgent.indexOf('MSIE') || ~userAgent.indexOf('Trident/');
+
+let NAMESPACE_IDENTIFIER = '___FONT_AWESOME___';
 
 
 
 
 
-var PRODUCTION = function () {
+
+
+let PRODUCTION = function () {
   try {
     return "production" === 'production';
   } catch (e) {
@@ -38,12 +38,12 @@ var PRODUCTION = function () {
   }
 }();
 
-var oneToTen = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-var oneToTwenty = oneToTen.concat([11, 12, 13, 14, 15, 16, 17, 18, 19, 20]);
+let oneToTen = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+let oneToTwenty = oneToTen.concat([11, 12, 13, 14, 15, 16, 17, 18, 19, 20]);
 
 
 
-var RESERVED_CLASSES = ['xs', 'sm', 'lg', 'fw', 'ul', 'li', 'border', 'pull-left', 'pull-right', 'spin', 'pulse', 'rotate-90', 'rotate-180', 'rotate-270', 'flip-horizontal', 'flip-vertical', 'stack', 'stack-1x', 'stack-2x', 'inverse', 'layers', 'layers-text', 'layers-counter'].concat(oneToTen.map(function (n) {
+let RESERVED_CLASSES = ['xs', 'sm', 'lg', 'fw', 'ul', 'li', 'border', 'pull-left', 'pull-right', 'spin', 'pulse', 'rotate-90', 'rotate-180', 'rotate-270', 'flip-horizontal', 'flip-vertical', 'stack', 'stack-1x', 'stack-2x', 'inverse', 'layers', 'layers-text', 'layers-counter'].concat(oneToTen.map(function (n) {
   return n + 'x';
 })).concat(oneToTwenty.map(function (n) {
   return 'w-' + n;
@@ -59,20 +59,20 @@ function bunker(fn) {
   }
 }
 
-var w = WINDOW || {};
+let w = WINDOW || {};
 
 if (!w[NAMESPACE_IDENTIFIER]) w[NAMESPACE_IDENTIFIER] = {};
 if (!w[NAMESPACE_IDENTIFIER].styles) w[NAMESPACE_IDENTIFIER].styles = {};
 if (!w[NAMESPACE_IDENTIFIER].hooks) w[NAMESPACE_IDENTIFIER].hooks = {};
 if (!w[NAMESPACE_IDENTIFIER].shims) w[NAMESPACE_IDENTIFIER].shims = [];
 
-var namespace = w[NAMESPACE_IDENTIFIER];
+let namespace = w[NAMESPACE_IDENTIFIER];
 
-var _extends = Object.assign || function (target) {
-  for (var i = 1; i < arguments.length; i++) {
-    var source = arguments[i];
+let _extends = Object.assign || function (target) {
+  for (let i = 1; i < arguments.length; i++) {
+    let source = arguments[i];
 
-    for (var key in source) {
+    for (let key in source) {
       if (Object.prototype.hasOwnProperty.call(source, key)) {
         target[key] = source[key];
       }
@@ -83,9 +83,9 @@ var _extends = Object.assign || function (target) {
 };
 
 function define(prefix, icons) {
-  var normalized = Object.keys(icons).reduce(function (acc, iconName) {
-    var icon = icons[iconName];
-    var expanded = !!icon.icon;
+  let normalized = Object.keys(icons).reduce(function (acc, iconName) {
+    let icon = icons[iconName];
+    let expanded = !!icon.icon;
 
     if (expanded) {
       acc[icon.iconName] = icon.icon;
@@ -112,7 +112,7 @@ function define(prefix, icons) {
   }
 }
 
-var icons = {
+let icons = {
   "address-book": [448, 512, [], "f2b9", "M320 320v72c0 13.255-10.745 24-24 24H152c-13.255 0-24-10.745-24-24v-72c0-21.431 14.207-40.266 34.813-46.153l18.064-5.161C193.629 275.884 208.342 280 224 280s30.371-4.116 43.122-11.314l18.064 5.161C305.793 279.734 320 298.569 320 320zm-96-64c35.346 0 64-28.654 64-64s-28.654-64-64-64-64 28.654-64 64 28.654 64 64 64zm192-96v64h20c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12h-20v64h20c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12h-20v48c0 26.51-21.49 48-48 48H80c-26.51 0-48-21.49-48-48V48C32 21.49 53.49 0 80 0h288c26.51 0 48 21.49 48 48v48h20c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12h-20zm-48 298V54a6 6 0 0 0-6-6H86a6 6 0 0 0-6 6v404a6 6 0 0 0 6 6h276a6 6 0 0 0 6-6z"],
   "address-card": [512, 512, [], "f2bb", "M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm-6 336H54a6 6 0 0 1-6-6V118a6 6 0 0 1 6-6h404a6 6 0 0 1 6 6v276a6 6 0 0 1-6 6zm-54-176H300c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h104c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12zm0 80H300c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h104c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12zm-284-96c0-30.928 25.072-56 56-56s56 25.072 56 56-25.072 56-56 56-56-25.072-56-56zm136 89.857V340c0 6.627-5.373 12-12 12H108c-6.627 0-12-5.373-12-12v-42.143a24 24 0 0 1 17.104-22.988l13.464-4.039C140.186 281.568 157.351 288 176 288s35.814-6.432 49.433-17.17l13.464 4.039A24 24 0 0 1 256 297.857z"],
   "adjust": [512, 512, [], "f042", "M256 56c110.549 0 200 89.468 200 200 0 110.549-89.468 200-200 200-110.549 0-200-89.468-200-200 0-110.549 89.468-200 200-200m0-48C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 96c-83.947 0-152 68.053-152 152s68.053 152 152 152V104z"],
