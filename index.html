@@ -5,70 +5,12 @@ layout: default
 <h1>2martens.de</h1>
 
 <p>
-    Welcome on my personal website. This home page is comparable to the README of this website. You can find the features
-    and a <a href="#readers-guide">readers guide</a> here. {% if site.categories['site'].size > 0 %}
-        Furthermore you will find below all <a href="#blog-posts">blog posts</a> related to the site itself.{% endif %}
+    Welcome on my personal website. This home page gives you an overview over all recently posted posts. To see
+    the full list, visit the respective page (Speeches, Politics, Politics/G20, Computer Science, Blog, About).
 </p>
-
-<h2>Features</h2>
-
-<p>
-    Despite being a simple collection of static pages and posts, this website has some features that differentiate it
-    from others.
-</p>
-
-<ul class="list-unstyled text-justify">
-    <li><span class="font-weight-bold">No Tracking</span>: You read correct. This website doesn't use any tracker. Zero.</li>
-    <li><span class="font-weight-bold">No Cookies</span>:
-        This website doesn't use any cookies. Hence it cannot connect two visits to the same device.
-    </li>
-    <li><span class="font-weight-bold">(Almost) no javascript</span>:
-        This site uses almost no javascript. Javascript is only used to make the menus responsive, to replace the
-        Font Awesome span elements with svg elements and to load images on demand to make site loading faster.
-    </li>
-    <li><span class="font-weight-bold">(Almost) no external requests</span>:
-        To protect your privacy as good as possible, the amount of external requests is as low as possible. External
-        requests are only used for embedded videos, to load the slim version of jQuery and whenever external media
-        is referenced.
-    </li>
-    <li><span class="font-weight-bold">Privacy-friendly CDN</span>:
-        The external media is saved in an S3 storage bucket, which resides in Frankfurt/Main and is encrypted on the
-        server-side. The media is then distributed by Cloud Front to Europe, the US and Canada. Only HTTPS connections
-        are allowed by Cloud Front. No access logs are created as far as it is in my control. Perhaps Amazon creates
-        access logs themselves. A custom sub domain named cdn.2martens.de is used to fetch this media.
-    </li>
-    <li><span class="font-weight-bold">Privacy-friendly embedded videos</span>:
-        Embedded YouTube videos use the youtube-nocookie.com domain which proclaims that no data is stored about the
-        website visitors until they actually click to play the video.
-    </li>
-    <li><span class="font-weight-bold">Uberspace-powered</span>:
-        This site is hosted on Uberspace 7. That is the new version of Uberspace hosts which is currently in Public Beta.
-    </li>
-</ul>
-
-<h2 id="readers-guide">Readers guide</h2>
-
-<p>
-    The posts are grouped by categories. These can be found on the main menu. In addition you can find my publications
-    under Computer Science. The reports from the G20 special committee in Hamburg can be found under Politics and there
-    under G20. The Blog category contains all posts that don't match other categories.
-</p>
-
-<p>
-    Due to recent developments I created a page about the Snowden refugees.
-</p>
-
-<p>
-    Don't be surprised about multiple languages. I speak German and English and therefore my posts will be sometimes
-    in German and sometimes in English. There is no automatic translation or similar stuff available. If you can't live
-    with it, use Google Translator or similar tools. But I can't guarantee that these translations will be correct.
-</p>
-
-{% if site.categories['site'].size > 0 %}
-<h2 id="blog-posts">Blog posts</h2>
 
 <ul class="post-list list-unstyled">
-    {% for post in site.categories['site'] %}
+    {% for post in site.posts limit:5 %}
     <li class="mb-4">
         <div class="small text-muted">
             <span class="far fa-calendar-alt"></span>
@@ -83,4 +25,3 @@ layout: default
     </li>
     {% endfor %}
 </ul>
-{% endif %}
