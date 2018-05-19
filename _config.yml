@@ -30,7 +30,6 @@ defaults:
         layout: "page"
         sidebarboxes: "author encrypted-communication"
 
-
 # Build settings
 markdown: kramdown
 include:
@@ -44,8 +43,3 @@ exclude:
   - LICENSE
   - vendor
   - node_modules
-
-# asset settings
-assets:
-  cdn:
-    url: https://cdn.2martens.de
