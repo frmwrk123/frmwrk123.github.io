@@ -3,12 +3,12 @@
     <header class="card-header">
         Events
     </header>
-    <ul class="list-group list-group-flush list-unstyled">
+    <ul class="list-group list-group-flush">
         {% capture now-unix %}{{ 'now' | date: '%s' | divided_by: 86400 }}{% endcapture %}
         {% for event in site.events %}
             {% capture event-time %}{{ event.start_date | date: '%s' | divided_by: 86400 }}{% endcapture %}
             {% if now-unix <= event-time %}
-            <li itemscope itemtype="http://schema.org/Event">
+            <li class="list-group-item" itemscope itemtype="http://schema.org/Event">
                 <div class="card-body">
                     <header>
                         <h6 itemprop="name about"><a href="{{ event.url | relative_url }}">{{ event.title }}</a></h6>
