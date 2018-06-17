@@ -14,6 +14,7 @@ verwiesen. Dieser Bericht schildert meine Eindrücke und beschränkt sich
 auf einige Kernelemente und Schlussfolgerungen meinerseits.
 
 <a href="https://www.hamburgische-buergerschaft.de/contentblob/10796322/a76845dba8741b79e3e4996a098d3105/data/180405-dl.pdf" rel="nofollow">Tagesordnung</a>
+<a rel="nofollow" href="https://www.buergerschaft-hh.de/ParlDok/dokument/62063/protokoll-der-%c3%b6ffentlichen-sitzung-des-sonderausschusses-gewaltt%c3%a4tige-ausschreitungen-rund-um-den-g20-gipfel-in-hamburg-.pdf">Wortprotokoll</a>
 
 ## Ablauf der Sitzung
 
