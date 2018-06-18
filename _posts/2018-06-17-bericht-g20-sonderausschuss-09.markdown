@@ -39,10 +39,10 @@ werden:
 
 Einige der inhaltlichen Punkte wurden dann im zweiten Teil der Ausschusssitzung vertiefend behandelt, sodass ich diese
 Zusammenfassung nicht chronologisch strukturiere, sondern entlang der Hauptfragen zum Einsatz im Schanzenviertel und
-dort Wortmeldungen aus der gesamten Sitzung jeweils zusammenfasse. Nach dieser inhaltlichen Antwort werde ich die
-von der Polizei geschilderte Lageentwicklung darstellen, welche das Geschehen in einen zeitlichen Gesamtzusammenhang
-stellt und einzelne Aktionen nachvollziehbarer gestaltet. Außerdem werde ich dort auf weitere inhaltliche
-Komplexe eingehen.
+dort Wortmeldungen aus der gesamten Sitzung jeweils zusammenfasse. Nach den inhaltlichen Komplexen aus dem ersten
+Teil werde ich die Lageeinschätzung vor Beginn der Ausschreitungen im Schanzenviertel sehr kurz darstellen und noch
+etwas zu den im Schulterblatt anzutreffenden Personengruppen schreiben. Für die detaillierte Darstellung der
+Lageentwicklung verweise ich auf das Wortprotokoll.  
 
 Bevor ich jedoch zu der Beantwortung der Fragekomplexe
 komme, noch einige Anmerkungen zum Umgang der Parteien mit der öffentlichen Anhörung. Die LINKE und die GRÜNEN zeigten
@@ -202,7 +202,44 @@ akustisch belästigt. In der Zukunft müsse besser auf die einheitliche Einhaltu
 Lautstärke beitragen, geachtet und über alternative Methoden nachgedacht werden. Möglicherweise könnten Drohnen eine
 Alternative sein.
 
-## Abschluss (für heute)
+## Lageentwicklung
 
-Der angekündigte zweite Teil kommt noch. Aber nicht mehr heute. Daher genießt erst einmal den ersten Teil und der
-zweite kommt dann zeitnah. 
+Zu Beginn des zweiten Teils erklärte der Senat die Lageentwicklung im Vorwege des Freitagabends. In Folge einige
+Highlights:
+
+- Staatsgäste wurden über sogenannte Betonstrecke zur Elbphilharmonie gebracht (keine Sonderwünsche wurden berücksichtigt)
+- Versuche ab 13 Uhr in diese Strecke einzudringen
+- Verlagerung der Störer\*innen nach Feststellung der Sicherheit der Strecke zum Millerntorplatz
+- von dort gingen 1000 Störer\*innen zum Neuen Pferdemarkt
+- bei Veranstaltung auf Reeperbahn gab es 2500 bis 3000 Teilnehmer\*innen
+- auch unpolitisch Gewaltbereite waren auf der Reeperbahn-Veranstaltung
+- basierend auf Lageeinschätzung wurde Kräfteaufstellung gemacht
+
+  - starke Kräfte an der Reeperbahn (zur Begleitung der Veranstaltung)
+  - Raumschutzkräfte zwischen Altona, Hauptbahnhof und Uhlenhorst (EA Raumschutz), um Abfluss in Innenstadt zu verhindern
+    
+- Herr Ferk betreute die Veranstaltung an der Reeperbahn
+- Herr Grossmann sollte alle Störungen außerhalb der Veranstaltung bearbeiten
+- um 19 Uhr erhielt Herr Grossmann den Auftrag sich um das Schanzenviertel zu kümmern (alle Maßnahmen in Bezug zum Viertel
+  zu beaufsichtigen)
+  
+Für die detaillierte Darstellung des zeitlichen Ablaufs verweise ich auf das Wortprotokoll.
+
+## Zusammensetzung der Menschen im Schulterblatt
+
+Die Polizei konnte mittels der SOKO Schwarzer Block die einzelnen Gruppierungen, welche im Schulterblatt vertreten waren,
+ermitteln. Dabei beruhen diese Erkenntnisse aus einzelnen Ermittlungsverfahren, weswegen keine quantitativen Schätzungen
+zum Zahlenverhältnis gemacht werden können.
+
+Kurz zusammengefasst sind es diese Gruppen:
+
+- ausländische Störer\*innen: Nichtbeachtung des Aktionskonsens und sehr koordinierte Vorgehensweise
+- inländische linke Störer\*innen: weniger gewalttätig, haben womöglich Anwohner\*innen geholfen
+- Gewalthooligans mit Polizei als Gegner
+- erlebnisorientierte Personen: zum Teil keine Vorstrafen, oftmals Reue, definitiv nicht zufällig vor Ort oder Touristen
+- Gaffer\*innen
+- Bewohner\*innen
+
+Bei den Plünderungen sind überwiegend männliche Personen unterwegs und nur 3% werden als links eingestuft. Viele sind dennoch
+polizeibekannt gewesen. Geöffnet wurden die Geschäfte hauptsächlich von ausländischen Störer\*innen. Die eigentlichen
+Plünderungen wurden dann durch zumeist unvermummte Personen durchgeführt.     
