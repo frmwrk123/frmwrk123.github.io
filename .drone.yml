@@ -28,7 +28,7 @@ pipeline:
     target: ~/tmp/build
     recursive: true
     delete: true
-    secrets: [ plugin_key ]
+    secrets: [ rsync_key ]
     script:
         - rm -rf tmp/old.build
         - mkdir tmp/old.build
