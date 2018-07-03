@@ -1,5 +1,6 @@
 pipeline:
   restore-cache:
+    privileged: true
     image: drillster/drone-volume-cache
     restore: true
     mount:
@@ -14,6 +15,7 @@ pipeline:
       - bundle install
       - JEKYLL_ENV=production bundle exec jekyll build && bundle exec htmlproofer _site/ --disable-external
   rebuild-cache:
+    privileged: true
     image: drillster/drone-volume-cache
     rebuild: true
     mount:
