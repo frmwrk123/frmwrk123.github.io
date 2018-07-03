@@ -1,0 +1,48 @@
+pipeline:
+  restore-cache:
+    image: drillster/drone-volume-cache
+    restore: true
+    mount:
+      - /drone/.bundle
+    volumes:
+      - jekyll-blog-cache:/cache
+  build:
+    image: ruby
+    environment:
+      - BUNDLE_PATH=/drone/.bundle
+    commands:
+      - bundle install
+      - JEKYLL_ENV=production bundle exec jekyll build && bundle exec htmlproofer _site/ --disable-external
+  rebuild-cache:
+    image: drillster/drone-volume-cache
+    rebuild: true
+    mount:
+      - /drone/.bundle
+    volumes:
+      - jekyll-blog-cache:/cache
+  deploy:
+    image: drillster/drone-rsync
+    hosts: [ "wolf.uberspace.de" ]
+    user: martens7
+    source: ./_site
+    target: ~/tmp/build
+    recursive: true
+    delete: true
+    secrets: [ rsync_key ]
+    script:
+        - rm -rf tmp/old.build
+        - mkdir tmp/old.build
+        - mv html/{.,}* tmp/old.build/
+        - mv tmp/build/{.,}* html/
+        - rm -rf tmp/build
+  notify:
+    image: drillster/drone-email
+    host: wolf.uberspace.de
+    port: 587
+    from: Drone <drone@2martens.de>
+    when:
+      status: [ failure ]
+
+branches: master
+
+
