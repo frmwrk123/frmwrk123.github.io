@@ -29,7 +29,7 @@ pipeline:
     image: drillster/drone-rsync
     hosts: [ "wolf.uberspace.de" ]
     user: martens7
-    source: ./_site/*
+    source: ./_site/.
     target: ~/tmp/build
     recursive: true
     delete: true
