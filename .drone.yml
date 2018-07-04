@@ -35,10 +35,12 @@ pipeline:
     delete: true
     secrets: [ rsync_key ]
     script:
+        - shopt -s dotglob
         - rm -rf tmp/old.build
         - mkdir tmp/old.build
-        - mv html/{.,}* tmp/old.build/
-        - mv tmp/build/{.,}* html/
+        - cp -r html/* tmp/old.build/
+        - rm -rf html/*
+        - cp -r tmp/build/* html/
         - rm -rf tmp/build
   notify:
     image: drillster/drone-email
