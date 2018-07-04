@@ -11,10 +11,10 @@ pipeline:
     image: ruby
     environment:
       - BUNDLE_PATH=/drone/.bundle
-      - LANG="C.UTF-8"
-      - LC_ALL="C.UTF-8"
-      - LANGUAGE="C.UTF-8"
     commands: 
+      - export LANG="C.UTF-8"
+      - export LC_ALL="C.UTF-8"
+      - ruby -e 'puts STDIN.external_encoding' # figure out the encoding used
       - bundle install
       - JEKYLL_ENV=production bundle exec jekyll build && bundle exec htmlproofer _site/ --disable-external
   rebuild-cache:
