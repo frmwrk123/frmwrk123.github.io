@@ -11,8 +11,9 @@ pipeline:
     image: ruby
     environment:
       - BUNDLE_PATH=/drone/.bundle
-      - LANG="en_US.UTF-8"
-      - LC_ALL="en_US.UTF-8"
+      - LANG="C.UTF-8"
+      - LC_ALL="C.UTF-8"
+      - LANGUAGE="C.UTF-8"
     commands: 
       - bundle install
       - JEKYLL_ENV=production bundle exec jekyll build && bundle exec htmlproofer _site/ --disable-external
