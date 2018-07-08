@@ -44,9 +44,10 @@ pipeline:
         - rm -rf tmp/build
   notify:
     image: drillster/drone-email
-    host: wolf.uberspace.de
+    host: peacock.uberspace.de
     port: 587
     from: Drone <drone@2martens.de>
+    secrets: [email_username, email_password]
     when:
       status: [ failure ]
 
