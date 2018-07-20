@@ -350,7 +350,5 @@ Ermittlungsmöglichkeit ausgeschöpft werde.
 ## Fazit
 
 Fast 5 Stunden später und somit nur etwas schneller als die Sitzung selber dauerte, habe ich diesen Bericht
-fertiggestellt bzw schreibe diese Zeilen. Es war die letzte Sitzung vor der Sommerpause. Die nächste Sitzung wird
-im August stattfinden. Offenkundig soll die Laufzeit des Ausschusses um zwei Monate auf vierzehn verlängert werden. 
-Angesichts der Tatsache, dass die erste Sitzung Ende August 2017 war, würde dies also eine Laufzeit bis Mitte Oktober 
-indizieren. In jedem Fall werde ich auch noch die verbleibenden Sitzungen hier in Berichtform auf die Website bringen.
+fertiggestellt bzw schreibe diese Zeilen. Es war die letzte Sitzung vor der Sommerpause. Die nächste und letzte Sitzung wird
+im August stattfinden. 
