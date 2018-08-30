@@ -14,6 +14,8 @@ verwiesen. Dieser Bericht schildert meine Eindrücke und beschränkt sich
 auf einige Kernelemente und Schlussfolgerungen meinerseits.
  
 <a rel="nofollow" href="https://www.hamburgische-buergerschaft.de/contentblob/11217096/570fe65f06bf9779413c66a7bf9ad60a/data/180621-dl.pdf">Tagesordnung</a>
+<a href="https://www.buergerschaft-hh.de/parldok/dokument/63048/.pdf"
+   rel="nofollow">Wortprotokoll der Bürgerschaft</a>
 
 ## Behandlung von Journalist\*innen
 

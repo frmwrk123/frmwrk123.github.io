@@ -16,6 +16,8 @@ verwiesen. Dieser Bericht schildert meine Eindrücke und beschränkt sich
 auf einige Kernelemente und Schlussfolgerungen meinerseits.
 
 <a rel="nofollow" href="https://www.hamburgische-buergerschaft.de/contentblob/11263170/f9d1ef6e541e75d7776e516962c7694f/data/180704-dl.pdf">Tagesordnung</a>
+<a href="https://www.buergerschaft-hh.de/parldok/dokument/63155/.pdf"
+   rel="nofollow">Wortprotokoll der Bürgerschaft</a>
 
 Als Auskunftspersonen für den ersten Punkt der Anhörung waren folgende Personen geladen:
 

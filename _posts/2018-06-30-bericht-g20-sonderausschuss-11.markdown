@@ -15,6 +15,8 @@ verwiesen. Dieser Bericht schildert meine Eindrücke und beschränkt sich
 auf einige Kernelemente und Schlussfolgerungen meinerseits.
  
 <a rel="nofollow" href="https://www.hamburgische-buergerschaft.de/contentblob/11238456/97672f4021927a4cfc700b2f2be546a3/data/180628-dl.pdf">Tagesordnung</a>
+<a href="https://www.buergerschaft-hh.de/parldok/dokument/63049/.pdf"
+   rel="nofollow">Wortprotokoll der Bürgerschaft</a>
 
 ## Erkenntnisse SOKO Schwarzer Block
 

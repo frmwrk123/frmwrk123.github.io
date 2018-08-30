@@ -19,6 +19,8 @@ verwiesen. Dieser Bericht schildert meine Eindrücke und beschränkt sich
 auf einige Kernelemente und Schlussfolgerungen meinerseits.
 
 <a rel="nofollow" href="https://www.hamburgische-buergerschaft.de/contentblob/11502396/1d7b2a9706f4b85575a76f2a7dc9e354/data/180816-dl.pdf">Tagesordnung</a>
+<a href="https://www.buergerschaft-hh.de/parldok/dokument/63565/.pdf"
+   rel="nofollow">Wortprotokoll der Bürgerschaft</a>
 
 ## Abschlussstatements der Fraktionen
 
