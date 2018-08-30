@@ -20,8 +20,12 @@ auf einige Kernelemente und Schlussfolgerungen meinerseits.
 Auf der Septembersitzung war ich leider nicht anwesend. Das Wortprotokoll dafür,
 verlinke ich hier der Vollständigkeit halber dennoch.
 
+<a href="https://www.hamburgische-buergerschaft.de/contentblob/9508532/52c68652911d7577f18345c62b9f33ed/data/170921-dl.pdf" rel="nofollow">Tagesordnung - September</a><br />
+
 <a href="https://www.buergerschaft-hh.de/ParlDok/dokument/59392/wortprotokoll-der-%c3%b6ffentlichen-sitzung-des-sonderausschusses-gewaltt%c3%a4tige-ausschreitungen-rund-um-den-g20-gipfel-in-hamburg-.pdf"
    rel="nofollow">Wortprotokoll der Bürgerschaft - September</a>
+   
+<a href="https://www.hamburgische-buergerschaft.de/contentblob/9814210/24d4ed1ceae2ddd3f9bee6503f47d829/data/171109-dl.pdf" rel="nofollow">Tagesordnung- November</a><br />
 
 <a href="https://www.buergerschaft-hh.de/ParlDok/dokument/59938/wortprotokoll-der-%c3%b6ffentlichen-sitzung-des-sonderausschusses-gewaltt%c3%a4tige-ausschreitungen-rund-um-den-g20-gipfel-in-hamburg-.pdf"
    rel="nofollow">Wortprotokoll der Bürgerschaft - November</a>

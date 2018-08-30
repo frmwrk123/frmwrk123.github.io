@@ -20,6 +20,7 @@ Interesse das gesamte Geschehen nachvollzogen werden kann. Diese Zusammenfassung
 soll einen groben und ersten Überblick geben, um gerade den Abwesenden zu ermöglichen,
 schnell und unkompliziert etwas über den Ausschuss zu erfahren.
 
+<a rel="nofollow" href="https://www.hamburgische-buergerschaft.de/contentblob/9386044/215bd89a2a4de6a317393a37fac714d2/data/170831-dl.pdf">Tagesordnung</a>
 <a href="https://www.buergerschaft-hh.de/ParlDok/dokument/59121/wortprotokoll-der-%c3%b6ffentlichen-sitzung-des-sonderausschusses-gewaltt%c3%a4tige-ausschreitungen-rund-um-den-g20-gipfel-in-hamburg-.pdf"
    rel="nofollow">Wortprotokoll der Bürgerschaft</a>
 

@@ -14,10 +14,6 @@ Für einen detaillierten Blick auf die Befragungen sei auf das Wortprotokoll
 verwiesen. Dieser Bericht schildert meine Eindrücke und beschränkt sich
 auf einige Kernelemente und Schlussfolgerungen meinerseits.
 
-Neues Jahr, neue Qualität. Ab sofort werden auch die Tagesordnungen der
-Sitzungen verlinkt, sodass detailliert die besprochenen Punkte und die geladenen
-Gäste nachvollzogen werden können.
-
 <a href="https://www.hamburgische-buergerschaft.de/contentblob/10233930/69e54ee9ed3a38a68bc48790cd1704c6/data/180124-dl.pdf" rel="nofollow">Tagesordnung</a><br />
 <a href="https://www.buergerschaft-hh.de/ParlDok/dokument/61278/protokoll-der-%c3%b6ffentlichen-sitzung-des-sonderausschusses-gewaltt%c3%a4tige-ausschreitungen-rund-um-den-g20-gipfel-in-hamburg-.pdf" rel="nofollow">
 Wortprotokoll</a>
