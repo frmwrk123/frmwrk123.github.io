@@ -130,7 +130,7 @@ vergeben. Bei Stimmengleichheit entscheidet die Position auf der Liste. Weiter i
 - SPD, Marc Schemmel (Platz 1 auf Liste und nach Stimmen): 14.581 Stimmen
 - SPD, Ines Schwarzarius (Platz 2 auf Liste und nach Stimmen): 3.933 Stimmen
 - CDU, Rüdiger Kuhn (Platz 1 auf Liste und nach Stimmen): 9.435 Stimmen
-- CDU, Rüdiger Burg (Platz 1 auf Liste und nach Stimmen): 3.018 Stimmen
+- CDU, Rüdiger Burg (Platz 2 auf Liste und nach Stimmen): 3.018 Stimmen
 - GRÜNE, Dietmar Kuhlmann (Platz 1 auf Liste und nach Stimmen): 5.216 Stimmen
 
 Anhand des Vergleichs mit den gesamten Wahlkreisstimmen der Partei kann ermittelt werden, wieviele Stimmen auf
