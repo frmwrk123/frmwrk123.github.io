@@ -13,7 +13,12 @@
                     <header>
                         <h6 itemprop="name about"><a href="{{ event.url | relative_url }}">{{ event.title }}</a></h6>
                         <ul class="list-unstyled">
-                            <li><span class="far fa-map-marker"></span> <span itemprop="location">{{ event.location }}</span></li>
+                            <li><span class="far fa-map-marker"></span>
+                                <div class="d-inline" itemprop="location" itemscope itemtype="http://schema.org/Place">
+                                    <span itemprop="name">{{ event.location }}</span>
+                                    <span class="invisible" itemprop="address">{{ event.location }}</span>
+                                </div>
+                            </li>
                             <li>
                                 <span class="far fa-calendar-alt"></span>
                                 <time datetime="{{ event.start_date | date_to_xmlschema }}" itemprop="startDate">
