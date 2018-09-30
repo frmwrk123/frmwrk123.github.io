@@ -15,7 +15,9 @@ layout: default
     <ul class="list-unstyled">
         <li>
             <span class="far fa-map-marker"></span>
-            <span itemprop="location">{{ page.location }}</span>
+            <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+                <span itemprop="name address">{{ page.location }}</span>
+            </div>
         </li>
         <li>
             <span class="far fa-calendar-alt"></span>
