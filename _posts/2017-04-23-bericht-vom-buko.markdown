@@ -223,8 +223,8 @@ dieser Stelle die Aufzeichnung des Redebeitrags vom BuKo verlinken, aber der
 BuKo wird nicht aufgezeichnet. Es gibt lediglich einen Livestream.
 
 Im Anschluss daran wurden die Wahlen durchgeführt. Darauf folgten die Leitanträge.
-Unser G20-Antrag wurde hervorragend von unserem Meister der Münze Julian von 
-Bülow eingebracht. Bei nur einer Gegenstimme wurde der Antrag mit überragender
+Unser G20-Antrag wurde hervorragend von unserem Meister der Münze eingebracht. 
+Bei nur einer Gegenstimme wurde der Antrag mit überragender
 Mehrheit angenommen. Ich freue mich darauf, dass möglichst viele dieser Menschen
 im Juli nach Hamburg kommen, um dort gegen G20 und für eine bessere Welt zu
 demonstrieren. 
