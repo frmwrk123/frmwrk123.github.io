@@ -5,6 +5,7 @@ brand_logo: /assets/images/brand.svg
 image_desc:
 age: 24
 location: Hamburg, Germany
+profession: Student
 cv_link: /cv/
 cv_pdf: /assets/pdf/cv.pdf
 generic_email: topic@2martens.de
@@ -16,6 +17,7 @@ twitter_username: 2martens
 fingerprint_gpg: F0F1 53B6 5BAD 4672 01D7 544E 4739 3ABD 1F96 B7C8
 election_district: N.N.
 election_listnr: N.N.
+election_living_district: Niendorf, Hamburg
 publickey_gpg: /assets/gpg/0x1F96B7C8-pub.asc
 publications:
   - link: /assets/pdf/bachelor-thesis.pdf
