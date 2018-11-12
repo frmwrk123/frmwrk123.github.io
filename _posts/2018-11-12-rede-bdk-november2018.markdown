@@ -9,6 +9,7 @@ categories: speeches
 <iframe class="embed-responsive-item" width="560" height="315" 
 src="https://www.youtube-nocookie.com/embed/S9oN_d8Y9c4" 
 frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Liebe Freundinnen und Freunde,
 
