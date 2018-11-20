@@ -8,6 +8,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
+    ast (2.3.0)
     autoprefixer-rails (8.6.4)
       execjs
     bootstrap (4.1.1)
@@ -190,18 +191,30 @@ GEM
     octokit (4.9.0)
       sawyer (~> 0.8.0, >= 0.5.3)
     parallel (1.12.1)
+    parser (2.4.0.2)
+      ast (~> 2.3)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     popper_js (1.12.9)
+    powerpack (0.1.1)
     public_suffix (3.0.2)
-    rack (2.0.5)
+    rack (2.0.6)
+    rainbow (3.0.0)
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
     ref (2.0.0)
     rouge (2.2.1)
+    rubocop (0.52.0)
+      parallel (~> 1.10)
+      parser (>= 2.4.0.2, < 3.0)
+      powerpack (~> 0.1)
+      rainbow (>= 2.2.2, < 4.0)
+      ruby-progressbar (~> 1.7)
+      unicode-display_width (~> 1.0, >= 1.0.1)
     ruby-enum (0.7.2)
       i18n
+    ruby-progressbar (1.9.0)
     ruby_dep (1.5.0)
     rubyzip (1.2.1)
     safe_yaml (1.0.4)
@@ -278,7 +291,9 @@ DEPENDENCIES
   listen
   mercenary
   minima
+  rack (>= 2.0.6)
   rouge
+  rubocop
   sprockets
   terminal-table
   therubyracer
