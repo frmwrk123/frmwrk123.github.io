@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 # gem 'github-pages', group: :jekyll_plugins
 gem 'activesupport'
-gem 'therubyracer'
+gem 'mini_racer'
 # gem 'github-pages-health-check'
 gem 'html-proofer', group: :development
 gem 'jekyll', '~> 3.8.4'
