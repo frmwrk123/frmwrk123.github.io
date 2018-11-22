@@ -17,7 +17,7 @@ layout: default
             <span class="far fa-map-marker"></span>
             <div class="d-inline" itemprop="location" itemscope itemtype="http://schema.org/Place">
                 <span itemprop="name">{{ page.location }}</span>
-                <span class="invisible" itemprop="address">{{ page.location }}</span>
+                <span {% if page.location == page.address %}class="invisible" {% endif %}itemprop="address">{{ page.address }}</span>
             </div>
         </li>
         <li>
