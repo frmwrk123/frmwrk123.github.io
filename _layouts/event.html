@@ -14,9 +14,10 @@ layout: default
 
     <ul class="list-unstyled">
         <li>
-            <span class="far fa-map-marker"></span>
-            <div class="d-inline" itemprop="location" itemscope itemtype="http://schema.org/Place">
-                <span itemprop="name">{{ page.location }}</span>
+            <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+                <span class="far fa-map-marker"></span>
+                <span itemprop="name">{{ page.location }}</span><br />
+                {% if page.location != page.address %}<span class="fas fa-road"></span>{% endif %}
                 <span {% if page.location == page.address %}class="invisible" {% endif %}itemprop="address">{{ page.address }}</span>
             </div>
         </li>
