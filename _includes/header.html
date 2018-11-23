@@ -28,13 +28,6 @@
     </nav>
     {% for item in site.data.header-menu.items %}
         {% if item.items %}
-            {% if page.url == item.link %}
-                {% assign showSubmenu = true %}
-            {% elsif page.parent_link == item.link %}
-                {% assign showSubmenu = true %}
-            {% else %}
-                {% assign showSubmenu = false %}
-            {% endif %}
             {% if showSubmenu %}
                 <nav id="submenuNavbar" class="navbar navbar-expand-lg navbar-light fixed-top">
                     <div class="container">
