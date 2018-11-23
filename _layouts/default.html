@@ -9,8 +9,10 @@
 <pre>{{ page.url }}</pre>
 <pre>{{ item.link }}</pre>
 <pre>{{ page.parent_link }}</pre>
+<pre>{% if showSubmenu %}true{% else %}false{% endif %}</pre>
         {% if page.url == item.link %}
             {% assign showSubmenu = true %}
+<pre>{% if showSubmenu %}true{% else %}false{% endif %}</pre>
         {% elsif page.parent_link == item.link %}
             {% assign showSubmenu = true %}
         {% endif %}
