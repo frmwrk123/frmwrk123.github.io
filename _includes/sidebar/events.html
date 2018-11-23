@@ -5,7 +5,8 @@
     </header>
     <ul class="list-group list-group-flush">
         {% capture now-unix %}{{ 'now' | date: '%s' | divided_by: 86400 }}{% endcapture %}
-        {% for event in site.events %}
+        {% assign events = site.events | sort:'start_date' %}
+        {% for event in events %}
             {% capture event-time %}{{ event.start_date | date: '%s' | divided_by: 86400 }}{% endcapture %}
             {% if now-unix <= event-time %}
             <li class="list-group-item" itemscope itemtype="http://schema.org/Event">
