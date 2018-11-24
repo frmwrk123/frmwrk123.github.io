@@ -6,10 +6,10 @@
 "use strict";
 $(function() {
     let mainMenu = $("#mainmenuNavbar");
-    mainMenu.on("show.bs.collapse", function (e) {
+    mainMenu.on("show.bs.collapse", function () {
         $("#submenuNavbar").addClass("invisible");
     });
-    mainMenu.on("hidden.bs.collapse", function (e) {
+    mainMenu.on("hidden.bs.collapse", function () {
         $("#submenuNavbar").removeClass("invisible");
     });
 
@@ -21,7 +21,7 @@ $(function() {
             backToTop.fadeOut();
         }
     });
-    backToTop.click(function() {
+    backToTop.click(function () {
         backToTop.tooltip("hide");
         $("body,html").animate({
             scrollTop: 0
