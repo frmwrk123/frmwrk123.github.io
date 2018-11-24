@@ -1,6 +1,7 @@
 //= require popper
 //= require bootstrap/util
 //= require bootstrap/collapse
+//= require bootstrap/tooltip
 
 "use strict";
 $(function() {
