@@ -3,6 +3,7 @@ image: /assets/images/author.jpg
 brand: 2martens
 brand_logo: /assets/images/brand.svg
 brand_logo_png: /assets/images/brand.png
+brand_logo_png150: /assets/images/brand150.png
 image_desc:
 age: 24
 location: Hamburg, Germany
