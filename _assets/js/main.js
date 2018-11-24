@@ -5,15 +5,15 @@
 
 "use strict";
 $(function() {
-    let mainMenu = $('#mainmenuNavbar');
-    mainMenu.on('show.bs.collapse', function (e) {
-        $('#submenuNavbar').addClass('invisible');
+    let mainMenu = $("#mainmenuNavbar");
+    mainMenu.on("show.bs.collapse", function (e) {
+        $("#submenuNavbar").addClass("invisible");
     });
-    mainMenu.on('hidden.bs.collapse', function (e) {
-        $('#submenuNavbar').removeClass('invisible');
+    mainMenu.on("hidden.bs.collapse", function (e) {
+        $("#submenuNavbar").removeClass("invisible");
     });
 
-    let backToTop = $('#back-to-top');
+    let backToTop = $("#back-to-top");
     $(window).scroll(function () {
         if ($(this).scrollTop() > 50) {
             backToTop.fadeIn();
@@ -22,8 +22,8 @@ $(function() {
         }
     });
     backToTop.click(function() {
-        backToTop.tooltip('hide');
-        $('body,html').animate({
+        backToTop.tooltip("hide");
+        $("body,html").animate({
             scrollTop: 0
         }, 800);
         return false;
