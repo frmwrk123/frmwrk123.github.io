@@ -40,7 +40,7 @@ defaults:
       type: "events"
     values:
         layout: "event"
-        sidebarboxes: "author encrypted-communication"
+        sidebarboxes: "author encrypted-communication events"
 
 # Build settings
 markdown: kramdown
