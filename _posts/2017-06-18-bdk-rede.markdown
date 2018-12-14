@@ -11,11 +11,10 @@ auf dem Bundesparteitag, welche in Videoformat auch auf Youtube zu sehen ist:
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" width="560" height="315" 
-src="https://www.youtube-nocookie.com/embed/3BlOrCdFefo?rel=0&amp;start=8952" 
-frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen>
+src="https://www.youtube-nocookie.com/embed/3BlOrCdFefo?start=8952" 
+frameborder="0" allow="encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
-
 
 Trotz schlechter Umfragen sollten wir uns nicht unterkriegen lassen. 1820 war
 die Sklaverei fest verankert in den USA. 1910 konnten Frauen nicht wählen. Bis
