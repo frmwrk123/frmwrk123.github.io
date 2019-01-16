@@ -6,14 +6,14 @@
     <ul class="list-group list-group-flush">
         {% capture now-unix %}{{ 'now' | date: '%s' | divided_by: 86400 }}{% endcapture %}
         {% assign events = site.events | sort:'start_date' %}
-        {% assign offset = 0 %}
+        {% assign offset_var = 0 %}
         {% for event in events %}
-            {% capture event-time %}{{ event.start_date | date: '%s' | divided_by: 86400 }}{% endcapture %}
+            {% capture event-time %}{{ event.end_date | date: '%s' | divided_by: 86400 }}{% endcapture %}
             {% if now-unix > event-time %}
-                {% assign offset = offset + 1 %}
+                {% assign offset_var = offset_var|plus:1 %}
             {% endif %}
         {% endfor %}
-        {% for event in events limit:3 offset: offset %}
+        {% for event in events offset:offset_var limit:3 %}
             {% capture event-time %}{{ event.start_date | date: '%s' | divided_by: 86400 }}{% endcapture %}
             {% if now-unix <= event-time %}
             <li class="list-group-item" itemscope itemtype="http://schema.org/Event">
