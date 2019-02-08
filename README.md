@@ -1,6 +1,7 @@
 # Personal Website
 
 [![Build Status](https://api.travis-ci.org/2martens/2martens.de.png)](https://travis-ci.org/2martens/2martens.de)
+[![Website Status](https://img.shields.io/website-up-down-green-red/:protocol(https|http)/:2martens.de.svg)](https://2martens.de)
 
 This repository hosts my personal website. It is jekyll powered with all required
 dependencies described in the Gemfile. If you wanted, you could create the very same
