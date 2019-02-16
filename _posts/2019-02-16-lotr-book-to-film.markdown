@@ -41,9 +41,9 @@ Frodo is given the ring and asked to keep it secure.
 17 years pass in which Gandalf tries to figure out if the ring is actually "the one ring". Eventually he comes
 back and has a lengthy talk with Frodo and tells him of the task ahead and that Frodo must go to Rivendell.
 At this meeting the black speech on the ring is also revealed. To make his disappearance seem normal, Frodo plans
-with the help of his friend Meriadoc to move to Buckland (east of the Brandywine river) and buys a small home there,
-which is out of eyesight from other buildings. Sam was eavesdropping and was conscripted to help Frodo in the 
-endeavour.
+with the help of his friend Meriadoc to move to Buckland (east of the Brandywine river) and buys a small home 
+there, which is out of eyesight from other buildings. Bag End is sold to the S.-B. Sam was eavesdropping and was 
+conscripted to help Frodo in the endeavour.
 
 Gandalf sets out again and on his return to the shire (some weeks/months before Frodos move) he meets Radagast near
 Bree, who tells him that Saruman wants to see him. Gandalf now writes a letter and gives it to the innkeeper in
