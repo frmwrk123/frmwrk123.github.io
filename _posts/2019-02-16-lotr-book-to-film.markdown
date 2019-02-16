@@ -189,11 +189,14 @@ a clear abstract of the order of things.
 
 - prior to the counsel of Elrond, many months pass in which scouts are searching for the black riders
 - the council itself is much longer, Gloin is present as well and tells from the Lonely Mountain
+- Legolas reports that Gollum fled from imprisonment
+- Gandalf tells the full tale of the betrayal of Saruman
 - Aragorn has the broken Narzil with him, it is not lying in Rivendell
 - the sword is reforged and Anduril, Flame of the West, is given to Aragorn
 - many more scenes with Bilbo
 - almost no mention of Arwen (connection of Aragorn and Arwen is not mentioned at all and only visible
   if you know what to look for)
+
 
 ## From Rivendell to Moria
 
