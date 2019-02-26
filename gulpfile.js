@@ -6,6 +6,7 @@ const browserSync = require("browser-sync").create();
 const cleancss = require("gulp-clean-css");
 const concat = require("gulp-concat");
 const del = require("del");
+const exec = require("gulp-exec");
 const gulp = require("gulp");
 const gutil = require("gulp-util");
 const imagemin = require("gulp-imagemin");
@@ -111,8 +112,7 @@ gulp.task("clean:images", function () {
 gulp.task("build:jekyll", function () {
     let shellCommand = "bundle exec jekyll build --config _config.yml";
 
-    return gulp.src("")
-        .pipe(run(shellCommand))
+    return exec(shellCommand)
         .on("error", gutil.log);
 });
 
@@ -120,8 +120,7 @@ gulp.task("build:jekyll", function () {
 gulp.task("build:jekyll:test", function () {
     let shellCommand = "bundle exec jekyll build --config _config.yml,_config.test.yml";
 
-    return gulp.src("")
-        .pipe(run(shellCommand))
+    return exec(shellCommand)
         .on("error", gutil.log);
 });
 
@@ -129,8 +128,7 @@ gulp.task("build:jekyll:test", function () {
 gulp.task("build:jekyll:local", function () {
     let shellCommand = "bundle exec jekyll build --config _config.yml,_config.test.yml,_config.dev.yml";
 
-    return gulp.src("")
-        .pipe(run(shellCommand))
+    return exec(shellCommand)
         .on("error", gutil.log);
 });
 
