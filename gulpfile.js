@@ -156,7 +156,7 @@ gulp.task("build:local", gulp.series("clean",
 gulp.task("default", gulp.series("build"));
 
 // Special tasks for building and then reloading BrowserSync.
-gulp.task("build:jekyll:watch", gulp.series("build:jekyll:local", function (callback) {
+gulp.task("build:jekyll:watch", gulp.series("build:jekyll:test", function (callback) {
     browserSync.reload();
     callback();
 }));
