@@ -53,12 +53,11 @@ gulp.task("build:styles:critical", function () {
 // Builds all styles.
 gulp.task("build:styles", gulp.series("build:styles:main", "build:styles:critical"));
 
-gulp.task("clean:styles", function (callback) {
-    del([paths.jekyllCssFiles + "main.css",
+gulp.task("clean:styles", function () {
+    return del([paths.jekyllCssFiles + "main.css",
         paths.siteCssFiles + "main.css",
         "_includes/critical.css"
     ]);
-    callback();
 });
 
 // Concatenates and uglifies global JS files and outputs result to the
@@ -67,18 +66,16 @@ gulp.task("build:scripts:global", function () {
     return gulp.src([
         paths.jsFiles + "/global/lib" + paths.jsPattern,
         paths.jsFiles + "/global/*.js"
-    ])
-        .pipe(sprockets.default.js())
-        .pipe(concat("main.js"))
-        .pipe(uglify())
-        .pipe(gulp.dest(paths.jekyllJsFiles))
-        .pipe(gulp.dest(paths.siteJsFiles))
-        .on("error", gutil.log);
+    ]).pipe(sprockets.default.js())
+      .pipe(concat("main.js"))
+      .pipe(uglify())
+      .pipe(gulp.dest(paths.jekyllJsFiles))
+      .pipe(gulp.dest(paths.siteJsFiles))
+      .on("error", gutil.log);
 });
 
-gulp.task("clean:scripts", function (callback) {
-    del([paths.jekyllJsFiles + "main.js", paths.siteJsFiles + "main.js"]);
-    callback();
+gulp.task("clean:scripts", function () {
+    return del([paths.jekyllJsFiles + "main.js", paths.siteJsFiles + "main.js"]);
 });
 
 // Concatenates and uglifies leaflet JS files and outputs result to the
@@ -87,17 +84,15 @@ gulp.task("build:scripts:leaflet", function () {
     return gulp.src([
         paths.jsFiles + "/leaflet/leaflet.js",
         paths.jsFiles + "/leaflet/leaflet-providers.js"
-    ])
-        .pipe(concat("leaflet.js"))
-        .pipe(uglify())
-        .pipe(gulp.dest(paths.jekyllJsFiles))
-        .pipe(gulp.dest(paths.siteJsFiles))
-        .on("error", gutil.log);
+    ]).pipe(concat("leaflet.js"))
+      .pipe(uglify())
+      .pipe(gulp.dest(paths.jekyllJsFiles))
+      .pipe(gulp.dest(paths.siteJsFiles))
+      .on("error", gutil.log);
 });
 
-gulp.task("clean:scripts:leaflet", function (callback) {
-    del([paths.jekyllJsFiles + "leaflet.js", paths.siteJsFiles + "leaflet.js"]);
-    callback();
+gulp.task("clean:scripts:leaflet", function () {
+    return del([paths.jekyllJsFiles + "leaflet.js", paths.siteJsFiles + "leaflet.js"]);
 });
 
 // Builds all scripts.
@@ -112,14 +107,13 @@ gulp.task("build:images", function () {
         .pipe(browserSync.stream());
 });
 
-gulp.task("clean:images", function (callback) {
-    del([paths.jekyllImageFiles, paths.siteImageFiles]);
-    callback();
+gulp.task("clean:images", function () {
+    return del([paths.jekyllImageFiles, paths.siteImageFiles]);
 });
 
 // Runs jekyll build command.
 gulp.task("build:jekyll", function () {
-    var shellCommand = "bundle exec jekyll build --config _config.yml";
+    let shellCommand = "bundle exec jekyll build --config _config.yml";
 
     return gulp.src("")
         .pipe(run(shellCommand))
@@ -128,7 +122,7 @@ gulp.task("build:jekyll", function () {
 
 // Runs jekyll build command using test config.
 gulp.task("build:jekyll:test", function () {
-    var shellCommand = "bundle exec jekyll build --config _config.yml,_config.test.yml";
+    let shellCommand = "bundle exec jekyll build --config _config.yml,_config.test.yml";
 
     return gulp.src("")
         .pipe(run(shellCommand))
@@ -137,7 +131,7 @@ gulp.task("build:jekyll:test", function () {
 
 // Runs jekyll build command using local config.
 gulp.task("build:jekyll:local", function () {
-    var shellCommand = "bundle exec jekyll build --config _config.yml,_config.test.yml,_config.dev.yml";
+    let shellCommand = "bundle exec jekyll build --config _config.yml,_config.test.yml,_config.dev.yml";
 
     return gulp.src("")
         .pipe(run(shellCommand))
@@ -145,9 +139,8 @@ gulp.task("build:jekyll:local", function () {
 });
 
 // Deletes the entire _site directory.
-gulp.task("clean:jekyll", function (callback) {
-    del(["_site"]);
-    callback();
+gulp.task("clean:jekyll", function () {
+    return del(["_site"]);
 });
 
 gulp.task("clean", gulp.series("clean:jekyll",
@@ -156,28 +149,20 @@ gulp.task("clean", gulp.series("clean:jekyll",
     "clean:styles"));
 
 // Builds site anew.
-gulp.task("build", function (callback) {
-    gulp.series("clean",
-        gulp.series("build:scripts", "build:images", "build:styles"),
-        "build:jekyll");
-    callback();
-});
+gulp.task("build", gulp.series("clean",
+    gulp.parallel("build:scripts", "build:images", "build:styles"),
+    "build:jekyll")
+);
 
 // Builds site anew using test config.
-gulp.task("build:test", function (callback) {
-    gulp.series("clean",
-        gulp.series("build:scripts", "build:images", "build:styles"),
-        "build:jekyll:test");
-    callback();
-});
+gulp.task("build:test", gulp.series("clean",
+        gulp.parallel("build:scripts", "build:images", "build:styles"),
+        "build:jekyll:test"));
 
 // Builds site anew using local config.
-gulp.task("build:local", function (callback) {
-    gulp.series("clean",
-        gulp.series("build:scripts", "build:images", "build:styles"),
-        "build:jekyll:local");
-    callback();
-});
+gulp.task("build:local", gulp.series("clean",
+        gulp.parallel("build:scripts", "build:images", "build:styles"),
+        "build:jekyll:local"));
 
 // Default Task: builds site.
 gulp.task("default", gulp.series("build"));
