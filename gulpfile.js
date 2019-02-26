@@ -198,7 +198,7 @@ gulp.task("serve", gulp.series("build:local", function () {
     gulp.watch("_assets/styles/**/*.scss", gulp.series("build:styles"));
 
     // Watch .js files.
-    gulp.watch("_assets/js/**/*.js", gulp.series("build:scripts:watch"));
+    gulp.watch("_assets/javascripts/**/*.js", gulp.series("build:scripts:watch"));
 
     // Watch image files; changes are piped to browserSync.
     gulp.watch("_assets/images/**/*", gulp.series("build:images"));
