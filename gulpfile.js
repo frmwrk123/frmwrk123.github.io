@@ -15,13 +15,10 @@ const rename = require("gulp-rename");
 const run = require("gulp-run");
 const runSequence = require("run-sequence");
 const sass = require("gulp-ruby-sass");
-const sprockets = require("gulp-sprockets");
-const uglify = require("gulp-uglify");
+const terser = require("gulp-terser");
 
 // Include paths file.
 const paths = require("./_assets/gulp_config/paths");
-
-sprockets.default.declare(paths.sprocketsDirs, paths.siteJsFiles);
 
 // Uses Sass compiler to process styles, adds vendor prefixes, minifies, then
 // outputs file to the appropriate location.
@@ -66,9 +63,8 @@ gulp.task("build:scripts:global", function () {
     return gulp.src([
         paths.jsFiles + "/global/lib" + paths.jsPattern,
         paths.jsFiles + "/global/*.js"
-    ]).pipe(sprockets.default.js())
-      .pipe(concat("main.js"))
-      .pipe(uglify())
+    ]).pipe(concat("main.js"))
+      .pipe(terser())
       .pipe(gulp.dest(paths.jekyllJsFiles))
       .pipe(gulp.dest(paths.siteJsFiles))
       .on("error", gutil.log);
@@ -85,7 +81,7 @@ gulp.task("build:scripts:leaflet", function () {
         paths.jsFiles + "/leaflet/leaflet.js",
         paths.jsFiles + "/leaflet/leaflet-providers.js"
     ]).pipe(concat("leaflet.js"))
-      .pipe(uglify())
+      .pipe(terser())
       .pipe(gulp.dest(paths.jekyllJsFiles))
       .pipe(gulp.dest(paths.siteJsFiles))
       .on("error", gutil.log);
