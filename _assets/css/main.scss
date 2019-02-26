@@ -1,9 +1,7 @@
 @charset "UTF-8";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-"bootstrap-custom"
-;
+@import "bootstrap-custom";
 
 .site-header > .navbar {
   //border-top: 5px solid $dark;
