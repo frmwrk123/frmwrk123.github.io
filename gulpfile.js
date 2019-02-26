@@ -169,7 +169,7 @@ gulp.task("build:scripts:watch", gulp.series("build:scripts", function (callback
 // Static Server + watching files.
 // Note: passing anything besides hard-coded literal paths with globs doesn't
 // seem to work with gulp.watch().
-gulp.task("serve", gulp.series("build:local", function () {
+gulp.task("serve", gulp.series("build:test", function () {
 
     browserSync.init({
         server: paths.siteDir,
