@@ -1,17 +1,19 @@
-/*! echo.js v1.7.0 | (c) 2015 @toddmotto | https://github.com/toddmotto/echo */
+/*! echo-js v1.7.3 | (c) 2016 @toddmotto | https://github.com/toddmotto/echo */
+/*global define */
+/*global module */
 (function (root, factory) {
-  if (typeof define === 'function' && define.amd) {
+  if (typeof define === "function" && define.amd) {
     define(function() {
       return factory(root);
     });
-  } else if (typeof exports === 'object') {
+  } else if (typeof exports === "object") {
     module.exports = factory;
   } else {
     root.echo = factory(root);
   }
 })(this, function (root) {
 
-  'use strict';
+  "use strict";
 
   let echo = {};
 
@@ -19,11 +21,11 @@
 
   let offset, poll, delay, useDebounce, unload;
 
-  const isHidden = function (element) {
+  let isHidden = function (element) {
     return (element.offsetParent === null);
   };
-  
-  const inView = function (element, view) {
+
+  let inView = function (element, view) {
     if (isHidden(element)) {
       return false;
     }
@@ -32,7 +34,7 @@
     return (box.right >= view.l && box.bottom >= view.t && box.left <= view.r && box.top <= view.b);
   };
 
-  const debounceOrThrottle = function () {
+  let debounceOrThrottle = function () {
     if(!useDebounce && !!poll) {
       return;
     }
@@ -48,7 +50,7 @@
     let offsetAll = opts.offset || 0;
     let offsetVertical = opts.offsetVertical || offsetAll;
     let offsetHorizontal = opts.offsetHorizontal || offsetAll;
-    const optionToInt = function (opt, fallback) {
+    let optionToInt = function (opt, fallback) {
       return parseInt(opt || fallback, 10);
     };
     offset = {
@@ -63,16 +65,16 @@
     callback = opts.callback || callback;
     echo.render();
     if (document.addEventListener) {
-      root.addEventListener('scroll', debounceOrThrottle, false);
-      root.addEventListener('load', debounceOrThrottle, false);
+      root.addEventListener("scroll", debounceOrThrottle, false);
+      root.addEventListener("load", debounceOrThrottle, false);
     } else {
-      root.attachEvent('onscroll', debounceOrThrottle);
-      root.attachEvent('onload', debounceOrThrottle);
+      root.attachEvent("onscroll", debounceOrThrottle);
+      root.attachEvent("onload", debounceOrThrottle);
     }
   };
 
-  echo.render = function () {
-    let nodes = document.querySelectorAll('img[data-echo], [data-echo-background]');
+  echo.render = function (context) {
+    let nodes = (context || document).querySelectorAll("[data-echo], [data-echo-background]");
     let length = nodes.length;
     let src, elem;
     let view = {
@@ -86,34 +88,34 @@
       if (inView(elem, view)) {
 
         if (unload) {
-          elem.setAttribute('data-echo-placeholder', elem.src);
+          elem.setAttribute("data-echo-placeholder", elem.src);
         }
 
-        if (elem.getAttribute('data-echo-background') !== null) {
-          elem.style.backgroundImage = "url(" + elem.getAttribute('data-echo-background') + ")";
+        if (elem.getAttribute("data-echo-background") !== null) {
+          elem.style.backgroundImage = "url(" + elem.getAttribute("data-echo-background") + ")";
         }
-        else {
-          elem.src = elem.getAttribute('data-echo');
+        else if (elem.src !== (src = elem.getAttribute("data-echo"))) {
+          elem.src = src;
         }
 
         if (!unload) {
-          elem.removeAttribute('data-echo');
-          elem.removeAttribute('data-echo-background');
+          elem.removeAttribute("data-echo");
+          elem.removeAttribute("data-echo-background");
         }
 
-        callback(elem, 'load');
+        callback(elem, "load");
       }
-      else if (unload && !!(src = elem.getAttribute('data-echo-placeholder'))) {
+      else if (unload && !!(src = elem.getAttribute("data-echo-placeholder"))) {
 
-        if (elem.getAttribute('data-echo-background') !== null) {
+        if (elem.getAttribute("data-echo-background") !== null) {
           elem.style.backgroundImage = "url(" + src + ")";
         }
         else {
           elem.src = src;
         }
 
-        elem.removeAttribute('data-echo-placeholder');
-        callback(elem, 'unload');
+        elem.removeAttribute("data-echo-placeholder");
+        callback(elem, "unload");
       }
     }
     if (!length) {
@@ -123,9 +125,9 @@
 
   echo.detach = function () {
     if (document.removeEventListener) {
-      root.removeEventListener('scroll', debounceOrThrottle);
+      root.removeEventListener("scroll", debounceOrThrottle);
     } else {
-      root.detachEvent('onscroll', debounceOrThrottle);
+      root.detachEvent("onscroll", debounceOrThrottle);
     }
     clearTimeout(poll);
   };
