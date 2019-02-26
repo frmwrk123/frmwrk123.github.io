@@ -29,7 +29,7 @@ gulp.task("build:styles:main", function () {
     return sass(paths.sassFiles + "/main.scss", {
         style: "compressed",
         trace: true,
-        loadPath: [paths.sassFiles]
+        loadPath: [paths.includeSass, paths.sassFiles]
     }).pipe(postcss([autoprefixer({browsers: ["last 2 versions"]})]))
         .pipe(cleancss())
         .pipe(gulp.dest(paths.jekyllCssFiles))
@@ -43,7 +43,7 @@ gulp.task("build:styles:critical", function () {
     return sass(paths.sassFiles + "/critical.scss", {
         style: "compressed",
         trace: true,
-        loadPath: [paths.sassFiles]
+        loadPath: [paths.includeSass, paths.sassFiles]
     }).pipe(postcss([autoprefixer({browsers: ["last 2 versions"]})]))
         .pipe(cleancss())
         .pipe(gulp.dest("_includes"))
