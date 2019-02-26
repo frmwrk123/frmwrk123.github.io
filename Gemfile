@@ -30,7 +30,7 @@ group :jekyll_plugins do
   gem 'sprockets'
   gem 'uglifier'
 end
-gem 'jekyll-sass-converter'
+gem 'jekyll-sass-converter', '~> 1.5.2'
 # themes
 gem 'jekyll-swiss'
 gem 'jekyll-theme-architect'
