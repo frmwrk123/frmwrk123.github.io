@@ -92,7 +92,7 @@ gulp.task("clean:scripts:leaflet", function () {
 });
 
 // Builds all scripts.
-gulp.task("build:scripts", gulp.series("build:scripts:global", "build:scripts:leaflet"));
+gulp.task("build:scripts", gulp.series("build:scripts:global"));
 
 // Optimizes and copies image files.
 gulp.task("build:images", function () {
