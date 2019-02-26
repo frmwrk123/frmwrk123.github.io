@@ -8,7 +8,6 @@ gem 'jekyll', '~> 3.8.4'
 group :jekyll_plugins do
   gem 'autoprefixer-rails'
   gem 'bootstrap', '~> 4.3.1'
-  gem 'jekyll-assets', '~> 3.0.12'
   gem 'jekyll-avatar'
   gem 'jekyll-coffeescript'
   gem 'jekyll-commonmark-ghpages'
