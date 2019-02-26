@@ -144,24 +144,24 @@ gulp.task("clean:jekyll", function () {
 });
 
 gulp.task("clean", gulp.series("clean:jekyll",
-    "clean:images",
+    //"clean:images",
     "clean:scripts",
     "clean:styles"));
 
 // Builds site anew.
 gulp.task("build", gulp.series("clean",
-    gulp.parallel("build:scripts", "build:images", "build:styles"),
+    gulp.parallel("build:scripts", "build:styles"),
     "build:jekyll")
 );
 
 // Builds site anew using test config.
 gulp.task("build:test", gulp.series("clean",
-        gulp.parallel("build:scripts", "build:images", "build:styles"),
+        gulp.parallel("build:scripts", "build:styles"),
         "build:jekyll:test"));
 
 // Builds site anew using local config.
 gulp.task("build:local", gulp.series("clean",
-        gulp.parallel("build:scripts", "build:images", "build:styles"),
+        gulp.parallel("build:scripts", "build:styles"),
         "build:jekyll:local"));
 
 // Default Task: builds site.
@@ -201,7 +201,7 @@ gulp.task("serve", gulp.series("build:local", function () {
     gulp.watch("_assets/js/**/*.js", gulp.series("build:scripts:watch"));
 
     // Watch image files; changes are piped to browserSync.
-    gulp.watch("_assets/img/**/*", gulp.series("build:images"));
+    gulp.watch("_assets/images/**/*", gulp.series("build:images"));
 
     // Watch posts.
     gulp.watch("_posts/**/*.+(md|markdown|MD)", gulp.series("build:jekyll:watch"));
