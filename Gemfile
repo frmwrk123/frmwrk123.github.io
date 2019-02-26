@@ -8,7 +8,7 @@ gem 'jekyll', '~> 3.8.4'
 group :jekyll_plugins do
   gem 'autoprefixer-rails'
   gem 'bootstrap', '~> 4.3.1'
-  gem 'jekyll-assets', '~> 3.0.9'
+  gem 'jekyll-assets', '~> 3.0.12'
   gem 'jekyll-avatar'
   gem 'jekyll-coffeescript'
   gem 'jekyll-commonmark-ghpages'
@@ -27,7 +27,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-titles-from-headings'
   gem 'jemoji'
-  gem 'sprockets'
+  gem 'sprockets', '~> 4.0.0beta8'
   gem 'uglifier'
 end
 gem 'jekyll-sass-converter', '~> 1.5.2'
