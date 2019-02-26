@@ -6,7 +6,7 @@ const browserSync = require("browser-sync").create();
 const cleancss = require("gulp-clean-css");
 const concat = require("gulp-concat");
 const del = require("del");
-const exec = require("gulp-exec");
+const exec = require("child_process").exec;
 const gulp = require("gulp");
 const gutil = require("gulp-util");
 const imagemin = require("gulp-imagemin");
@@ -65,10 +65,10 @@ gulp.task("build:scripts:global", function () {
         paths.jsFiles + "/global/lib" + paths.jsPattern,
         paths.jsFiles + "/global/*.js"
     ]).pipe(concat("main.js"))
-      .pipe(terser())
-      .pipe(gulp.dest(paths.jekyllJsFiles))
-      .pipe(gulp.dest(paths.siteJsFiles))
-      .on("error", gutil.log);
+        .pipe(terser())
+        .pipe(gulp.dest(paths.jekyllJsFiles))
+        .pipe(gulp.dest(paths.siteJsFiles))
+        .on("error", gutil.log);
 });
 
 gulp.task("clean:scripts", function () {
@@ -82,10 +82,10 @@ gulp.task("build:scripts:leaflet", function () {
         paths.jsFiles + "/leaflet/leaflet.js",
         paths.jsFiles + "/leaflet/leaflet-providers.js"
     ]).pipe(concat("leaflet.js"))
-      .pipe(terser())
-      .pipe(gulp.dest(paths.jekyllJsFiles))
-      .pipe(gulp.dest(paths.siteJsFiles))
-      .on("error", gutil.log);
+        .pipe(terser())
+        .pipe(gulp.dest(paths.jekyllJsFiles))
+        .pipe(gulp.dest(paths.siteJsFiles))
+        .on("error", gutil.log);
 });
 
 gulp.task("clean:scripts:leaflet", function () {
@@ -110,26 +110,20 @@ gulp.task("clean:images", function () {
 
 // Runs jekyll build command.
 gulp.task("build:jekyll", function () {
-    let shellCommand = "bundle exec jekyll build --config _config.yml";
-
-    return exec(shellCommand)
-        .on("error", gutil.log);
+    const shellCommand = "bundle exec jekyll build --config _config.yml";
+    return exec(shellCommand);
 });
 
 // Runs jekyll build command using test config.
 gulp.task("build:jekyll:test", function () {
-    let shellCommand = "bundle exec jekyll build --config _config.yml,_config.test.yml";
-
-    return exec(shellCommand)
-        .on("error", gutil.log);
+    const shellCommand = "bundle exec jekyll build --config _config.yml,_config.test.yml";
+    return exec(shellCommand);
 });
 
 // Runs jekyll build command using local config.
 gulp.task("build:jekyll:local", function () {
-    let shellCommand = "bundle exec jekyll build --config _config.yml,_config.test.yml,_config.dev.yml";
-
-    return exec(shellCommand)
-        .on("error", gutil.log);
+    const shellCommand = "bundle exec jekyll build --config _config.yml,_config.test.yml,_config.dev.yml";
+    return exec(shellCommand);
 });
 
 // Deletes the entire _site directory.
@@ -150,13 +144,13 @@ gulp.task("build", gulp.series("clean",
 
 // Builds site anew using test config.
 gulp.task("build:test", gulp.series("clean",
-        gulp.parallel("build:scripts", "build:styles"),
-        "build:jekyll:test"));
+    gulp.parallel("build:scripts", "build:styles"),
+    "build:jekyll:test"));
 
 // Builds site anew using local config.
 gulp.task("build:local", gulp.series("clean",
-        gulp.parallel("build:scripts", "build:styles"),
-        "build:jekyll:local"));
+    gulp.parallel("build:scripts", "build:styles"),
+    "build:jekyll:local"));
 
 // Default Task: builds site.
 gulp.task("default", gulp.series("build"));
