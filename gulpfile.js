@@ -21,7 +21,7 @@ const uglify       = require("gulp-uglify");
 // Include paths file.
 const paths = require("./_assets/gulp_config/paths");
 
-sprockets.declare(paths.sprocketsDirs, paths.siteJsFiles);
+sprockets.default.declare(paths.sprocketsDirs, paths.siteJsFiles);
 
 // Uses Sass compiler to process styles, adds vendor prefixes, minifies, then
 // outputs file to the appropriate location.
@@ -68,7 +68,7 @@ gulp.task("build:scripts:global", function() {
         paths.jsFiles + "/global/lib" + paths.jsPattern,
         paths.jsFiles + "/global/*.js"
     ])
-        .pipe(sprockets.js())
+        .pipe(sprockets.default.js())
         .pipe(concat("main.js"))
         .pipe(uglify())
         .pipe(gulp.dest(paths.jekyllJsFiles))
