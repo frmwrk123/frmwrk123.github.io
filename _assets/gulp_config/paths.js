@@ -62,4 +62,11 @@ paths.jekyllImageFilesGlob = paths.jekyllImageFiles + paths.imagePattern;
 // Site files globs
 paths.siteHtmlFilesGlob = paths.siteDir + paths.htmlPattern;
 
+paths.sprocketsDirs = {
+    app: paths.assetsDir,
+    javascripts: [],
+    stylesheets: [],
+    images: []
+};
+
 module.exports = paths;
