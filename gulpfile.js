@@ -189,36 +189,36 @@ gulp.task("serve", gulp.series("build:test", function () {
     });
 
     // Watch site settings.
-    gulp.watch(["_config.yml"], gulp.series("build:jekyll:watch"));
+    //gulp.watch(["_config.yml"], gulp.series("build:jekyll:watch"));
 
     // Watch .scss files; changes are piped to browserSync.
-    gulp.watch("_assets/css/**/*.scss", gulp.series("build:styles"));
+    //gulp.watch("_assets/css/**/*.scss", gulp.series("build:styles"));
 
     // Watch .js files.
-    gulp.watch("_assets/javascripts/**/*.js", gulp.series("build:scripts:watch"));
+    //gulp.watch("_assets/javascripts/**/*.js", gulp.series("build:scripts:watch"));
 
     // Watch image files; changes are piped to browserSync.
-    gulp.watch("_assets/images/**/*", gulp.series("build:images"));
+    //gulp.watch("_assets/images/**/*", gulp.series("build:images"));
 
     // Watch posts.
-    gulp.watch("_posts/**/*.+(md|markdown|MD)", gulp.series("build:jekyll:watch"));
+    //gulp.watch("_posts/**/*.+(md|markdown|MD)", gulp.series("build:jekyll:watch"));
 
     // Watch drafts if --drafts flag was passed.
     if (module.exports.drafts) {
-        gulp.watch("_drafts/*.+(md|markdown|MD)", gulp.series("build:jekyll:watch"));
+    //    gulp.watch("_drafts/*.+(md|markdown|MD)", gulp.series("build:jekyll:watch"));
     }
 
     // Watch html and markdown files.
-    gulp.watch(["**/*.+(html|md|markdown|MD)", "!_site/**/*.*"], gulp.series("build:jekyll:watch"));
+    //gulp.watch(["**/*.+(html|md|markdown|MD)", "!_site/**/*.*"], gulp.series("build:jekyll:watch"));
 
     // Watch RSS feed XML files.
-    gulp.watch("**.xml", gulp.series("build:jekyll:watch"));
+    //gulp.watch("**.xml", gulp.series("build:jekyll:watch"));
 
     // Watch data files.
-    gulp.watch("_data/**.*+(yml|yaml|csv|json)", gulp.series("build:jekyll:watch"));
+    //gulp.watch("_data/**.*+(yml|yaml|csv|json)", gulp.series("build:jekyll:watch"));
 
     // Watch favicon.png.
-    gulp.watch("favicon.png", gulp.series("build:jekyll:watch"));
+    //gulp.watch("favicon.png", gulp.series("build:jekyll:watch"));
 }));
 
 // Updates Ruby gems
