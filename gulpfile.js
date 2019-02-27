@@ -70,7 +70,10 @@ gulp.task("build:scripts:global", function () {
             presets: ["@babel/env"]
         }))
         .pipe(concat("main.js"))
-        .pipe(terser())
+        .pipe(terser({
+            keep_fnames: true,
+            mangle: false
+        }))
         .pipe(gulp.dest(paths.jekyllJsFiles))
         .pipe(gulp.dest(paths.siteJsFiles))
         .on("error", gutil.log);
