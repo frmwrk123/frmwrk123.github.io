@@ -119,7 +119,7 @@ gulp.task("clean:images", function () {
 
 // Runs jekyll build command.
 gulp.task("build:jekyll", function () {
-    const shellCommand = "bundle exec jekyll build --config _config.yml";
+    const shellCommand = "JEKYLL_ENV=production bundle exec jekyll build --config _config.yml";
     return exec(shellCommand);
 });
 
