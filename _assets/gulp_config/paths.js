@@ -21,7 +21,7 @@ paths.stylesFolderName = "css";
 
 // Asset files locations.
 paths.sassFiles   = paths.assetsDir + paths.stylesFolderName;
-paths.includeSass = "node_modules/bootstrap/scss/";
+paths.includeSass = "./node_modules/bootstrap/scss/";
 paths.jsFiles     = paths.assetsDir + paths.scriptFolderName;
 paths.imageFiles  = paths.assetsDir + paths.imageFolderName;
 paths.fontFiles   = paths.assetsDir + paths.fontFolderName;
