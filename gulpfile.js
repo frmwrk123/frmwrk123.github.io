@@ -135,6 +135,11 @@ gulp.task("build:jekyll:local", function () {
     return exec(shellCommand);
 });
 
+gulp.task("htmlproofer", function() {
+    const shellCommand = "bundle exec htmlproofer _site/ --disable-external";
+    return exec(shellCommand);
+});
+
 // Deletes the entire _site directory.
 gulp.task("clean:jekyll", function () {
     return del(["_site"]);
@@ -148,7 +153,8 @@ gulp.task("clean", gulp.series("clean:jekyll",
 // Builds site anew.
 gulp.task("build", gulp.series("clean",
     gulp.parallel("build:scripts", "build:styles"),
-    "build:jekyll")
+    "build:jekyll",
+    "htmlproofer")
 );
 
 // Builds site anew using test config.
