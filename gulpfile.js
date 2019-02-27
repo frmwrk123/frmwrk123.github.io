@@ -64,7 +64,8 @@ gulp.task("clean:styles", function () {
 gulp.task("build:scripts:global", function () {
     return gulp.src([
         paths.jsFiles + "/global/lib" + paths.jsPattern,
-        paths.jsFiles + "/global/*.js"
+        paths.jsFiles + "/global/*.js",
+        paths.jsFiles + "/main.js"
     ]).pipe(sourcemaps.init())
         .pipe(babel({
             presets: ["@babel/env"]
