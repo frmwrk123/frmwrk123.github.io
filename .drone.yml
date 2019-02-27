@@ -17,6 +17,7 @@ pipeline:
       - export LC_ALL="C.UTF-8"
       - ruby -e 'puts STDIN.external_encoding' # figure out the encoding used
       - bundle install
+      - npm set audit false
       - npm install
       - gulp build
   rebuild-cache:
