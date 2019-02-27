@@ -27,11 +27,6 @@ const through = require("through2");
 
 // Include paths file.
 const paths = require("./_assets/gulp_config/paths");
-const dependencies = require("./_assets/gulp_config/dependencies");
-const depfiles = dependencies.files.map(f => {
-    if (f[0] === "~") return `${f.replace("~", "./node_modules/")}.js`;
-    return `${paths.jsFiles}/${f}.js`;
-});
 
 // Uses Sass compiler to process styles, adds vendor prefixes, minifies, then
 // outputs file to the appropriate location.
