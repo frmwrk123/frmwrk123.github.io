@@ -22,6 +22,10 @@ const terser = require("gulp-terser");
 // Include paths file.
 const paths = require("./_assets/gulp_config/paths");
 const dependencies = require("./_assets/gulp_config/dependencies");
+const depfiles = dependencies.files.map(f => {
+    if (f[0] === "~") return `${f.replace("~", "./node_modules/")}.js`;
+    return `${paths.jsFiles}/${f}.js`;
+});
 
 // Uses Sass compiler to process styles, adds vendor prefixes, minifies, then
 // outputs file to the appropriate location.
@@ -63,13 +67,11 @@ gulp.task("clean:styles", function () {
 // Concatenates and uglifies global JS files and outputs result to the
 // appropriate location.
 gulp.task("build:scripts:global", function () {
-    return gulp.src([
-        "node_modules/babel-polyfill/dist/polyfill.js",
-        dependencies.files,
-        paths.jsFiles + "/global/lib" + paths.jsPattern,
+    return gulp.src(depfiles.concat([
+        //paths.jsFiles + "/global/lib" + paths.jsPattern,
         paths.jsFiles + "/global/*.js",
         paths.jsFiles + "/main.js"
-    ]).pipe(sourcemaps.init({largeFile: true}))
+    ])).pipe(sourcemaps.init({largeFile: true}))
         .pipe(babel({
             presets: ["@babel/env"]
         }))
