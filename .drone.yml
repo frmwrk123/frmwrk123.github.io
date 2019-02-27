@@ -5,10 +5,11 @@ pipeline:
     restore: true
     mount:
       - /drone/.bundle
+      - node_modules
     volumes:
       - jekyll-blog-cache:/cache
   build:
-    image: ruby
+    image: ruby-node
     environment:
       - BUNDLE_PATH=/drone/.bundle
     commands: 
@@ -16,13 +17,15 @@ pipeline:
       - export LC_ALL="C.UTF-8"
       - ruby -e 'puts STDIN.external_encoding' # figure out the encoding used
       - bundle install
-      - JEKYLL_ENV=production bundle exec jekyll build && bundle exec htmlproofer _site/ --disable-external
+      - npm install
+      - gulp build
   rebuild-cache:
     privileged: true
     image: drillster/drone-volume-cache
     rebuild: true
     mount:
       - /drone/.bundle
+      - node_modules
     volumes:
       - jekyll-blog-cache:/cache
   deploy:
