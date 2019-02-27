@@ -19,7 +19,7 @@ pipeline:
       - ruby -e 'puts STDIN.external_encoding' # figure out the encoding used
       - bundle install
       - yarn config set cache-folder .yarn-cache
-      - yarn global install gulp-cli
+      - yarn global add gulp-cli
       - yarn install --pure-lockfile
       - gulp build
   rebuild-cache:
