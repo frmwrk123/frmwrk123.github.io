@@ -65,7 +65,7 @@ paths.siteHtmlFilesGlob = paths.siteDir + paths.htmlPattern;
 
 paths.sprocketsDirs = {
     app: paths.assetsDir,
-    javascripts: ["node_modules/popper.js/dist/", "node_modules/"],
+    javascripts: ["node_modules/"],
     stylesheets: [],
     images: []
 };

@@ -2,6 +2,7 @@
 
 // Define variables.
 const autoprefixer = require("autoprefixer");
+const babel = require("gulp-babel");
 const browserSync = require("browser-sync").create();
 const cleancss = require("gulp-clean-css");
 const concat = require("gulp-concat");
@@ -14,8 +15,8 @@ const notify = require("gulp-notify");
 const postcss = require("gulp-postcss");
 const rename = require("gulp-rename");
 const run = require("gulp-run");
-const runSequence = require("run-sequence");
 const sass = require("gulp-ruby-sass");
+const sourcemaps = require("gulp-sourcemaps");
 const terser = require("gulp-terser");
 
 // Include paths file.
@@ -64,7 +65,11 @@ gulp.task("build:scripts:global", function () {
     return gulp.src([
         paths.jsFiles + "/global/lib" + paths.jsPattern,
         paths.jsFiles + "/global/*.js"
-    ]).pipe(concat("main.js"))
+    ]).pipe(sourcemaps.init())
+        .pipe(babel({
+            presets: ["@babel/env"]
+        }))
+        .pipe(concat("main.js"))
         .pipe(terser())
         .pipe(gulp.dest(paths.jekyllJsFiles))
         .pipe(gulp.dest(paths.siteJsFiles))
