@@ -21,6 +21,7 @@ const terser = require("gulp-terser");
 
 // Include paths file.
 const paths = require("./_assets/gulp_config/paths");
+const dependencies = require("./_assets/gulp_config/dependencies");
 
 // Uses Sass compiler to process styles, adds vendor prefixes, minifies, then
 // outputs file to the appropriate location.
@@ -64,6 +65,7 @@ gulp.task("clean:styles", function () {
 gulp.task("build:scripts:global", function () {
     return gulp.src([
         "node_modules/babel-polyfill/dist/polyfill.js",
+        dependencies.files,
         paths.jsFiles + "/global/lib" + paths.jsPattern,
         paths.jsFiles + "/global/*.js",
         paths.jsFiles + "/main.js"

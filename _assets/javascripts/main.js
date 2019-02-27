@@ -1,11 +1,5 @@
 "use strict";
 
-//= require popper.js/dist/popper
-//= require echo-js/dist/echo
-//= require bootstrap/js/dist/util
-//= require bootstrap/js/dist/collapse
-//= require bootstrap/js/dist/tooltip
-
 $(function() {
     let mainMenu = $("#mainmenuNavbar");
     mainMenu.on("show.bs.collapse", function () {
