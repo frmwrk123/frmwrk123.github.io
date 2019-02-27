@@ -1,12 +1,12 @@
 (function (global, factory) {
   if (typeof exports === "object" && typeof module !== "undefined") {
-    module.exports = factory(global.document);
+    module.exports = factory(global);
   }
   else if (typeof define === "function" && define.amd) {
-    define([global.document], factory);
+    define([global], factory);
   } else {
     global = global || self;
-    global.echo = factory(global.document);
+    global.echo = factory(global);
   }
 })(this, function (root) {
 
