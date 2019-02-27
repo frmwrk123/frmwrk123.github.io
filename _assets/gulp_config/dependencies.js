@@ -3,8 +3,7 @@
 let dependencies = {};
 
 dependencies.files = [
-    "~babel-polyfill/dist/polyfill",
-    "~echo-js/dist/echo",
+    //"~babel-polyfill/dist/polyfill",
     "~popper.js/dist/popper",
     "~bootstrap/js/dist/util",
     "~bootstrap/js/dist/collapse",
