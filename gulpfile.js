@@ -4,14 +4,10 @@
 const autoprefixer = require("autoprefixer");
 const babel = require("gulp-babel");
 const browserSync = require("browser-sync").create();
-const babelify = require("babelify");
-const browserify = require("browserify");
-const buffer = require("vinyl-buffer");
 const cleancss = require("gulp-clean-css");
 const concat = require("gulp-concat");
 const del = require("del");
 const exec = require("child_process").exec;
-const globby = require("globby");
 const gulp = require("gulp");
 const gutil = require("gulp-util");
 const imagemin = require("gulp-imagemin");
@@ -21,9 +17,7 @@ const rename = require("gulp-rename");
 const run = require("gulp-run");
 const sass = require("gulp-ruby-sass");
 const sourcemaps = require("gulp-sourcemaps");
-const source = require("vinyl-source-stream");
 const terser = require("gulp-terser");
-const through = require("through2");
 
 // Include paths file.
 const paths = require("./_assets/gulp_config/paths");
@@ -68,39 +62,22 @@ gulp.task("clean:styles", function () {
 // Concatenates and uglifies global JS files and outputs result to the
 // appropriate location.
 gulp.task("build:scripts:global", function () {
-    let bundledStream = through();
-    const files = depfiles.concat([
+    const files = [
         //paths.jsFiles + "/global/lib" + paths.jsPattern,
         paths.jsFiles + "/global/*.js",
         paths.jsFiles + "/main.js"
-    ]);
-    bundledStream
-        .pipe(source("main.js"))
-        .pipe(buffer())
-        .pipe(sourcemaps.init({largeFile: true, loadMaps: true}))
-        //.pipe(concat("main.js"))
-        //.pipe(terser())
+    ];
+    return gulp.src(files)
+        .on("error", gutil.log)
+        .pipe(sourcemaps.init({largeFile: true}))
+        .pipe(babel({
+            presets: ["@babel/env"]
+        }))
+        .pipe(concat("main.js"))
+        .pipe(terser())
         .pipe(sourcemaps.write("."))
         .pipe(gulp.dest(paths.jekyllJsFiles))
-        .pipe(gulp.dest(paths.siteJsFiles))
-        .on("error", gutil.log);
-
-    globby(files).then(function(entries) {
-        // create the Browserify instance.
-        let b = browserify({
-            entries: entries,
-            debug: true,
-        }).transform(babelify, {presets: ["@babel/preset-env"]});
-
-        // pipe the Browserify stream into the stream we created earlier
-        // this starts our gulp pipeline.
-        b.bundle().pipe(bundledStream);
-    }).catch(function(err) {
-        // ensure any errors from globby are handled
-        bundledStream.emit("error", err);
-    });
-
-    return bundledStream;
+        .pipe(gulp.dest(paths.siteJsFiles));
 });
 
 gulp.task("clean:scripts", function () {
