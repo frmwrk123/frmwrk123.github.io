@@ -26,12 +26,15 @@ sass.compiler = require("node-sass");
 // Uses Sass compiler to process styles, adds vendor prefixes, minifies, then
 // outputs file to the appropriate location.
 gulp.task("build:styles:main", function () {
-    return sass(paths.sassFiles + "/main.scss", {
-        style: "compressed",
-        trace: true,
-        loadPath: [paths.includeSass, paths.sassFiles]
-    }).pipe(postcss([autoprefixer({browsers: ["last 2 versions"]})]))
+    return gulp.src(paths.sassFiles + "/main.scss")
+        .pipe(sourcemaps.init())
+        .pipe(sass({
+            outputStyle: "compressed",
+            includePaths: [paths.includeSass, paths.sassFiles]
+        }).on("error", sass.logError))
+        .pipe(postcss([autoprefixer({browsers: ["last 2 versions"]})]))
         .pipe(cleancss())
+        .pipe(sourcemaps.write())
         .pipe(gulp.dest(paths.jekyllCssFiles))
         .pipe(gulp.dest(paths.siteCssFiles))
         .pipe(browserSync.stream())
@@ -40,12 +43,15 @@ gulp.task("build:styles:main", function () {
 
 // Processes critical CSS, to be included in head.html.
 gulp.task("build:styles:critical", function () {
-    return sass(paths.sassFiles + "/critical.scss", {
-        style: "compressed",
-        trace: true,
-        loadPath: [paths.includeSass, paths.sassFiles]
-    }).pipe(postcss([autoprefixer({browsers: ["last 2 versions"]})]))
+    return gulp.src(paths.sassFiles + "/critical.scss")
+        .pipe(sourcemaps.init())
+        .pipe(sass({
+            outputStyle: "compressed",
+            includePaths: [paths.includeSass, paths.sassFiles]
+        }).on("error", sass.logError))
+        .pipe(postcss([autoprefixer({browsers: ["last 2 versions"]})]))
         .pipe(cleancss())
+        .pipe(sourcemaps.write())
         .pipe(gulp.dest("_includes"))
         .on("error", gutil.log);
 });
