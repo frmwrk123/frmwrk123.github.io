@@ -15,12 +15,13 @@ const notify = require("gulp-notify");
 const postcss = require("gulp-postcss");
 const rename = require("gulp-rename");
 const run = require("gulp-run");
-const sass = require("gulp-ruby-sass");
+const sass = require("gulp-sass");
 const sourcemaps = require("gulp-sourcemaps");
 const terser = require("gulp-terser");
 
 // Include paths file.
 const paths = require("./_assets/gulp_config/paths");
+sass.compiler = require("node-sass");
 
 // Uses Sass compiler to process styles, adds vendor prefixes, minifies, then
 // outputs file to the appropriate location.
