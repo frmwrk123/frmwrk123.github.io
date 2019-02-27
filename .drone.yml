@@ -5,7 +5,8 @@ pipeline:
     restore: true
     mount:
       - /drone/.bundle
-      - node_modules
+      - ./.yarn-cache
+      - ./node_modules
     volumes:
       - jekyll-blog-cache:/cache
   build:
@@ -17,8 +18,8 @@ pipeline:
       - export LC_ALL="C.UTF-8"
       - ruby -e 'puts STDIN.external_encoding' # figure out the encoding used
       - bundle install
-      - npm set audit false
-      - npm install
+      - yarn config set cache-folder .yarn-cache
+      - yarn install --pure-lockfile
       - gulp build
   rebuild-cache:
     privileged: true
@@ -26,7 +27,8 @@ pipeline:
     rebuild: true
     mount:
       - /drone/.bundle
-      - node_modules
+      - ./.yarn-cache
+      - ./node_modules
     volumes:
       - jekyll-blog-cache:/cache
   deploy:
