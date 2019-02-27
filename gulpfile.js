@@ -66,7 +66,7 @@ gulp.task("build:scripts:global", function () {
         paths.jsFiles + "/global/lib" + paths.jsPattern,
         paths.jsFiles + "/global/*.js",
         paths.jsFiles + "/main.js"
-    ]).pipe(sourcemaps.init())
+    ]).pipe(sourcemaps.init({largeFile: true}))
         .pipe(babel({
             presets: ["@babel/env"]
         }))
@@ -75,6 +75,7 @@ gulp.task("build:scripts:global", function () {
             keep_fnames: true,
             mangle: false
         }))
+        .pipe(sourcemaps.write())
         .pipe(gulp.dest(paths.jekyllJsFiles))
         .pipe(gulp.dest(paths.siteJsFiles))
         .on("error", gutil.log);
