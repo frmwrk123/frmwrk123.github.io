@@ -63,6 +63,7 @@ gulp.task("clean:styles", function () {
 // appropriate location.
 gulp.task("build:scripts:global", function () {
     return gulp.src([
+        "node_modules/babel-polyfill/dist/polyfill.js",
         paths.jsFiles + "/global/lib" + paths.jsPattern,
         paths.jsFiles + "/global/*.js",
         paths.jsFiles + "/main.js"
