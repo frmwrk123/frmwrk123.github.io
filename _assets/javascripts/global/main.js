@@ -1,7 +1,10 @@
 "use strict";
 
-require("jquery");
-require("bootstrap");
+//= require popper.js/dist/popper
+//= require echo-js/dist/echo
+//= require bootstrap/js/dist/util
+//= require bootstrap/js/dist/collapse
+//= require bootstrap/js/dist/tooltip
 
 $(function() {
     let mainMenu = $("#mainmenuNavbar");
@@ -29,4 +32,10 @@ $(function() {
     });
 
     backToTop.tooltip();
+
+    echo.init({
+        offset: 500,
+        throttle: 250,
+        unload: false
+    });
 });
