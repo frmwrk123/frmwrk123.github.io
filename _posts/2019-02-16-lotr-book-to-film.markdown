@@ -188,7 +188,7 @@ a clear abstract of the order of things.
 
 ### Differences of the book to the movie
 
-- prior to the counsel of Elrond, many months pass in which scouts are searching for the black riders
+- prior to the council of Elrond, many months pass in which scouts are searching for the black riders
 - the council itself is much longer, Gloin is present as well and tells from the Lonely Mountain
 - Legolas reports that Gollum fled from imprisonment
 - Gandalf tells the full tale of the betrayal of Saruman
@@ -279,7 +279,7 @@ Meanwhile Sam asks where Frodo remains. Boromir reappears and it is revealed tha
 Aragorn tries to keep order but fails. Pippin and Merry are running to the wood calling for Frodo. Legolas and
 Gimli, being already friends, move together to search for Frodo. Aragorn asks Boromir to at least protect Pippin 
 and Merry. Aragorn is going with Sam. But Sam cannot keep the pace of Aragorn and falls back. He thinks that Frodo 
-needs a boot to get to the other side and runs back to the beach.
+needs a boat to get to the other side and runs back to the beach.
 There he discovers that Frodo is in one of the boats. Sam is running into the water and is saved by Frodo,
 who still has the ring on. Frodo takes the ring off, gets Sam aboard and rows back to the shore.
 
