@@ -14,7 +14,7 @@ To clear up terminology, what we call books is called volumes in Lord of the Rin
 "Lord of the Rings: The Fellowship of the Ring" is internally consisting of two books. The same is true
 for the second and third volumes that correspond with the movies.
 
-That said, let's start with the differences of (for now) the first volume/movie.
+That said, let's start with the differences of (for now) the first two volumes/movies.
 
 ## Hobbiton to Buckleberry Ferry
 
@@ -292,7 +292,223 @@ The journey is shorter and the first movie concludes with a battle of the Urukha
 is not even in the first book and only hinted at in the second (which I will feature later). The scene with
 Boromir and the almost drowning of Sam is, however, depicted close to the book.
 
+## Battle at Rauros (begin of 2nd volume and 3rd book)
+
+Before I start with the summary of the battle on the west coast of the Anduin, I will give some general
+information about the second volume and how I will portray it here. The second volume focuses first only on the
+things west of the Anduin (Aragorn, Gimli, Legolas, Gandalf, Pippin, Merry) and then in the 4th book on the
+things that Frodo and Sam are experiencing. This order will be preserved here. Furthermore, there will be
+quite big differences between the book and the movie.
+
+Frodo and Sam have already departed when the battle begins. Aragorn is at the top of Amon Hen when he hears
+the horn of Gondor. By the time he arrives Boromir is pierced by many arrows and Merry and Pippin are taken.
+Legolas and Gimli arrive much later and were at a different part of the forest. After some parting words
+with Boromir, Aragorn sends Legolas and Gimli back to Parth Galen, where the boats still lie. They take both 
+remaining boats and bring them close to the point where Boromir is. Boromir is put into one boat together with his 
+sword and tokens of the slain enemies. Then they paddle with the other boat close to the falls of Rauros and
+let the boat of Boromir go over it.
+
+Afterwards they get back to the land and set out to hunt orcs.
+
+### Differences
+
+The movie version at the end of the first movie is close enough. However, one major difference there is:
+In the book the attack involves not only orcs from Saruman but also orcs under direction of Sauron.
+Also, Legolas happens to be out of arrows in the book. In the movie he is never out of arrows.
+
+## From Rauros to Fangorn
+
+Both parts of the remaining fellowship travel to Fangorn forest.
+
+### Merry and Pippin
+
+Overall the journey to the forest is more detailed in the book and the different orcs are fighting with each
+other. This is actually indicated in the movie, albeit much shorter. Other than that there are no big diversions
+to be noted.
+
+Before the Fangorn forest the riders of Rohan are encircling the camp of the orcs. Merry and Pippin manage to 
+flee into the forest.
+
+### Aragorn, Gimli, and Legolas
+
+Aragorn, Gimli, and Legolas are running for days with minimal rest and cover a huge distance to keep up
+with the orcs of Saruman that can travel both during day and night. Along the way they try to understand
+what happens in the orc company and keep track of the lost hobbits. Eventually, they meet Éomer and have
+some longer talk than during the movie. They get two horses and travel forth to Fangorn forest where they
+encounter the camp of the destroyed orcs.
+
+### Differences
+
+The major difference relates to the Aragorn part of the story. Éomer is not exiled but went on his own to hunt
+the orcs. The horses are given to Aragorn, Gimli, and Legolas with the clear instruction to give them back
+in Edoras in a few days time. As usual the dialogues in the book are more extensive and give more insight
+into what is going on.
+
+Furthermore, in the dialogue of the orcs is revealed that the black riders are now using winged animals. 
+
+## From Fangorn to Isengard (Merry and Pippin)
+
+Merry and Pippin travel through Fangorn forest until and initially stay close to the river Entwash. After some
+time they arrive at a plateau when they meet Treebeard there. It is revealed that his name is actually Fangorn
+and he is the master of the forest. Together they travel a great distance to the home of Treebeard. 
+Ents do not eat and only drink. As a consequence Merry and Pippin are drinking their meals as well.
+
+The gathering of ents happens and Merry and Pippin meet a "hasty" ent. They talk a while and eventually
+the ents have decided to go to war against Saruman. With Treebeard the hobbits now travel to Isengard where the
+ents attack and put it under water.
+
+### Differences
+
+In the book there is a lot more information aboout ents and their lore. Plus, the entire story up until the
+destruction of Isengard is longer. The biggest difference is that Merry and Pippin do NOT meet Gandalf in the 
+forest.
+
+## Fangorn to Edoras (Aragorn, Gimli, and Legolas)
+
+Near the camp the three companions discover signs that the hobbits escaped into the forest. Before entering
+it, they camp one night and seem to see Saruman but when they try to speak to the old man, he disappears.
+Their horses also disappear during one night.
+In Fangorn they eventually reach the same plateau. There they meet Gandalf again, who is revealed to be
+the white wizard now. Together they leave the forest and find their horses again. Gandalf is again riding with
+Shadowfax. Following Shadofax and Gandalf, they travel straight south towards Edoras.
+
+### Differences
+
+The encounter with Gandalf is different and, again, the dialogues are more detailed. No major plot differences
+though.
+
+## From Edoras to Helm's Deep
+
+In Edoras they are at first locked out of the city. Eventually they are allowed inside but have to leave their 
+weapons outside of the king's hall. Gandalf can keep his staff. Inside Gandalf frees king Théoden of Rohan from
+the influence of Wormtongue. However, Saruman was not directly controlling the king. Éomer was arrested but is
+now freed and gives the sword of the king back to him. With sword in hand, the king remembers his strength,
+although the old age is not gone. Wormtongue is banished from Edoras, free to choose his path.
+
+After a short meal the host of Edoras is setting out to make war to Isengard. Eowyn is given control of Edoras
+and is tasked to guide their people to safety.
+
+On the way to Isengard they are informed that the Westfold defense has been broken by Saruman. The general
+Erkenbrand is said to be in Helm's Deep. Gandalf leaves the host and gallops away. The rest of the host
+move towards Helm's Deep. Éomer is riding with the king and Aragorn.
+
+Helm's Deep is set behind a dike, which is open only for the road. They realise that it cannot be guarded against
+the onslaught of the enemy. Therefore, they move to the Hornburg. The entrance to the caves is behind the Deeping
+Wall and not through the Hornburg. It is revealed that Erkenbrand is not in Helm's Deep. Gamling is the leader of 
+the troops at Helm's Deep.
+
+### Differences
+
+There are no warg attacks. Aragorn is not lost in the waters. There are no two young boys from the Westfold
+that come to Edoras to report an attack. Éowyn does not travel together with Aragorn. No elves are coming
+to help at Helm's Deep - knowing the distance from Rivendell to Helm's Deep, where the only pass is held
+by Saruman, they would have to depart in Rivendell weeks before the fellowship is broken to arrive in time.
+The only other elven stronghold is in Lothlorien and they would not leave their forest. Éomer and the rohirrim
+are not banished and therefore are at the battle from the start.
+
+## Battle at Helm's Deep
+
+Shortly after arriving in Helm's Deep the enemy forces are approaching. Among them are the urukhai but also
+wild men from the western lands. The events of the battle:
+
+- rearguard from dike is galloping to Hornburg
+- gates of Hornburg are almost destroyed
+- Aragorn and Éomer are entering the area before the gate to relieve it for a while
+- Gimli followed them and prevents harm to Éomer
+- the gate is blocked from the inside and holds for the remainder of the siege
+- ladders were put against wall
+- some orcs crept like rats through opening in wall (the one for the river) an were behind wall
+- Gimli saw them, jumped down from wall and attacked them
+- Gamling saw this and attacked the orcs with some men from the Hornburg
+- the orcs were crushed
+- bolders were used to block the inner part of the culvert for the stream of water
+- a short pause in the attack
+- culvert is blown to pieces while Aragorn, Éomer, and Gamling talk
+- at the same time more ladders are put against the wall
+- orcs are swarming in and the defense is driven to the caves or the Hornburg
+- Aragorn and Legolas retreat into Hornburg
+- Gamling, Éomer, and Gimli are driven to the caves
+- a plan is made to ride out
+- Aragorn parleys with orcs and wild men and warns them
+- gate is blown to pieces
+- sound of horn of Helm rings
+- Théoden rides out with Aragorn, men in the caves attack the orcs and drive them back (the morning after a night
+  of fighting)
+- Théoden rides up to the great dike
+- all the orcs retreat behind the dike and stay there, in fear of both the king and the forest (the tree-like 
+  ents marched to Helm's Deep instead of Isengard)
+- Gandalf appears and close after a great host of men appear
+- they are led by a great warrior with a red shield, Erkenbrand
+- the king's company, Gandalf, and the host of men charge into the orcs and wild men
+- the wild men lie down to the earth while the orcs are fleeing to the forest, where they are destroyed
+
+With this the battle concludes.
+
+### Differences
+
+The overall choreography of the battle is changed a little, made more linear, and shortened. That said,
+the battle makes up a larger percentage of the screentime than it does in the book relative to the number
+of pages in it. This is due to the paradoxical effect of writing length to filming length. Action can be
+summarised quite succinctly. In a movie all these actions actually have to be shown. Conversely, a dialogue
+that takes only a few minutes of talking will fill many pages in a book.
+
+## From Helm's Deep to Isengard
+
+After the battle it is revealed what Gandalf did, that Gimli, Gamling, and Éomer survived, and the captain
+of the king's guard Háma was dead. The wild men were allowed to go home if they swore an oath never to
+cross the fords of Isen again bearing arms or helping otherwise the enemies of men.
+
+Gandalf, Aragorn, Gimli, Legolas, Théoden, Éomer, and some warriors travelled to Isengard. On the way Gimli
+told Legolas about the caverns of Helm's Deep and that before their end Legolas had to visit them together
+with Gimli. In turn, Legolas got the promise from Gimli that they would visit Fangorn forest together, despite
+Gimli feeling unwell in it. 
+
+Arriving in Isengard, Aragorn, Gimli, and Legolas met again with Merry and Pippin. While Gandalf and the king's
+company went with Treebeard, the three companions stayed and a great deal was told about what happened to 
+each party. Eventually, the parley with Saruman took place but no useful information was taken from him.
+Gandalf broke the staff of Saruman and removed him from the council of wizards, Saruman was now colour-less.
+Wormtongue, who had fled to Isengard, threw out a palantir. Pippin found it but Gandalf quickly took it over
+and covered it. Gandalf asked Treebeard to keep watch on Saruman, who might be encircled but had still the
+power of Orthanc. Furthermore, Treebeard should let in the water once more to find out all drains that Saruman
+might use to escape. 
+On their departure, they heard how Wormtongue was killed by Saruman, likely because he threw out the palantir.
+
+A few hours of Isengard the company made camp. Pippin looked at the palantir and it was revealed that Sauron
+thought it still in Isengard. Pippin told nothing but that he was a hobbit. Sauron likely thought him a prisoner
+of Saruman and did not question further. Through this revelation it became clear how Saruman kept in touch with
+Sauron. Aragorn was given the palantir to keep it secret. Shortly after a nazgul was over them and headed to 
+Isengard. Now they made haste and Gandalf took Pippin and rode swiftly towards Edoras and then Minas Tirith.
+
+### Differences
+
+For once, the journey to Isengard is the starting scene of the third movie. Aside from this, the major difference
+is that Saruman remains alive and Wormtongue is killed by Saruman. Furthermore, the scene with the palantir 
+takes place on the road and not in Edoras. 
+
+## From Rauros to Black Gate (begin of 4th book)
+
+### Differences
+
+## Black Gate to Ithilien
+
+### Differences
+
+## Ithilien - Meeting with Faramir
+
+### Differences
+
+## From Ithilien to Crossroads
+
+### Differences
+
+## From Crossroads to Shelob's Lair
+
+### Differences
+
+## Shelob's Lair
+
+### Differences
+
 ## To be continued
 
-Once I finish the second volume, I shall continue the journey of describing the differences.
-
+Once I finish the third volume, I shall continue the journey of describing the differences.
