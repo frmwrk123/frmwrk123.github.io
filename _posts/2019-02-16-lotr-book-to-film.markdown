@@ -3,6 +3,7 @@ layout: post
 title:  "LotR: Differences between book and film"
 date:   2019-02-16 10:00:00 +0200
 categories: blog
+toc: true
 ---
 
 After a long time I have finally bought the books of Lord of the Rings. In this post I intend to show
