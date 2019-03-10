@@ -487,27 +487,111 @@ takes place on the road and not in Edoras.
 
 ## From Rauros to Black Gate (begin of 4th book)
 
+I am now continuing with the story of Frodo and Sam. It starts with finding their way through Emyn Muil.
+There they meet Gollum and tame him. With his help, they find a way out of Emyn Muil and afterwards through
+the Dead Marshes. While in the Dead Marshes, a nazgul comes flying over them. This encounter triggers something
+in Gollum and makes the evil part surface again. After leaving the Dead Marshes, the three companions make their
+way to the Black Gate.
+
 ### Differences
+
+The journey takes longer in the book. However, the Dead Marshes are more uneventful than portrayed in the movie.
+Also, the movie has less details. But in general the movie is very close to the book in this part.
+One noteworthy difference: Frodo does not run down towards the Black Gate in the book.
 
 ## Black Gate to Ithilien
 
+They decide to go through a back-entrance into Mordor and set out to the south. After leaving the
+barren lands close to the Black Gate behind them, they enter the former garden province of Gondor, Ithilien.
+
+In Ithilien, Sam is stewing a rabbit with a small fire and for the first time in a while the hobbits have 
+something warm to eat. 
+
 ### Differences
+
+In the movie the journey is shorter and it also works with implied concurrency. By cutting away from Frodo
+and Sam after the Black Gate and only returning once they are in Ithilien, the viewer can assume that the story
+of Frodo and Sam continued while they saw the western events unfold. In the book they see a nazgul leaving for
+the west on their way to Ithilien. This very nazgul arrives in Isengard a few hours later. Therefore, the western
+events told in the second volume  are almost over when the story of Frodo and Sam is really starting. 
 
 ## Ithilien - Meeting with Faramir
 
+The fire of Sam was observed by the men of Faramir. Shortly after, the hobbits were discovered and had to wait
+with two guards, while the rest of the men attacked the Haradrim from the south. After the battle, Faramir
+questioned Frodo on the spot about Boromir and Isildur's Bane. Eventually, they moved to a secret hideout
+and were blindfolded for the last meters.
+
+The following part of the story diverges massively from the movie up to the Crossroads. During their stay
+at the hideout they get proper food and have a lengthy talk with Faramir. He is at no point trying to take
+the ring and once it is revealed that Frodo has the ring, he still did not do it. No other man was informed
+about the ring. At some point Gollum is observed in the forbidden pool. Frodo convinces Faramir to leave Gollum
+alive. But Gollum is taken prisoner and questioned by Faramir. It is revealed that Gollum intends to bring
+them to the stairs of Cirith Ungol. Faramir warns Frodo about the stairs and the dangers that lie there, though
+he cannot give any specific information. Eventually, the hobbits are given food for the way and escorted out
+again, together with Gollum, until Faramir leaves them.
+
 ### Differences
+
+There are so many differences that I can only list the biggest ones. Faramir is more wise in the book
+and does not try to bring Frodo to Minas Tirith. He even gives him the promise of safe passage through
+Gondor for one year and a day. Frodo should come to Minas Tirith and explain him before the steward if he
+wanted to make it lifelong. The hobbits have multiple meals with the men and upon departing are given
+fresh food for the journey. They are not brought to Osgiliath.
+
+Faramir recounts to Frodo how he saw Boromir travel by in the boat on the Anduin. This retrospective scene is
+shown in the movie very accurately. The movie does portray the key points like them meeting Faramir and Gollum
+taken prisoner but there the similarities end. Effectively, the movie gives Faramir a slightly different character
+and probably chooses to introduce Osgiliath so that the viewers have more emotional ties to it in the third
+movie.
 
 ## From Ithilien to Crossroads
 
-### Differences
+This entire journey is completely different in the movie. In the book they travel some days through Ithilien
+along its wester border until the trees become scarcer. Then they go closer to the southward road until they come
+to the crossroads. At the crossroads is a statue with a severed head. This scene is in the third movie. The road
+from Osgiliath continues straight to Minas Morgul behind the crossroads.
 
 ## From Crossroads to Shelob's Lair
 
+After crossing the southward road and following the road to Minas Morgul, the ring all of a sudden grew heavy
+again. A short while later they arrive at Minas Morgul. They hide while the army marches out. Then they climb
+the two stairs up and rest.
+
 ### Differences
+
+The scene down at Minas Morgul is exactly as in the book. But in the book Sam is never sent back and Gollum 
+does not throw away the Lembas bread. Also, the leader of the ringwraiths is riding on a horse to battle and not
+on a nazgul. Furthermore, the phial of Galadriel is already used by Frodo when hiding from the army to 
+stay the desire to touch the ring.
 
 ## Shelob's Lair
 
+Frodo and Sam are entering the tunnel together with Gollum. After a short while Gollum disappears. 
+Along the way multiple side passages are running away. They 
+follow the main tunnel up to a Y-shaped point. The left path is blocked. Following the right path, they
+hear some noise behind and see multiple eyes. With the phial of Galadriel in hand, Frodo is approaching them.
+They retreat.
+
+Then both continue upwards until they are stopped by cobwebs. Sting is successfully used to cut them. Frodo
+runs forward out of joy of them having escaped the tunnel while Sam cannot quite keep up. Sam is attacked by
+Gollum but manages to fight him off. When Sam leaves the tunnel, Frodo lies on the bottom and Shelob
+is above him. Sam attacks Shelob with his sword and lies below her, when she hammers her body down on the sword.
+Afterwards she retreats. Sam thinks Frodo dead but does not know what to do. After some deliberation, he takes
+the ring and Sting, and leaves Frodo. Then he hears voices of orcs, puts on the ring and follows them.
+
+A group of orcs came up from Minas Morgul, while another came from the watchtower. Both met and took Frodo back
+into the tunnel. The previously closed tunnel path was the entrance to the watchtower. Sam managed to get inside 
+the path but was not able to enter the tower. There the second volume ends.
+
 ### Differences
+
+Sam and Frodo are together in the struggle of the tunnel. It is cleared up how Sam got the ring, the entrance
+to the tower is different and overall there is less drama in the book. Furthermore, there is a great deal more
+background information provided in the last chapter, where Sam hears the orc captains talk with each other.
+However, it is somewhat weird that Sam can keep the ring on for so long (many minutes at least) without
+being discovered by Sauron. In any case Sauron does not seem to know immediately where the ring is when someone
+uses it.
 
 ## To be continued
 
