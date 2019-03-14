@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 # gem 'github-pages', group: :jekyll_plugins
 gem 'activesupport'
+gem "actionview", ">= 5.2.2.1"
 gem 'mini_racer'
 # gem 'github-pages-health-check'
 gem 'html-proofer', group: :development
@@ -48,6 +49,7 @@ gem 'liquid'
 gem 'listen'
 gem 'mercenary'
 gem 'rack', '~> 2.0.6'
+gem 'railties', '>= 5.2.2.1'
 gem 'rouge'
 gem 'rubocop'
 gem 'rubyzip', '~> 1.2.2'
