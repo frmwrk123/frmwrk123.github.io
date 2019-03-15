@@ -209,7 +209,7 @@ einziehen.
 - GRÜNE: 3 Sitze * 67.374 Listenstimmen / 101.493 Gesamtstimmen = 1,99149 ~ 2 Sitze
 - AfD: 2 Sitze * 12.396 Listenstimmen / 17.027 Gesamtstimmen = 1,45604 ~ 1 Sitz
 
-Die Berechnung der Sitze über Personen stimmen ist trivial:
+Die Berechnung der Sitze über Personenstimmen ist trivial:
 
 - SPD: 8 - 5 = 3 Sitze
 - CDU: 4 - 2 = 2 Sitze
