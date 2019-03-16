@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mit Kürze gewürzte Posts sind besonders bekömmlich"
-date:   2019-03-16 17:00:00 +0200
+date:   2019-03-16 15:00:00 +0200
 categories: blog
 ---
 
