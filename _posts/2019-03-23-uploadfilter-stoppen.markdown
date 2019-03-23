@@ -26,7 +26,8 @@ Blogpost gelöscht worden; die Kommission fühlt sich missverstanden.
 Als Reaktion auf die Fremdbezeichnung ist diese positiv aufgegriffen worden. Es sind Demosprüche wie
 "Wir sind die Bots" entstanden; auch auf Schildern finden sich mittlerweise viele Verweise auf Bots.
 
-Über die Reform des Urheberrechts stimmen die Abgeordneten in drei Tagen ab. Bisher haben 126 Abgeordnete auf [Pledge 2019][5] zugesagt gegen Uploadfilter zu stimmen.
+Über die Reform des Urheberrechts stimmen die Abgeordneten in drei Tagen ab. Bisher haben 126 Abgeordnete auf 
+[Pledge 2019][5] zugesagt gegen Uploadfilter zu stimmen.
 
 [0]: http://www.create.ac.uk/wp-content/uploads/2017/02/OpenLetter_EU_Copyright_Reform_22_02_2017.pdf
 [1]: https://twitter.com/Europarl_DE/status/1100705082470027264
