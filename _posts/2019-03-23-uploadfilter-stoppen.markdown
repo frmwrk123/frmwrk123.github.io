@@ -5,7 +5,7 @@ date:   2019-03-23 08:00:00 +0200
 categories: politics
 ---
 
-Die Bots gehen auf die Straße und sie sind viele. In über 50 Städten haben heute tausende Menschen 
+Die Bots gehen auf die Straße und sie sind viele. In über 50 Städten haben heute über 100.000 Menschen 
 gegen Uploadfilter demonstriert.
 
 Für mehr als zwei Jahre haben die Abgeordneten des EU-Parlaments verhandelt über die Reform des Urheberrechts. 
