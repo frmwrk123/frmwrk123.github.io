@@ -593,6 +593,283 @@ However, it is somewhat weird that Sam can keep the ring on for so long (many mi
 being discovered by Sauron. In any case Sauron does not seem to know immediately where the ring is when someone
 uses it.
 
-## To be continued
+## Minas Tirith (begin of 3rd volume and 5th book)
 
-Once I finish the third volume, I shall continue the journey of describing the differences.
+I continue with the 3rd volume. The 5th book covers all events up to the battle at the Black Gate, whereas 
+the 6th book tells the remaining story of Frodo and Sam, and subsequently finishes the tale of the Lord of the
+Rings. 
+
+Gandalf rides with Pippin to Minas Tirith. On the way he shortly stops at Edoras and gives orders to muster
+the troops of Rohan at Dunharrow. They reach the outer walls of Minas Tirith and are allowed in. Eventually they
+reach the citadel and talk with Denethor. Pippin enters the service of Denethor and they walk to their
+home in the citadel. On his first day in the city, Pippin makes friends with a captain of the guard and
+gets a tour of the city by the son of that captain. Most women and children were evacuated out of the city
+and troops from far away parts of Gondor came.
+
+### Differences
+
+The first day in Minas Tirith is portrayed with far more detail and the actual size of the realm of Gondor
+and the city of Minas Tirith becomes more clear. Furthermore, there are outer walls around the fields of Pelennor 
+to protect the farmlands and cottages there.
+This short summary does not do justice to the book, so please read it. ;)
+
+## From Isengard via Helm's Deep to Dunharrow
+
+After Gandalf and Pippin departed, a host of Dunedain from the North came and with them the sons of Elrond.
+The entire group rides back to Helm's Deep. There some form of feast happens. Aragorn reveals himself to Sauron.
+Merry enters into service of Théoden. Aragorn, Gimli, and Legolas ride together with the Dunedain over the plain 
+to Dunharrow. Merry, Théoden and his army moves through the mountains to Dunharrow, which requires more time.
+
+### Differences
+
+There is no stop in Helm's Deep in the movies. The feast is moved to Edoras, Gandalf and Pippin are still there,
+no Dunedain or elf lords are present, and the reveal of Aragorn to Sauron is moved to Minas Tirith after the
+battle.
+
+## From Dunharrow via Dimholt to Minas Tirith
+
+The three companions leave Dunharrow with the Dunedain one day ahead of the arrival of Théoden. They travel 
+through the Dimholt, call the dead, and then ride hard to Erech to receive the fealty of the dead army. 
+A long journey to the Anduin follows. Eventually, they reach it and take over the Corsair fleet. The 
+slaves are freed, the southern men flee, and the dead army has fulfilled their pledge.
+
+Aragorn presents himself as king and the people of the southern Gondor travel with him to Minas Tirith by ship.
+
+### Differences
+
+All horses march through the Dimholt, the pledge is taken at Erech, and the distance to Anduin is shown. 
+In the movie, this trip is shortened substantially and is also geographically false. Furthermore, the dead
+army is not released after freeing the ships but only after the battle of Minas Tirith.
+
+## From Dunharrow via Edoras to Minas Tirith
+
+Riders from Gondor come to Dunharrow to call for aid. Merry, Théoden, Éowyn, Éomer and the army is moving quickly 
+to Edoras and from there to Minas Tirith. On the way they meet old people from the forest. These people
+seem to be related to the dead people. With their help the Rohirrim can avoid an orc host which stands between
+them and Minas Tirith. Eventually, the army reaches the now destroyed outer walls of Minas Tirith.
+
+### Differences
+
+The movie removed the entire portion about the forest people, the orc host, and the riders from Gondor. 
+Furthermore, the geography is changed by implying that Dunharrow is closer to Gondor than Edoras.
+
+## Battle of Minas Tirith
+
+Faramir returns with his company from Cair Andros. Gandalf defends him against a nazgul. After some discussion
+with Denethor, Faramir is sent to Osgiliath to help defend the outpost. The enemy proves to be too strong
+and drives the defence towards the main gate of Minas Tirith. A sortie is released to help Faramir's men return
+to the city. Faramir is wounded but alive, he is brought to Denethor. 
+
+The orcs create a proper siege circle around the city. Catapults throw the heads of fallen soldiers into the city,
+incendiary ammunition follows. Gandalf rides together with Imrahil, Prince of Dol Amroth, around the city
+to bolster morale. Grond is used to break the city gate. Gandalf stands alone to face the king of the nine.
+The horn of Rohan is heard; a victory ride through the orc defences follows until Théoden stands
+on the road from the river to the gate. Other Rohirrim are destroying the siege engines but the gate was not
+won yet. Haradrim stand south of the road and run towards Théoden, he reacts and matches the Haradrim, the
+Rohirrim win that battle. 
+
+Victory is followed by defeat: A nazgul comes and Théoden falls. All other Rohirrim close by are dead or flee. 
+Only Dernhelm, now revealed as Éowyn, remains. She challenges the nazgul, killes it, and afterwards fights
+with the king of the nine. Merry stabs the legs of the king, a death blow to his face by Éowyn follows.
+She falls besides the king.
+
+All remaining forces of the enemy are about to join ranks, Éomer reassembled a huge line of riders, and the
+men of Gondor come from the gate of the city. Éomer sees Théoden, with his last words Éomer is made king; upon
+seeing Éowyn, Éomer rides back to the Rohirrim and charges towards the enemies. Imrahil comes to Éowyn, discovers
+her alive and sends for help. Afterwards he joins the battle. Éowyn is brought to the houses of the healing.
+Merry is following Éowyn into the city.
+
+Éomer's charge ends up at the river and they are about to be destroyed, Aragorn arrives at the port just in
+time to relief Éomer. Together they win the day and the remaining enemies flee.
+
+### Differences
+
+Movie: The battle is shortened, the dead army is still around, the Haradrim only attack after the first charge of 
+Rohan, Éomer has a smaller role, Imrahil is not present, the orcs break into the outer rings of the city,
+Éowyn is discovered after the entire battle is over, Merry is not going into the city by his own means,
+Faramir is sent to retake Osgiliath after the defences failed, and the king of the nine is all the time on a 
+nazgul.
+
+## Pyres of Denethor
+
+During the battle, Pippin discovers the plot of Denethor. He runs down to the city to search for Gandalf. On the
+way, he asks the aforementioned captain of the guard to stop Denethor from burning Faramir alive. Eventually,
+Pippin finds Gandalf and together they save Faramir. Denethor burns himself. Faramir is brought to the houses
+of the healing.
+
+### Differences
+
+This part is rather accurate in the movie, only the guard captain is removed entirely. Furthermore, Gandalf
+and Pippin encounter a nazgul on their way to the citadel. Lastly, Denethor does not stay in the house of the
+dead.
+
+## From Minas Tirith to Black Gate
+
+Aragorn resides in a tent outside the city. He does not want to enter the city and claim the kingship yet.
+Pippin finds Merry in a street in the city and calls for help. Merry is brought to the houses of the healing.
+After some hours, Aragorn enters the city in disguise and heals Faramir, Éowyn, and Merry in that order.
+Aragorn and the Dunedain heal many wounded through the night; eventually, Aragorn retreats into the tent
+and on the next morning people wonder wether the visit of the king was just a dream.
+
+A council is held and an army assembled to march to the Black Gate. Faramir remains Steward of Gondor.
+Some forces are sent to destroy the orc host north-east of Minas Tirith. The army moves through Osgiliath,
+walks to the crossroads, places the king's head back on the statue, destroys a bridge to Minas Morgul,
+and moves north into Ithilien. Along the way the territory is reclaimed. Some men waver and are allowed to leave
+to take back Cair Andros. The remaining army reaches the Black Gate. Only Pippin went to the Black Gate. Merry
+stayed in the city.
+
+The gate opens and a parley with the mouth of Sauron takes place, tokens of Frodo and Sam are handed over but
+the terms of Sauron are denied; Aragorn, Gandalf, and the rest are riding back to the army and prepare the
+immediate battle.
+
+Sauron's forces are outnumbering the army of Aragorn by far, it was a planned ambush; trolls attack Pippin
+and the aforementioned captain of the guard. Pippin manages to kill the troll but is buried below corpses,
+he sees eagles before losing consciousness.
+
+### Differences
+
+Movie: Aragorn enters the city and the council happens in the throne room, the healing is reduced to Éowyn,
+Théoden is forgotten after his death, the funny scene at the houses of the healing involving healer Ioreth 
+is cut, Faramir is not the Steward, the march to the Black Gate is severly shorter, Cair Andros is not mentioned, 
+the mouth of Sauron is killed by Aragorn (he lives in the book), the guard captain is cut (again), Merry is at the 
+battle, Haradrim are not part of the battle, and the army of Aragorn is far smaller than in the book.
+
+## Escape from Cirith Ungol (begin of 6th book)
+
+The last book continues where the 4th book ended: Sam is on the outside of the tower at Cirith Ungol. He
+moves out of Shelob's Lair and back to the point, where he heard the voices of the orcs. This time he moves
+further into Mordor to find the main entrance of the tower. He arrives, uses the light of Earendil to pass
+some magic watch status, and finds all orcs dead. One orc tries to flee but Sam touches the ring, appears
+bigger, and the orc moves back to the tower; Sam follows and listens to a discussion of two orcs. The bigger
+one escapes with a box, which contains the mithril coat among other things; Sam follows the other one.
+
+He moves up the tower but is stuck, out of desparation Sam sings, Frodo tries to answer. The smaller orc thinks
+Frodo sang and uses a ladder to reach the level of Frodo. Sam follows and kills this orc, he finds Frodo
+and frees him. Sam returns the ring but keeps Sting and the light of Earendil; he collects some clothes
+for Frodo, and gives him food.
+
+Together they leave the tower, use the light to overcome the watch statues again, and run. Immediately after
+their departure, a nazgul is flying down and calls orcs to the tower.
+
+### Differences
+
+This scene is mostly authentic to the book, although many details have been omitted. Furthermore, the threat
+of their discovery after escaping the tower is not existing in the movie. 
+
+## From Cirith Ungol to Mount Doom
+
+Frodo and Sam travel long miles north along a small river, they use up the remaining food from Faramir,
+and have a short encounter with Gollum. Eventually, they reach a road down from an orc tower. They are discovered
+but they are believed to be orcs. After some time, the road meets other roads and the company halts. Frodo
+and Sam use this situation to flee.
+
+They crawl towards the northern mountain range, dare the road to the South towards Barad-dûr, and then move
+strait to the mountain. Eventually, they reach the road on the moutain that guides them to the entrance.
+Gollum attacks Sam and Frodo but can be beaten back, he feints a retreat but continues to follow the
+hobbits. Finally, Frodo enters the chamber but hesitates to throw the ring into the fire, Gollum comes and
+bites off one finger of Frodo, stumbles into the fire, and Frodo and sam retreat ouf of the mountain.
+
+Sauron is defeated. The western forces win. Gandalf uses the eagles to save Frodo and Sam. Gimli
+discovers Pippin under the corpses. An eagle flies to Minas Tirith to inform them of the victory.
+
+### Differences
+
+The journey is far more detailed in the book. In the movie the entire move towards the North is cut, the
+journey to Mount Doom is shorter, and their food supply is far more problematic. The final scene in the mountain,
+the nazgul flying to the mountain, and the save by the eagles is very accurate in the movie.
+
+## From Black Gate via Cair Andros to Minas Tirith
+
+Frodo and Sam are flown to the fields of Cormallen. Aragorn and the army reside there; a reunion of the
+companions takes place. Merry moved there as well. A big feast happens and some troops come back from
+destroying former property of Sauron inside Mordor. Eventually, everyone moves to Cair Andros and sets sail for
+Minas Tirith.
+
+Meanwhile, Faramir and Éowyn become close.
+
+Aragorn arrives in front of the city. Faramir meets Aragorn outside the city and gives him the crown, Aragorn
+returns it and bids Frodo to give the crown to Gandalf; Gandalf crowns Aragorn, Faramir stays Steward. 
+In the following days, Aragorn passes judgement on a lot of things. He pardons the captain of the guard,
+who will serve Faramir in Ithilien. Faramir becomes a Prince of Gondor and gets Ithilien to rule.
+
+Éomer returns to Rohan, Aragorn bids the hobbits to stay.
+
+### Differences
+
+In the movie the fields of Cormallen, the power transfer from Faramir to Aragorn, and the judgements of Aragorn
+in the days after the coronation are cut. The marriage takes place at the same time.
+
+## Marriage
+
+Some weeks later, Aragorn gets a new white tree with a flower and plants it in the courtyard in the Citadel.
+Elrond with Arwen and Galadriel with Celeborn arrive, Éomer comes back; Aragorn marries Arwen. Arwen gives the 
+Elfstone to Frodo.
+
+### Differences
+
+The movie removes Galadriel and adds kinsfolk of Legolas. Arwen gives the Elfstone to Aragorn in the first movie.
+
+## From Minas Tirith to Edoras
+
+Aragorn, Legolas, Gimli, Gandalf, Merry, Pippin, Faramir, Éowyn, Éomer, Arwen, the prince of Dol Amroth, and many 
+knights move to Edoras, they take Théoden with them and pass the forest of the forest people, Aragorn gives these 
+people control over their forest. Théoden is buried in Edoras, Faramir marries Éowyn and Merry gets a horn of 
+Rohan. Elrond says his final goodbye to Arwen.
+
+## From Edoras to Isengard
+
+Imrahil, Arwen, Éomer, Éowyn, and Faramir stay in Edoras. The rest travels to Helm's Deep, Legolas goes with
+Gimli into the caverns. Next, everyone travels to Isengard. Treebeard reveals the release of Saruman and gives the
+keys to Orthanc to Aragorn. 
+
+## From Isengard to Rivendell
+
+Aragorn parts with the company, Pippin remains in service to Gondor; Legolas and Gimli go to Fangorn forest. 
+The rest meets Saruman and Wormtongue
+along the way: a small interrogation unfolds but nothing comes of it. Galadriel, Elrond, and Gandalf do
+some form of telepathy during their night camps. Eventually, Galadriel and Celeborn take leave and go over
+the mountain pass to Lorien.
+
+The remainder of the company proceeds to Rivendell. Frodo reconnects with Bilbo. Some days pass and Frodo
+has a feeling they need to leave.
+
+## From Rivendell to Bree
+
+Gandalf and the hobbits ride from Rivendell to Bree, the innkeeper tells them the news about bands of ruffians
+who make the territory unsafe.
+
+## From Bree to the Shire
+
+Gandalf takes leave and rides to Tom Bombadil. The hobbits continue to the Shire on the main road. They encounter
+a wall, some discussion later they are allowed in. Eventually, the hobbits arrive in Bywater, raise the Shire,
+and defeat the ruffians. The leader is no other than Saruman. Frodo allows Saruman to leave, Wormtongue kills
+Saruman and is killed himself afterwards.
+
+Frodo becomes Deputy Mayor and leads the Shire back to orderly life. Eventually, he resigns. Sam marries Rosie,
+moves in with Frodo and gets a daughter.
+
+### Differences
+
+Movie: The entire journey home is completely cut, the Shire is untouched, and Saruman is already killed much 
+earlier in the movie; Faramir does not actively marry Éowyn and the promise between Legolas and Gimli
+is not mentioned.
+
+## Gray Havens
+
+Some years pass and Frodo rides with Sam to the Havens, they meet Elrond, Bilbo and Galadriel; Merry and Pippin
+join as well - being informed by Gandalf. They are welcomes by Cirdan. Frodo says goodbye to the other hobbits
+and goes onto the last ship. Galadriel, Elrond, Gandalf, Bilbo, and Cirdan go as well.
+
+### Differences
+
+This last part of the story is accurately enough. Cirdan is never mentioned by name in the movie but apparently
+present in that scene.
+
+## Journey's End
+
+You may have noticed the shorter summaries in the later parts, it was just too much to go into any detail.
+Previously, I thought the third movie is extensive; now it feels like a shallow representation of what the
+full story contains.
+
+Nonetheless, the movies of Lord of the Rings remain my most favourite movies of all time. I can wholeheartedly
+recommend to read the books in English, it opens up a whole other dimension of story.
