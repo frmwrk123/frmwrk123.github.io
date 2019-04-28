@@ -2,4 +2,4 @@ show: true
 type: info
 text: >
   <span class="far fa-info-circle"></span>
-  Noch <span id="countdown"></span> bis zur 18 Uhr Prognose der Europawahl.
+  Noch <span id="countdown"></span> bis zur 18 Uhr Prognose der Europawahl. Weitere Infos auf <a href="{% link pages/bezirkswahl.html %}">Bezirkswahl</a>.
