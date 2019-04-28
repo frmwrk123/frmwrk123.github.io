@@ -1,15 +1,20 @@
-pipeline:
-  restore-cache:
+kind: pipeline
+name: default
+
+steps:
+  - name: restore-cache
     privileged: true
     image: drillster/drone-volume-cache
-    restore: true
-    mount:
-      - /drone/.bundle
-      - ./.yarn-cache
-      - ./node_modules
+    settings:
+      restore: true
+      mount:
+        - /drone/.bundle
+        - ./.yarn-cache
+        - ./node_modules
     volumes:
-      - jekyll-blog-cache:/cache
-  build:
+      - name: jekyll-blog-cache
+        path: /cache
+  - name: build
     image: starefossen/ruby-node
     environment:
       - BUNDLE_PATH=/drone/.bundle
@@ -22,26 +27,32 @@ pipeline:
       - yarn global add gulp-cli
       - yarn install --pure-lockfile
       - gulp build
-  rebuild-cache:
+  - name: rebuild-cache
     privileged: true
     image: drillster/drone-volume-cache
-    rebuild: true
-    mount:
-      - /drone/.bundle
-      - ./.yarn-cache
-      - ./node_modules
+    settings:
+      rebuild: true
+      mount:
+        - /drone/.bundle
+        - ./.yarn-cache
+        - ./node_modules
     volumes:
-      - jekyll-blog-cache:/cache
-  deploy:
+      - name: jekyll-blog-cache
+        path: /cache
+  - name: deploy
     image: drillster/drone-rsync
-    hosts: [ "wolf.uberspace.de" ]
-    user: martens7
-    source: ./_site/.
-    target: ~/tmp/build
-    recursive: true
-    delete: true
-    secrets: [ rsync_key ]
-    script:
+    environment:
+      RSYNC_KEY:
+        from_secret: rsync_key
+    settings:
+      hosts: [ "wolf.uberspace.de" ]
+      user: martens7
+      source: ./_site/.
+      target: ~/tmp/build
+      recursive: true
+      delete: true
+      secrets: [ rsync_key ]
+      script:
         - shopt -s dotglob
         - rm -rf tmp/old.build
         - mkdir tmp/old.build
@@ -49,15 +60,23 @@ pipeline:
         - rm -rf html/*
         - cp -r tmp/build/* html/
         - rm -rf tmp/build
-  notify:
+  - name: notify
     image: drillster/drone-email
-    host: peacock.uberspace.de
-    port: 587
-    from: Drone <drone@2martens.de>
-    secrets: [email_username, email_password]
+    environment:
+      EMAIL_USERNAME:
+        from_secret: email_username
+      EMAIL_PASSWORD:
+        from_secret: email_password
+    settings:
+      host: peacock.uberspace.de
+      port: 587
+      from: Drone <drone@2martens.de>
+      secrets: [email_username, email_password]
     when:
       status: [ failure ]
 
-branches: master
+trigger:
+  branch:
+  - master
 
 
