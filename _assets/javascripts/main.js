@@ -39,7 +39,7 @@ $(function() {
                         last: " und ",
                         delim: ", "});
     let counterID = countdown(function(timestamp) {
-            countdownSpan.innerText = timestamp.toLocaleString();
+            countdownSpan.innerText = timestamp.toString();
         }, new Date(2019, 5, 26, 18, 0),
         countdown.DAYS |
         countdown.HOURS |
