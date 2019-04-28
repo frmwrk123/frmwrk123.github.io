@@ -44,6 +44,10 @@ $navbarHeight: 58px;
   visibility: hidden;
 }
 
+#countdown:before {
+  display: inline;
+}
+
 .site-header > .navbar {
   background-color: $body-bg;
 }
