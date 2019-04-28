@@ -18,12 +18,12 @@ steps:
     image: starefossen/ruby-node
     environment:
       BUNDLE_PATH: .bundle
-      YARN_CACHE_FOLDER: /cache/.yarn-cache
     commands:
       - export LANG="C.UTF-8"
       - export LC_ALL="C.UTF-8"
       - ruby -e 'puts STDIN.external_encoding' # figure out the encoding used
       - bundle install
+      - yarn config set cache-folder /cache/.yarn-cache
       - yarn global add gulp-cli
       - yarn install --pure-lockfile
       - gulp build
