@@ -82,7 +82,7 @@ steps:
 volumes:
   - name: jekyll-blog-cache
     host:
-      path: /var/lib/cache
+      path: /var/lib/drone
 
 
 trigger:
