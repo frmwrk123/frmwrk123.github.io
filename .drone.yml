@@ -25,7 +25,7 @@ steps:
       - bundle install
       - yarn config set cache-folder /cache/.yarn-cache
       - yarn global add gulp-cli
-      - yarn install --pure-lockfile
+      - yarn install --frozen-lockfile
       - gulp build
   - name: rebuild-cache
     privileged: true
