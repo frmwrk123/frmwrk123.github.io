@@ -17,7 +17,7 @@ steps:
   - name: build
     image: starefossen/ruby-node
     environment:
-      - BUNDLE_PATH=/drone/.bundle
+      BUNDLE_PATH: /drone/.bundle
     commands: 
       - export LANG="C.UTF-8"
       - export LC_ALL="C.UTF-8"
