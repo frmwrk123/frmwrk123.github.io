@@ -1,8 +1,5 @@
-show: false
-type: warning
+show: true
+type: info
 text: >
-  <span class="far fa-exclamation-triangle"></span>
-  Gehe am 2. Juni um 17 Uhr in Hamburg auf die Straße, um gegen #Uploadfilter zu protestieren. Demo startet am
-  Jungfernstieg und macht dann eine Runde, vorbei am Springer Hochhaus. 
-  <a href="https://gruenejugendhamburg.de/allgemein/aufruf-zur-demo-gegen-die-urheberrechtsreform-der-eu-am-02-juli-um-17-uhr-am-jungfernstieg/">Aufruf zur Demo</a>
-  #SaveTheInternet #LinkTax
+  <span class="far fa-info-circle"></span>
+  Noch <span id="countdown"></span> bis zur 18 Uhr Prognose der Europawahl.
