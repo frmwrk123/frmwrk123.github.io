@@ -18,6 +18,7 @@ steps:
     image: starefossen/ruby-node
     environment:
       BUNDLE_PATH: .bundle
+      YARN_CACHE_FOLDER: /cache/.yarn-cache
     commands:
       - export LANG="C.UTF-8"
       - export LC_ALL="C.UTF-8"
