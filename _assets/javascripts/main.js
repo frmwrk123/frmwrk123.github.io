@@ -40,7 +40,7 @@ $(function() {
                         delim: ", "});
     let counterID = countdown(function(timestamp) {
             countdownSpan.html(timestamp.toString());
-        }, new Date(2019, 5, 26, 18, 0),
+        }, new Date(2019, 4, 26, 18, 0),
         countdown.DAYS |
         countdown.HOURS |
         countdown.MINUTES |
