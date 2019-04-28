@@ -13,9 +13,10 @@ steps:
         - ./node_modules
     volumes:
       - name: jekyll-blog-cache
-        path: /cache
+        path: /tmp/cache
   - name: build
     image: starefossen/ruby-node
+    privileged: true
     environment:
       BUNDLE_PATH: /drone/.bundle
     commands: 
@@ -27,6 +28,9 @@ steps:
       - yarn global add gulp-cli
       - yarn install --pure-lockfile
       - gulp build
+    volumes:
+      - name: jekyll-blog-cache
+        path: /tmp/cache
   - name: rebuild-cache
     privileged: true
     image: drillster/drone-volume-cache
@@ -38,7 +42,7 @@ steps:
         - ./node_modules
     volumes:
       - name: jekyll-blog-cache
-        path: /cache
+        path: /tmp/cache
   - name: deploy
     image: drillster/drone-rsync
     environment:
@@ -74,6 +78,12 @@ steps:
       secrets: [email_username, email_password]
     when:
       status: [ failure ]
+
+volumes:
+  - name: jekyll-blog-cache
+    host:
+      path: /var/lib/cache
+
 
 trigger:
   branch:
