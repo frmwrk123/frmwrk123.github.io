@@ -8,18 +8,17 @@ steps:
     settings:
       restore: true
       mount:
-        - /drone/.bundle
+        - ./.bundle
         - ./.yarn-cache
         - ./node_modules
     volumes:
-      - name: jekyll-blog-cache
-        path: /tmp/cache
+      - name: cache
+        path: /cache
   - name: build
     image: starefossen/ruby-node
-    privileged: true
     environment:
-      BUNDLE_PATH: /drone/.bundle
-    commands: 
+      BUNDLE_PATH: .bundle
+    commands:
       - export LANG="C.UTF-8"
       - export LC_ALL="C.UTF-8"
       - ruby -e 'puts STDIN.external_encoding' # figure out the encoding used
@@ -28,21 +27,18 @@ steps:
       - yarn global add gulp-cli
       - yarn install --pure-lockfile
       - gulp build
-    volumes:
-      - name: jekyll-blog-cache
-        path: /tmp/cache
   - name: rebuild-cache
     privileged: true
     image: drillster/drone-volume-cache
     settings:
       rebuild: true
       mount:
-        - /drone/.bundle
-        - ./.yarn-cache
+        - .bundle
+        - .yarn-cache
         - ./node_modules
     volumes:
-      - name: jekyll-blog-cache
-        path: /tmp/cache
+      - name: cache
+        path: /cache
   - name: deploy
     image: drillster/drone-rsync
     environment:
@@ -80,9 +76,9 @@ steps:
       status: [ failure ]
 
 volumes:
-  - name: jekyll-blog-cache
+  - name: cache
     host:
-      path: /var/lib/drone
+      path: /var/lib/drone/cache
 
 
 trigger:
