@@ -24,7 +24,6 @@ steps:
       - export LC_ALL="C.UTF-8"
       - ruby -e 'puts STDIN.external_encoding' # figure out the encoding used
       - bundle install
-      - yarn config set cache-folder .yarn-cache
       - yarn global add gulp-cli
       - yarn install --pure-lockfile
       - gulp build
