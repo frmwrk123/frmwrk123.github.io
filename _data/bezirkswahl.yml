@@ -1,0 +1,35 @@
+showMap: true
+wahlkreise:
+  eimsbuettelnord:
+    name: Eimsbuettel Nord
+    platz1: Anne-Katrin Warnecke
+    platz2: Jost Leonhardt Fischer
+    link:
+  eimsbuettelsued:
+    name: Eimsbuettel Süd
+    platz1: Miriam Putz
+    platz2: Falk Schmidt-Tobler
+  stellingen:
+    name: Stellingen
+    platz1: Dietmar Kuhlmann
+    platz2: Nico Thies
+  eidelstedt:
+    name: Eidelstedt
+    platz1: Ali Mir Agha
+    platz2: Klaus Hoffmann
+  haro:
+    name: Harvestehude/Rotherbaum
+    platz1: Nina Schübel
+    platz2: Jan Koriath
+  lokstedt:
+    name: Lokstedt
+    platz1: Lisa Kern
+    platz2: Kevin Köhler
+  schnelsen:
+    name: Schnelsen
+    platz1: Lynne Hunter
+    platz2: Jim Martens
+  niendorf:
+    name: Niendorf
+    platz1: Sina Demirhan
+    platz2: Lutz Schmidt
