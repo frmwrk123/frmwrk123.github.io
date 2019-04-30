@@ -19,7 +19,7 @@
   /*fill: #fc0 !important;*/
   fill: #fc0;
 }
-#election_map g:hover {
+#election_map g:hover, #election_map g.active {
   fill: #228B22;
   cursor: pointer;
 }
