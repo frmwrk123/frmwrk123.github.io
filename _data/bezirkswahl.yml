@@ -1,12 +1,12 @@
 showMap: true
 wahlkreise:
   eimsbuettelnord:
-    name: Eimsbuettel Nord
+    name: Eimsbüttel Nord
     platz1: Anne Kathrin Warnecke
     platz2: Jost Leonhardt Fischer
     link:
   eimsbuettelsued:
-    name: Eimsbuettel Süd
+    name: Eimsbüttel Süd
     platz1: Miriam Putz
     platz2: Falk Schmidt-Tobler
   stellingen:
