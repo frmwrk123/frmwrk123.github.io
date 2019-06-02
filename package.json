@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.4.0",
     "popper.js": "^1.14.7"
   },
   "devDependencies": {
@@ -14,9 +14,10 @@
     "autoprefixer": "^9.4.9",
     "babel-polyfill": "^6.26.0",
     "braces": "^2.3.2",
-    "browser-sync": "^2.26.3",
+    "browser-sync": "^2.26.5",
     "child_process": "^1.0.2",
     "del": "^3.0.0",
+    "fstream": "^1.0.12",
     "gulp": "^4.0.0",
     "gulp-babel": "^8.0.0",
     "gulp-clean-css": "^4.0.0",
@@ -30,6 +31,7 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-terser": "^1.1.7",
     "gulp-util": "^3.0.8",
+    "localtunnel": "^1.9.2",
     "micromatch": "^3.1.10",
     "node-sass": "^4.11.0"
   },
