@@ -111,7 +111,7 @@ blockquote {
 
 // limit width of article to optimise reading experience
 @include media-breakpoint-up(md) {
-  article {
+  article, .index {
     width: 550px;
     margin-left: auto;
     margin-right: auto;

@@ -3,26 +3,28 @@ layout: default
 sidebarboxes: author encrypted-communication events
 ---
 
-<h1>2martens.de</h1>
+<div class="index">
+    <h1>2martens.de</h1>
 
-<p>
-    Welcome on my personal website. This home page gives you an overview over all recently posted posts. To see
-    the full list, visit the respective page (Speeches, Politics, Politics/G20, Computer Science, Blog, About).
-</p>
+    <p>
+        Welcome on my personal website. This home page gives you an overview over all recently posted posts. To see
+        the full list, visit the respective page (Speeches, Politics, Politics/G20, Computer Science, Blog, About).
+    </p>
 
-<ul class="post-list list-unstyled">
-    {% for post in site.posts limit:5 %}
-    <li class="mb-4">
-        <div class="small text-muted">
-            <span class="far fa-calendar-alt"></span>
-            <time datetime="{{ post.date | date_to_xmlschema }}">
-                {{ post.date | date: "%b %-d, %Y" }}
-            </time>
-            • {% include reading-time.html content=post.content %}
-        </div>
-        <p class="h4 post-title">
-            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        </p>
-    </li>
-    {% endfor %}
-</ul>
+    <ul class="post-list list-unstyled">
+        {% for post in site.posts limit:5 %}
+        <li class="mb-4">
+            <div class="small text-muted">
+                <span class="far fa-calendar-alt"></span>
+                <time datetime="{{ post.date | date_to_xmlschema }}">
+                    {{ post.date | date: "%b %-d, %Y" }}
+                </time>
+                • {% include reading-time.html content=post.content %}
+            </div>
+            <p class="h4 post-title">
+                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </p>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
