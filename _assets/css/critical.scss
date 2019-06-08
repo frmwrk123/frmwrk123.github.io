@@ -108,6 +108,21 @@ blockquote {
   }
 }
 
+// increase distance between clickable elements in footer
+.md-up {
+  margin-top: 10px;
+}
+
+ul.nav li {
+  margin-left: 4px;
+  margin-right: 4px;
+}
+
+ul.list-unstyled li {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
 // limit width of article to optimise reading experience
 @include media-breakpoint-up(md) {
   article, .index {
