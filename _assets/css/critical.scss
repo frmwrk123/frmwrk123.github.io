@@ -73,14 +73,6 @@ $navbarHeight: 58px;
   margin-top: 2*$navbarHeight + 15px;
 }
 
-*[id]:before {
-  display: block;
-  content: " ";
-  margin-top: -2*$navbarHeight; // Set the Appropriate Height
-  height: 2*$navbarHeight; // Set the Appropriate Height
-  visibility: hidden;
-}
-
 #countdown:before {
   display: inline;
 }
