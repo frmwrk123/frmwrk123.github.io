@@ -1,9 +1,4 @@
 items:
-  - link: /bezirkswahl-2019/
-    title: Bezirkswahl 2019
-    items:
-      - link: /bezirkswahl-2019/wahlprogramm/
-        title: Wahlprogramm
   - link: /cv/
     title: CV
   - link: /speeches/
