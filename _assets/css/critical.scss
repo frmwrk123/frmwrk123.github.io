@@ -45,6 +45,17 @@
 
 $navbarHeight: 58px;
 
+// sticky sidebar
+@include media-breakpoint-up(lg) {
+  #sidebar {
+    position: sticky;
+    top: $navbarHeight + 15px;
+  }
+  #main.submenu #sidebar {
+    top: 2*$navbarHeight + 15px;
+  }
+}
+
 .large {
   font-size: $font-size-lg;
 }
