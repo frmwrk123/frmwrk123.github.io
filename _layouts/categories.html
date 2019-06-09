@@ -2,29 +2,31 @@
 layout: default
 ---
 
-{{ content }}
-<ul class="post-list list-unstyled">
-    {% assign categories = page.categories | split:',' %}
-    {% assign posts = site.categories[categories.first] %}
-    {% for category in categories %}
-        {% if category != categories.first %}
-            {% assign posts = site.categories[category] | concat: posts %}
-        {% endif %}
-    {% endfor %}
-    {% assign posts = posts | sort: 'date' | reverse %}
-    {% for post in posts %}
-    <li class="mb-4">
-        <p class="small text-muted">
-            <span class="far fa-calendar-alt"></span>
-            <time datetime="{{ post.date | date_to_xmlschema }}">
-                {{ post.date | date: "%b %-d, %Y" }}
-            </time>
-            • {% include reading-time.html content=post.content %}
-        </p>
+<div class="reading-optimised">
+    {{ content }}
+    <ul class="post-list list-unstyled">
+        {% assign categories = page.categories | split:',' %}
+        {% assign posts = site.categories[categories.first] %}
+        {% for category in categories %}
+            {% if category != categories.first %}
+                {% assign posts = site.categories[category] | concat: posts %}
+            {% endif %}
+        {% endfor %}
+        {% assign posts = posts | sort: 'date' | reverse %}
+        {% for post in posts %}
+        <li class="mb-4">
+            <p class="small text-muted">
+                <span class="far fa-calendar-alt"></span>
+                <time datetime="{{ post.date | date_to_xmlschema }}">
+                    {{ post.date | date: "%b %-d, %Y" }}
+                </time>
+                • {% include reading-time.html content=post.content %}
+            </p>
 
-        <p class="h4 post-title">
-            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        </p>
-    </li>
-    {% endfor %}
-</ul>
+            <p class="h4 post-title">
+                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </p>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
