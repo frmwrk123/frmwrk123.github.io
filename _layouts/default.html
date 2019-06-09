@@ -25,14 +25,17 @@
     {% endif %}
     <div class="container">
         <div class="row">
-            <main class="col-lg-8">
+            <main class="col{% if page.hidesidebar %}{% else %}-lg-8{% endif %}">
                 {{ content }}
             </main>
+            {% if page.hidesidebar %}
+            {% else %}
             <div class="col-lg-4">
                 <div id="sidebar">
                     {% include sidebar.html %}
                 </div>
             </div>
+            {% endif %}
         </div>
         <button id="back-to-top"
                 class="btn btn-primary btn-lg"
