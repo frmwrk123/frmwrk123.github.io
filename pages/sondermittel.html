@@ -1,0 +1,76 @@
+---
+title: Sondermittel
+permalink: /district/sondermittel/
+description: On this page you find all "Sondermittel" and how they are allocated.
+parent_link: /district/
+hidesidebar: true
+---
+
+<nav>
+    <div class="nav nav-tabs" id="sondermittelTabs" role="tablist">
+        {% assign first = true %}
+        {% for year in site.data.sondermittel.items %}
+        <a class="nav-item nav-link{% if first %} active{% endif %}" id="{{ year.year }}-tab" data-toggle="tab" href="#table-{{ year.year }}" role="tab"
+           aria-controls="table-{{ year.year }}" aria-selected="{% if first %}true{% else %}false{% endif %}">{{ year.year }}</a>
+        {% assign first = false %}
+        {% endfor %}
+    </div>
+</nav>
+
+{% assign first = true %}
+<div class="tab-content" id="sondermittelTabsContent">
+    {% for year in site.data.sondermittel.items %}
+    <div class="tab-pane fade{% if first %} show active{% endif %}" id="table-{{ year.year }}" role="tabpanel" aria-labelledby="{{ year.year }}-tab">
+        <p>Die folgende Tabelle enthält alle bereits beschlossenen Anträge für Sondermittel. Ich habe die Daten nach
+            bestem Wissen und Gewissen übertragen. Fehlende Einträge bitte ich zu entschuldigen.
+            Von links nach rechts sind dies die Spalten der Tabelle:</p>
+        <dl>
+            <dt>Nummer der Drucksache</dt>
+            <dd>kann für Recherche verwendet werden</dd>
+            <dt>Organisation</dt>
+            <dd>diese Organisation bekommt das Geld</dd>
+            <dt>Zweck</dt>
+            <dd>Wofür wird das Geld verwendet?</dd>
+            <dt>EUR</dt>
+            <dd>Aufgliederung der Summe nach konsumtiven und investiven Mitteln</dd>
+            <dt>Unterstützer*innen</dt>
+            <dd>unterstützende Fraktionen oder Verwaltung</dd>
+        </dl>
+
+        <!--<div class="header">
+            <div role="row">
+                <div class="th" role="columnheader">#</div>
+                <div class="th" role="columnheader">Organisation</div>
+                <div role="columnheader">Zweck</div>
+                <div role="columnheader">EUR (konsumtiv)<br>(investiv)</div>
+                <div role="columnheader">Unterstützer*innen</div>
+            </div>
+        </div>-->
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <thead class="header">
+                    <tr>
+                        <th scope="col">Drucksache</th>
+                        <th scope="col">Organisation</th>
+                        <th scope="col">Zweck</th>
+                        <th scope="col">EUR (konsumtiv)<br>(investiv)</th>
+                        <th scope="col">Unterstützer*innen</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for item in year.items %}
+                    <tr>
+                        <th scope="row">{{ item.id }}</th>
+                        <td>{{ item.org }}</td>
+                        <td>{{ item.zweck }}</td>
+                        <td class="euro">{{ item.euro_konsumtiv }}<br>{{ item.euro_investiv }}</td>
+                        <td>{{ item.fraktionen }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+    {% assign first = false %}
+    {% endfor %}
+</div>
