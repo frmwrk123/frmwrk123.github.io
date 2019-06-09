@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article class="post reading-optimised">
+<article class="post{% if page.hidesidebar %}{% else %} reading-optimised{% endif %}">
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
