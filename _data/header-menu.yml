@@ -1,4 +1,9 @@
 items:
+  - link: /district/
+    title: Bezirkspolitik
+    items:
+      - link: /district/sondermittel/
+        title: Sondermittel
   - link: /speeches/
     title: Speeches
   - link: /politics/
