@@ -1,21 +1,23 @@
 ---
 layout: default
 ---
+<div class="category">
+    {{ content }}
+    <ul class="post-list list-unstyled">
+        {% for post in site.categories[page.category] %}
+        <li class="mb-4">
+            <div class="small text-muted">
+                <span class="far fa-calendar-alt"></span>
+                <time datetime="{{ post.date | date_to_xmlschema }}">
+                    {{ post.date | date: "%b %-d, %Y" }}
+                </time>
+                • {% include reading-time.html content=post.content %}
+            </div>
+            <p class="h4 post-title">
+                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </p>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
 
-{{ content }}
-<ul class="post-list list-unstyled">
-    {% for post in site.categories[page.category] %}
-    <li class="mb-4">
-        <div class="small text-muted">
-            <span class="far fa-calendar-alt"></span>
-            <time datetime="{{ post.date | date_to_xmlschema }}">
-                {{ post.date | date: "%b %-d, %Y" }}
-            </time>
-            • {% include reading-time.html content=post.content %}
-        </div>
-        <p class="h4 post-title">
-            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        </p>
-    </li>
-    {% endfor %}
-</ul>
