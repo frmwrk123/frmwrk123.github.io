@@ -192,6 +192,9 @@ ul.list-unstyled li {
 }
 
 // limit width of article to optimise reading experience
+.reading-optimised > p {
+  text-align: justify;
+}
 @include media-breakpoint-up(md) {
   .reading-optimised {
     width: 550px;
