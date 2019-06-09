@@ -2,7 +2,7 @@
 layout: post
 title:  "Road to Europe (Videoserie)"
 date:   2018-11-20 16:00:00 +0200
-categories: politics bezirkswahl
+categories: politics district
 ---
 
 Vor einigen Wochen habe ich eine Videoserie zur anstehenden Bezirks- und Europawahl begonnen. Darin spreche

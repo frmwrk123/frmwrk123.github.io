@@ -2,7 +2,7 @@
 layout: post
 title:  "Kommunales Wahlrecht in Hamburg"
 date:   2018-09-04 10:00:00 +0200
-categories: politics bezirkswahl
+categories: politics district
 ---
 
 In diesem Artikel werde ich mich mit dem kommunalen Wahlrecht in Hamburg beschäftigen und
