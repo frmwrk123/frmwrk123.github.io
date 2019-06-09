@@ -1,6 +1,4 @@
 items:
-  - link: /cv/
-    title: CV
   - link: /speeches/
     title: Speeches
   - link: /politics/
@@ -8,6 +6,8 @@ items:
     items:
       - link: /politics/g20/
         title: G20
+  - link: /cv/
+    title: CV
   - link: /cs/
     title: Computer Science
   - link: /blog/
