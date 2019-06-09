@@ -1,0 +1,323 @@
+total_konsumtiv:
+  - 2019: 195500
+  - 2020: 195500
+total_investiv:
+  - 2019: 305000
+  - 2020: 305000
+items:
+  - year: 2019
+    items:
+      - id: 20-3742
+        org: Schröderstift e.V.
+        status: beschlossen
+        termin: 23.05.2019
+        euro_konsumtiv: 13145
+        euro_investiv: 0
+        fraktionen: SPD, GRÜNE
+        zweck: Off The Radar Festival
+
+      - id: 20-3740
+        org: Förderkreis für Literatur in der Mathide e.V.
+        status: beschlossen
+        termin: 23.05.2019
+        euro_konsumtiv: 1180
+        euro_investiv: 0
+        fraktionen: SPD, GRÜNE
+        zweck: Bogenstraßenfest
+
+      - id: 20-3734
+        org: Lenzsiedlung e.V.
+        status: beschlossen
+        termin: 23.05.2019
+        euro_konsumtiv: 0
+        euro_investiv: 8837.12
+        fraktionen: SPD, GRÜNE
+        zweck: Server kaufen
+
+      - id: 20-3731
+        org: Gartenbauverein Döhrnkamp e.V.
+        status: beschlossen
+        termin: 23.05.2019
+        euro_konsumtiv: 2000
+        euro_investiv: 0
+        fraktionen: GRÜNE, SPD
+        zweck: Anlage von Beeten
+
+      - id: 20-3723
+        org: Bürgerhaus für Niendorf e.V.
+        status: beschlossen
+        termin: 23.05.2019
+        euro_konsumtiv: 3551.75
+        euro_investiv: 0
+        fraktionen: CDU
+        zweck: Internetpräsenz erstellen
+
+      - id: 20-3719
+        org: Café WhyNot?
+        status: beschlossen
+        termin: 23.05.2019
+        euro_konsumtiv: 0
+        euro_investiv: 7345.68
+        fraktionen: CDU, SPD, GRÜNE
+        zweck: Renovierung
+
+      - id: 20-3702
+        org: Grün-Weiß Eimsbüttel e.V.
+        status: beschlossen
+        termin: 23.05.2019
+        euro_konsumtiv: 0
+        euro_investiv: 7246.01
+        fraktionen: SPD, GRÜNE, CDU
+        zweck: Luftentfeuchtung
+
+      - id: 20-3624
+        org: JUNGS e.V.
+        status: beschlossen
+        termin: 25.04.2019
+        euro_konsumtiv: 4970
+        euro_investiv: 0
+        fraktionen: CDU
+        zweck: struktureller Ausbau Chor
+
+      - id: 20-3623
+        org: Ev.-Luth. Kirchengemeinde Schnelsen
+        status: beschlossen
+        termin: 25.04.2019
+        euro_konsumtiv: 0
+        euro_investiv: 6000
+        fraktionen: CDU, SPD, GRÜNE
+        zweck: Schallschutz
+
+      - id: 20-3621
+        org: Freiwillige Feuerwehren
+        status: beschlossen
+        termin: 25.04.2019
+        euro_konsumtiv: 9277.04
+        euro_investiv: 0
+        fraktionen: CDU, SPD, GRÜNE
+        zweck: Mitgliederakquise
+
+      - id: 20-3591
+        org: Verein zur Förderung der Kultur auf Else-Rauch-Platz
+        status: beschlossen
+        termin: 25.04.2019
+        euro_konsumtiv: 0
+        euro_investiv: 14000
+        fraktionen: SPD, Die LINKE, CDU
+        zweck: Kauf Kfz
+
+      - id: 20-3590
+        org: Spielhaus Wehbers
+        status: beschlossen
+        termin: 25.04.2019
+        euro_konsumtiv: 1239.46
+        euro_investiv: 0
+        fraktionen: CDU
+        zweck: Frühjahrsfest
+
+      - id: 20-3548
+        org: NPV Altona e.V.
+        status: beschlossen
+        termin: 25.04.2019
+        euro_konsumtiv: 11500
+        euro_investiv: 0
+        fraktionen: CDU
+        zweck: Sanierung
+
+      - id: 20-3547
+        org: Ev.-Luth. Kirchengemeinde Niendorf
+        status: beschlossen
+        termin: 25.04.2019
+        euro_konsumtiv: 15000
+        euro_investiv: 0
+        fraktionen: SPD, GRÜNE
+        zweck: Gutachten/Pflege-Entwicklungskonzept
+
+      - id: 20-3540
+        org: Deutsches Rotes Kreuz
+        status: beschlossen
+        termin: 25.04.2019
+        euro_konsumtiv: 14342.01
+        euro_investiv: 0
+        fraktionen: CDU
+        zweck: Sanierung
+
+      - id: 20-3530
+        org: pro linguis e.V.
+        status: beschlossen
+        termin: 25.04.2019
+        euro_konsumtiv: 7260
+        euro_investiv: 0
+        fraktionen: CDU
+        zweck: Sanierung
+
+      - id: 20-3491
+        org: Kusimansen-Kindertagespflege
+        status: beschlossen
+        termin: 28.02.2019
+        euro_konsumtiv: 0
+        euro_investiv: 17005.10
+        fraktionen: SPD, GRÜNE
+        zweck: Gestaltung Außengelände/Überdachung
+
+      - id: 20-3490
+        org: Ev.-Luth. Kirchengemeinde Eidelstedt
+        status: beschlossen
+        termin: 28.02.2019
+        euro_konsumtiv: 2200
+        euro_investiv: 0
+        fraktionen: CDU
+        zweck: Sommer unterm Schirm 2019
+
+      - id: 20-3489
+        org: Förderverein der FF Stellingen e.V.
+        status: beschlossen
+        termin: 28.02.2019
+        euro_konsumtiv: 0
+        euro_investiv: 20000
+        fraktionen: CDU
+        zweck: Kauf eines Fahrzeugs
+
+      - id: 20-3465
+        org: Verschiedene
+        status: beschlossen
+        termin: 14.02.2019
+        euro_konsumtiv: 15000
+        euro_investiv: 0
+        fraktionen: SPD, GRÜNE
+        zweck: Kinderferienprogramm Frühjahr 2019
+
+      - id: 20-3458
+        org: Bezirksamt
+        status: beschlossen
+        termin: 28.02.2019
+        euro_konsumtiv: 20000
+        euro_investiv: 0
+        fraktionen: SPD, GRÜNE
+        zweck: Bürgerbus Niendorfer Osten
+
+      - id: 20-3457
+        org: Hamburger Kinder- und Jugendhilfe e.V.
+        status: beschlossen
+        termin: 28.02.2019
+        euro_konsumtiv: 0
+        euro_investiv: 62085.92
+        fraktionen: SPD, GRÜNE, CDU
+        zweck: Renovierung
+
+      - id: 20-3456
+        org: Bürgerhaus Lokstedt
+        status: beschlossen
+        termin: 28.02.2019
+        euro_konsumtiv: 2046.07
+        euro_investiv: 0
+        fraktionen: SPD, GRÜNE
+        zweck: Renovierung
+
+      - id: 20-3445
+        org: Bezirksamt
+        status: beschlossen
+        termin: 14.02.2019
+        euro_konsumtiv: 136077.90
+        euro_investiv: 0
+        fraktionen: SPD, GRÜNE
+        zweck: Sanierung
+
+      - id: 20-3443
+        org: Hoheluftschiff e.V.
+        status: beschlossen
+        termin: 28.02.2019
+        euro_konsumtiv: 0
+        euro_investiv: 19520.80
+        fraktionen: SPD, GRÜNE, CDU
+        zweck: Sanierung
+
+      - id: 20-3442
+        org: Junges Orchester Hamburg e.V.
+        status: beschlossen
+        termin: 28.02.2019
+        euro_konsumtiv: 3717.60
+        euro_investiv: 0
+        fraktionen: SPD, GRÜNE
+        zweck: Sommerkonzert 2019
+
+      - id: 20-3441
+        org: Zeppelin Kinder- und Jugendkunst e.V.
+        status: beschlossen
+        termin: 28.02.2019
+        euro_konsumtiv: 8043.30
+        euro_investiv: 0
+        fraktionen: SPD, GRÜNE
+        zweck: Ferienworkshops Sommer 2019
+
+      - id: 20-3440
+        org: Institut für die Geschichte der deutschen Juden
+        status: beschlossen
+        termin: 28.02.2019
+        euro_konsumtiv: 3600
+        euro_investiv: 0
+        fraktionen: SPD, GRÜNE
+        zweck: Geschichtomat
+
+      - id: 20-3426
+        org: SV Eidelstedt Hamburg von 1880 e.V.
+        status: beschlossen
+        termin: 28.02.2019
+        euro_konsumtiv: 2010
+        euro_investiv: 0
+        fraktionen: GRÜNE, SPD
+        zweck: Sommerferienspaß 2019
+
+      - id: 20-3425
+        org: Eidelstedter Bürgerhaus e.V.
+        status: beschlossen
+        termin: 28.02.2019
+        euro_konsumtiv: 0
+        euro_investiv: 8719.85
+        fraktionen: GRÜNE, SPD
+        zweck: Musik United 2019
+
+      - id: 20-3410
+        org: Ostsee-Segler-Gemeinschaft e.V.
+        status: beschlossen
+        termin: 28.02.2019
+        euro_konsumtiv: 0
+        euro_investiv: 21120
+        fraktionen: CDU
+        zweck: Kauf von zwei Jollen
+
+      - id: 20-3394
+        org: Bezirksamt
+        status: beschlossen
+        termin: 28.02.2019
+        euro_konsumtiv: 1000
+        euro_investiv: 0
+        fraktionen: Verwaltung
+        zweck: Pauschale Mehr- und Folgekosten aus Sondermittelbeschlüssen
+
+      - id: 20-3386
+        org: Grün-Weiß Eimsbüttel von 1901 e.V.
+        status: beschlossen
+        termin: 31.01.2019
+        euro_konsumtiv: 6452
+        euro_investiv: 0
+        fraktionen: GRÜNE, SPD
+        zweck: Anschaffung Sportgeräte
+
+      - id: 20-3382
+        org: Club an der Alster
+        status: beschlossen
+        termin: 17.01.2019
+        euro_konsumtiv: 2500
+        euro_investiv: 0
+        fraktionen: CDU
+        zweck: Ausrichtung Europapokal
+
+      - id: 20-3378
+        org: Grün-Weiß Eimsbüttel von 1901 e.V
+        status: beschlossen
+        termin: 31.01.2019
+        euro_konsumtiv: 26817.45
+        euro_investiv: 0
+        fraktionen: CDU
+        zweck: Fenstererneuerung/Belüftungsanlage
