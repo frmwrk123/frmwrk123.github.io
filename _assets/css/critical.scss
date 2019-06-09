@@ -98,6 +98,19 @@
   }
 }
 
+@media (max-width: 1300px - .02) {
+  #back-to-top.no-sidebar {
+    position: fixed;
+    right: 20px;
+  }
+}
+
+@media (min-width: 1300px) {
+  #back-to-top.no-sidebar {
+    margin-left: 102%;
+  }
+}
+
 $navbarHeight: 58px;
 
 // sticky sidebar

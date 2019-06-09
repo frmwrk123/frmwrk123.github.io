@@ -38,7 +38,7 @@
             {% endif %}
         </div>
         <button id="back-to-top"
-                class="btn btn-primary btn-lg"
+                class="btn btn-primary btn-lg{% if page.hidesidebar %} no-sidebar{% endif %}"
                 title="Click to return to the start of the page" data-toggle="tooltip" data-placement="left">
             <span class="fas fa-chevron-up"></span>
         </button>
