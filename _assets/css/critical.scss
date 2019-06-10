@@ -239,3 +239,10 @@ ul.list-unstyled li {
   color: #333;
   white-space: nowrap;
 }
+
+.anchor {
+  position: relative;
+  display: block;
+  top: -$navbarHeight;
+  visibility: hidden;
+}

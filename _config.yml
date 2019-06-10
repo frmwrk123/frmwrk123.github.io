@@ -44,6 +44,8 @@ defaults:
 
 # Build settings
 markdown: kramdown
+kramdown:
+  auto_ids: false
 include:
   - .htaccess
 exclude:
