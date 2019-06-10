@@ -44,5 +44,6 @@
     "url": "https://git.2martens.de/2martens/2martens.de.git"
   },
   "author": "Jim Martens",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "browserslist": ["last 2 versions"]
 }

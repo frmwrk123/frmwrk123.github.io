@@ -32,7 +32,7 @@ gulp.task("build:styles:main", function () {
             outputStyle: "compressed",
             includePaths: [paths.includeSass, paths.sassFiles]
         }).on("error", sass.logError))
-        .pipe(postcss([autoprefixer({browsers: ["last 2 versions"]})]))
+        .pipe(postcss([autoprefixer()]))
         .pipe(cleancss())
         .pipe(sourcemaps.write())
         .pipe(gulp.dest(paths.jekyllCssFiles))
@@ -49,7 +49,7 @@ gulp.task("build:styles:critical", function () {
             outputStyle: "compressed",
             includePaths: [paths.includeSass, paths.sassFiles]
         }).on("error", sass.logError))
-        .pipe(postcss([autoprefixer({browsers: ["last 2 versions"]})]))
+        .pipe(postcss([autoprefixer()]))
         .pipe(cleancss())
         .pipe(sourcemaps.write())
         .pipe(gulp.dest("_includes"))
