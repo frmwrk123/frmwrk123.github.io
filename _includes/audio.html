@@ -1,0 +1,10 @@
+<figure>
+    <figcaption>{{ include.caption }}</figcaption>
+    <audio
+            controls
+            src="{% if site.data.cdn.use and jekyll.environment == 'production' %}{{ site.data.cdn.url }}{% else %}{{ site.baseurl }}{% endif %}{{ include.link }}">
+        Your browser does not support the
+        <code>audio</code> element.
+    </audio>
+</figure>
+
