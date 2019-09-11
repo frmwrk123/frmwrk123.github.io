@@ -1,9 +1,0 @@
----
-layout: event
-title:  Infostand 1. Mai
-date: 2019-04-09 20:05:00+00:00
-start_date: 2019-05-01 14:00:00+02:00
-end_date: 2019-05-01 16:00:00+02:00
-location: Osterstraße/Heußweg
-address: Osterstraße/Heußweg
----
