@@ -227,7 +227,7 @@ Missionen gegen Terrororganisationen auf dem Gebiet eines Staates, wenn dieser
 Staat einen dazu einlädt. Wenn solch ein Staat eine Diktatur ist und die 
 Terrororganisation tatsächlich eine und nicht etwa bloß eine unliebsame
 Oppositionsgruppe, dann kann man aus humanitären Gründen für einen solchen Einsatz
-sein, ihn aber klar mit Kritik an der Regierung und deren Handen verknüpfen.
+sein, ihn aber klar mit Kritik an der Regierung und deren Handeln verknüpfen.
 Außerdem sollte man dann auch nur gegen die Terrororganisation arbeiten und nicht
 gegen unliebsame Oppositionelle oder die Zivilbevölkerung.
 
