@@ -167,7 +167,7 @@ lobende Worte für einen ausgewogenen Gesetzesentwurf mit einigen konkreten Verb
 Datenschutzbeauftragten, Datenanalyse und die Betroffenenrechte. Diese werden von fast allen Auskunftspersonen
 angesprochen in der einen oder anderen Weise. Fußfessel und Einwilligung von jeweils zwei.
 
-Diese Eingangsstatement sind natürlich verkürzt wiedergegeben. Auch im Wortprotokoll stellen die Eingangsstatements
+Diese Eingangsstatements sind natürlich verkürzt wiedergegeben. Auch im Wortprotokoll stellen die Eingangsstatements
 nur einen Teil der vollständigen Position der Auskunftspersonen dar. Denn einige Punkte wurden zur Vermeidung
 von Redundanz nicht erneut von einer Auskunftsperson vorgetragen, wenn bereits einige vorher davon sprachen. 
 In der anschließenden Fragerunde sind die Auskunftspersonen möglicherweise auf weitere Dinge eingegangen, aber
