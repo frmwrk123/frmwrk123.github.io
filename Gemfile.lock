@@ -32,7 +32,7 @@ GEM
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.5)
-    crass (1.0.4)
+    crass (1.0.5)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -172,7 +172,7 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
-    loofah (2.2.3)
+    loofah (2.4.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mercenary (0.3.6)
@@ -186,7 +186,7 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.11.3)
     multipart-post (2.0.0)
-    nokogiri (1.10.4)
+    nokogiri (1.10.5)
       mini_portile2 (~> 2.4.0)
     octokit (4.13.0)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -295,6 +295,7 @@ DEPENDENCIES
   kramdown
   liquid
   listen
+  loofah (>= 2.3.1)
   mercenary
   mini_racer
   minima
@@ -307,4 +308,4 @@ DEPENDENCIES
   terminal-table
 
 BUNDLED WITH
-   1.16.2
+   1.17.3
