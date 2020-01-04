@@ -68,7 +68,7 @@ steps:
       EMAIL_PASSWORD:
         from_secret: email_password
     settings:
-      host: peacock.uberspace.de
+      host: howell.uberspace.de
       port: 587
       from: Drone <drone@2martens.de>
       secrets: [email_username, email_password]
