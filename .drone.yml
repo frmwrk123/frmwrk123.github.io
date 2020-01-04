@@ -44,10 +44,11 @@ steps:
     settings:
       hosts: [ "wolf.uberspace.de" ]
       user: martens7
-      source: ./_site/.
+      source: /drone/src/_site/.
       target: ~/tmp/build
       recursive: true
       delete: true
+      port: 22
       key:
         from_secret: rsync_key
       script:
