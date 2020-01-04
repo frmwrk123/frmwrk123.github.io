@@ -41,9 +41,6 @@ steps:
         path: /cache
   - name: deploy
     image: drillster/drone-rsync
-    environment:
-      RSYNC_KEY:
-        from_secret: rsync_key
     settings:
       hosts: [ "wolf.uberspace.de" ]
       user: martens7
@@ -51,7 +48,8 @@ steps:
       target: ~/tmp/build
       recursive: true
       delete: true
-      secrets: [ rsync_key ]
+      key:
+        from_secret: rsync_key
       script:
         - shopt -s dotglob
         - rm -rf tmp/old.build
