@@ -2,4 +2,4 @@ show: true
 type: warning
 text: >
   <span class="fas fa-exclamation-triangle"></span>
-  Please \#StayAtHome during the Corona pandemic.
+  Please #StayAtHome during the Corona pandemic.
