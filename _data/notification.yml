@@ -1,5 +1,4 @@
-show: false
-type: success
+show: true
+type: warning
 text: >
-  <span class="far fa-check-circle"></span>
-  Super Ergebnis für GRÜNE. Stärkste Kraft in Hamburg bei Europawahl. Weitere Infos auf <a href="/bezirkswahl-2019/">Bezirkswahl</a>.
+  Please \#StayAtHome during the Corona pandemic.
