@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Ich kam, sah und versicherte mich"
+date:   2019-11-01 10:00:00 +0200
+categories: blog
+---
+Erster Satz. Wichtiges
+
+Hintergrund
+
+Unterstützende Fakten.
+
+Interessante Details
+
+Ausblick
