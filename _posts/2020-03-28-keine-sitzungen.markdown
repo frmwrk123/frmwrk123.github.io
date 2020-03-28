@@ -2,7 +2,7 @@
 layout: post
 title:  "Keine Sitzungen bis Ende April"
 date:   2020-03-28 10:00:00 +0200
-categories: politics
+categories: politics district
 ---
 
 Bis Ende April finden keine Sitzungen der Bezirksversammlung und ihrer Ausschüsse mehr statt. Ausnahme ist
