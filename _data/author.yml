@@ -30,6 +30,10 @@ publications:
     title: Face Detection and Head Tracking for perspective rendering (Bachelor Thesis)
     author: Jim Martens
     date: 2016-07-19
+  - link: /assets/pdf/master-thesis.pdf
+    title: Novelty detection for object detection in open set conditions (Master Thesis)
+    author: Jim Martens
+    date: 2019-10-18
 skills:
   - category: Languages
     items:
