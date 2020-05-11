@@ -40,6 +40,9 @@
     "node-sass": "^4.12.0",
     "set-value": "^2.0.1"
   },
+  "resolutions": {
+    "minimist": "^1.2.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
