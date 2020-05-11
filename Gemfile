@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 # gem 'github-pages', group: :jekyll_plugins
 gem 'activesupport'
-gem "actionview", ">= 5.2.2.1"
+gem "actionview", ">= 5.2.4.2"
 gem 'mini_racer'
 # gem 'github-pages-health-check'
 gem 'html-proofer', group: :development
