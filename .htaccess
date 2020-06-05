@@ -21,7 +21,7 @@ Redirect 301 /bezirk-altona https://sitzungsdienst-altona.hamburg.de/bi/allris.n
 Redirect 301 /bezirk-bergedorf https://sitzungsdienst-bergedorf.hamburg.de/bi/allris.net.asp
 Redirect 301 /bezirk-eimsbuettel https://sitzungsdienst-eimsbuettel.hamburg.de/bi/allris.net.asp
 Redirect 301 /bezirk-eimsbüttel https://sitzungsdienst-eimsbuettel.hamburg.de/bi/allris.net.asp
-Redirect 301 /allris-eimsbüttel https://gateway.hamburg.de/HamburgGateway/Account/Login?returnUrl=%2FHamburgGateway%2FService%2FEntry%2F113
+Redirect 301 /allris-eimsbüttel https://serviceportal.hamburg.de/HamburgGateway/Account/InitiateSignIn?returnUrl=%2FHamburgGateway%2FService%2FEntry%2FALLMAnd
 Redirect 301 /bezirk-harburg https://sitzungsdienst-harburg.hamburg.de/bi/allris.net.asp
 Redirect 301 /bezirk-nord https://sitzungsdienst-hamburg-nord.hamburg.de/bi/allris.net.asp
 Redirect 301 /bezirk-mitte https://sitzungsdienst-hamburg-mitte.hamburg.de/bi/allris.net.asp
