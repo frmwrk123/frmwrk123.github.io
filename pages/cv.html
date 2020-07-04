@@ -32,6 +32,39 @@ description: On this page you can find my curriculum vitae.
 
 {% endif %}
 
+{% if site.data.author.jobs %}
+<h2>Experience</h2>
+<ul class="list-unstyled">
+    {% for item in site.data.author.jobs %}
+    <li class="media mb-2">
+        <span class="align-self-center mr-3 far {{ item.icon }} fa-fw fa-2x"></span>
+        <div class="media-body">
+            <h5 class="mt-0">{{ item.title }}</h5>
+            <ul class="list-unstyled">
+                {% if item.start %}
+                <li><span class="font-weight-bold">Start:</span>
+                    <time datetime="{{ item.start | date_to_xmlschema }}">
+                        {{ item.start | date: "%b %-d, %Y" }}
+                    </time>
+                </li>
+                {% endif %}
+                {% if item.end %}
+                <li><span class="font-weight-bold">End:</span>
+                    <time datetime="{{ item.end | date_to_xmlschema }}">
+                        {{ item.end | date: "%b %-d, %Y" }}
+                    </time>
+                </li>
+                {% endif %}
+                {% if item.company %}
+                <li><span class="font-weight-bold">Company:</span> {{ item.company }}</li>
+                {% endif %}
+            </ul>
+        </div>
+    </li>
+    {% endfor %}
+</ul>
+{% endif %}
+
 {% if site.data.author.education %}
 <h2>Education</h2>
 <ul class="list-unstyled">

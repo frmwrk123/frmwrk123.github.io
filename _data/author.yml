@@ -42,20 +42,21 @@ skills:
   - category: Programming languages
     items:
       - Python
-      - PHP
-      - JavaScript
       - Java
+      - TypeScript
+      - JavaScript
+      - PHP
       - C++
   - category: Markup languages
     items:
       - HTML
       - Markdown
+      - JSON
       - CSS
       - SQL
       - XML
       - YAML
       - reStructuredText
-      - JSON
   - category: CMS
     items:
       - Typo3
@@ -63,6 +64,7 @@ skills:
   - category: VCS
     items:
       - Git
+      - SVN
   - category: OS
     items:
       - Windows
@@ -76,9 +78,16 @@ skills:
       - Jenkins
       - TeamCity
       - MS Project
+jobs:
+  - title: IT consultant
+    start: 2019-11-01
+    company: Hamburger Berater Team GmbH
+    icon: fa-building
 education:
   - title: Master of Science in Computer Science
     start: 2016-10-01
+    end: 2020-03-31
+    grade: 2.39
     icon: fa-university
   - title: Bachelor of Science in Computer Science
     start: 2012-10-01
