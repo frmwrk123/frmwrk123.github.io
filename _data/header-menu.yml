@@ -13,8 +13,11 @@ items:
         title: G20
   - link: /cv/
     title: CV
-  - link: /cs/
-    title: Computer Science
+  - link: /software-craftsman/
+    title: Software craftsman
+    items:
+      - link: /software-craftsman/reading-list/
+        title: Reading list
   - link: /blog/
     title: Blog
   - link: /about/
