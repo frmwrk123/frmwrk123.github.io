@@ -1,5 +1,6 @@
 kind: pipeline
 name: default
+type: docker
 
 steps:
   - name: restore-cache
@@ -83,5 +84,3 @@ volumes:
 trigger:
   branch:
   - master
-
-
