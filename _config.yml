@@ -15,6 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://2martens.de" # the base hostname & protocol for your site
 timezone: "Europe/Berlin"
 encoding: utf-8
+repository: 2martens/2martens.de
 collections:
   events:
     output: true
