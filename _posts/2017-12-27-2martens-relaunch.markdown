@@ -34,7 +34,7 @@ of September and early December (see [Jahresabschluss 2017][0]). That way the re
 of the website would in addition to the mere technical aspects also resemble the
 renewed spirit in my life.
 
-[0]: {{ site.baseurl }}{% link _posts/2017-12-15-jahresabschluss.markdown %}
+[0]: {% link _posts/2017-12-15-jahresabschluss.markdown %}
 
 ## Planning
 

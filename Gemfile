@@ -5,12 +5,12 @@ gem "actionview", ">= 5.2.4.2"
 gem 'mini_racer'
 # gem 'github-pages-health-check'
 gem 'html-proofer', group: :development
-gem 'jekyll', '~> 3.8.5'
+gem 'jekyll', '~> 4.1'
 group :jekyll_plugins do
   gem 'jekyll-avatar'
   gem 'jekyll-coffeescript'
   gem 'jekyll-commonmark-ghpages'
-  gem 'jekyll-default-layout'
+  gem 'jekyll-default-layout', git: 'https://github.com/benbalter/jekyll-default-layout'
   gem 'jekyll-feed'
   gem 'jekyll-gist'
   gem 'jekyll-github-metadata'
@@ -28,20 +28,6 @@ group :jekyll_plugins do
   gem 'jemoji'
 end
 # themes
-gem 'jekyll-swiss'
-gem 'jekyll-theme-architect'
-gem 'jekyll-theme-cayman'
-gem 'jekyll-theme-dinky'
-gem 'jekyll-theme-hacker'
-gem 'jekyll-theme-leap-day'
-gem 'jekyll-theme-merlot'
-gem 'jekyll-theme-midnight'
-gem 'jekyll-theme-minimal'
-gem 'jekyll-theme-modernist'
-gem 'jekyll-theme-primer'
-gem 'jekyll-theme-slate'
-gem 'jekyll-theme-tactile'
-gem 'jekyll-theme-time-machine'
 gem 'minima'
 # end themes
 gem 'kramdown'

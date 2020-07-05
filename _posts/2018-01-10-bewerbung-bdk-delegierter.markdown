@@ -38,7 +38,7 @@ zu können (siehe [BDK-Rede]). Ende September 2017 wurde ich dann für alle BDKe
 delegiert. Zu dem Zeitpunkt war die nächste BDK noch im Oktober geplant und es hätte über
 die Aufnahme von Koalitionsverhandlungen entschieden werden müssen. Bekanntlich kam es anders.
 
-[BDK-Rede]: {{ site.baseurl }}{% link _posts/2017-06-18-bdk-rede.markdown %} 
+[BDK-Rede]: {% link _posts/2017-06-18-bdk-rede.markdown %} 
 
 Jetzt geht es also um die Wahl des neuen Bundesvorstands. Dies ist eine wegweisende Entscheidung,
 es geht um nicht weniger als die Zukunftsfähigkeit der Partei. Bevor ich mich jedoch dazu äußere,
