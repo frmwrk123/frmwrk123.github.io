@@ -9,7 +9,7 @@ const concat = require("gulp-concat");
 const del = require("del");
 const exec = require("child_process").exec;
 const gulp = require("gulp");
-const gutil = require("gulp-util");
+const log = require("fancy-log");
 const imagemin = require("gulp-imagemin");
 const notify = require("gulp-notify");
 const postcss = require("gulp-postcss");
@@ -38,7 +38,7 @@ gulp.task("build:styles:main", function () {
         .pipe(gulp.dest(paths.jekyllCssFiles))
         .pipe(gulp.dest(paths.siteCssFiles))
         .pipe(browserSync.stream())
-        .on("error", gutil.log);
+        .on("error", log);
 });
 
 // Processes critical CSS, to be included in head.html.
@@ -53,7 +53,7 @@ gulp.task("build:styles:critical", function () {
         .pipe(cleancss())
         .pipe(sourcemaps.write())
         .pipe(gulp.dest("_includes"))
-        .on("error", gutil.log);
+        .on("error", log);
 });
 
 // Builds all styles.
@@ -75,7 +75,7 @@ gulp.task("build:scripts:global", function () {
         paths.jsFiles + "/main.js"
     ];
     return gulp.src(files)
-        .on("error", gutil.log)
+        .on("error", log)
         .pipe(sourcemaps.init({largeFile: true}))
         .pipe(babel({
             presets: ["@babel/env"]
@@ -101,7 +101,7 @@ gulp.task("build:scripts:leaflet", function () {
         .pipe(terser())
         .pipe(gulp.dest(paths.jekyllJsFiles))
         .pipe(gulp.dest(paths.siteJsFiles))
-        .on("error", gutil.log);
+        .on("error", log);
 });
 
 gulp.task("clean:scripts:leaflet", function () {
@@ -240,5 +240,5 @@ gulp.task("update:bundle", function () {
         .pipe(run("bundle install"))
         .pipe(run("bundle update"))
         .pipe(notify({message: "Bundle Update Complete"}))
-        .on("error", gutil.log);
+        .on("error", log);
 });
