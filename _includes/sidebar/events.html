@@ -1,18 +1,18 @@
-{% if site.events.size > 0 %}
+{% capture now-unix %}{{ 'now' | date: '%s' | divided_by: 86400 }}{% endcapture %}
+{% assign events = site.events | sort:'start_date' %}
+{% assign offset_var = 0 %}
+{% for event in events %}
+    {% capture event-time %}{{ event.end_date | date: '%s' | divided_by: 86400 }}{% endcapture %}
+    {% if now-unix > event-time %}
+        {% assign offset_var = offset_var|plus:1 %}
+    {% endif %}
+{% endfor %}
+{% if events.size > 0 && events.size > offset_var %}
 <div class="card sidebar mb-3">
     <header class="card-header">
         Events
     </header>
     <ul class="list-group list-group-flush">
-        {% capture now-unix %}{{ 'now' | date: '%s' | divided_by: 86400 }}{% endcapture %}
-        {% assign events = site.events | sort:'start_date' %}
-        {% assign offset_var = 0 %}
-        {% for event in events %}
-            {% capture event-time %}{{ event.end_date | date: '%s' | divided_by: 86400 }}{% endcapture %}
-            {% if now-unix > event-time %}
-                {% assign offset_var = offset_var|plus:1 %}
-            {% endif %}
-        {% endfor %}
         {% for event in events offset:offset_var limit:3 %}
             {% capture event-time %}{{ event.start_date | date: '%s' | divided_by: 86400 }}{% endcapture %}
             {% if now-unix <= event-time %}
