@@ -12,7 +12,7 @@
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
-    "autoprefixer": "^9.6.0",
+    "autoprefixer": "^9.8.5",
     "braces": "^3.0.2",
     "browser-sync": "^2.26.7",
     "child_process": "^1.0.2",
