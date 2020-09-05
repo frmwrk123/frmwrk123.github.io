@@ -46,7 +46,8 @@
     "kind-of": "^6.0.3",
     "css": "^3.0.0",
     "source-map-resolve": "^0.6.0",
-    "chokidar": "^3.4.0"
+    "chokidar": "^3.4.0",
+    "bl": "^2.2.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
