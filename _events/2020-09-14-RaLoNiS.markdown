@@ -1,9 +1,9 @@
 ---
 layout: event
 title:  RaLoNiS
-date: 2020-08-30 09:39:00+00:00
+date: 2020-09-15 13:59:00+00:00
 start_date: 2020-09-14 18:00:00+02:00
 end_date: 2020-09-14 20:00:00+02:00
-location: Sitzungssaal Garstedter Weg
-address: Sitzungssaal Garstedter Weg
+location: Hamburg-Haus
+address: Hamburg-Haus
 ---
