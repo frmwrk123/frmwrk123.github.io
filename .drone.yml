@@ -16,7 +16,7 @@ steps:
       - name: cache
         path: /cache
   - name: build
-    image: timbru31/ruby-node
+    image: 2martens/ruby-node
     environment:
       BUNDLE_PATH: .bundle
     commands:
