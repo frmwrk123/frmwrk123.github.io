@@ -16,7 +16,7 @@ steps:
       - name: cache
         path: /cache
   - name: build
-    image: starefossen/ruby-node
+    image: smikino/ruby-node
     environment:
       BUNDLE_PATH: .bundle
     commands:
