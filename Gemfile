@@ -5,7 +5,7 @@ gem "actionview", ">= 5.2.4.2"
 gem 'mini_racer'
 # gem 'github-pages-health-check'
 gem 'html-proofer', group: :development
-gem 'jekyll', '~> 4.1'
+gem 'jekyll', '~> 4.2'
 group :jekyll_plugins do
   gem 'jekyll-avatar'
   gem 'jekyll-coffeescript'
