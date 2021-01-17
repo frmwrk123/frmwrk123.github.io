@@ -1073,6 +1073,11 @@ argparse@^1.0.7:
   dependencies:
     sprintf-js "~1.0.2"
 
+argparse@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/argparse/-/argparse-2.0.1.tgz#246f50f3ca78a3240f6c997e8a9bd1eac49e4b38"
+  integrity sha512-8+9WqebbFzpX9OR+Wa6O29asIogeRMzcGtAINdpMHHyAg10f05aSFVBbcEqGf/PXw1EjAZ+q2/bEBg3DvurK3Q==
+
 arr-diff@^1.0.1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/arr-diff/-/arr-diff-1.1.0.tgz#687c32758163588fef7de7b36fabe495eb1a399a"
@@ -2066,10 +2071,10 @@ core-js-compat@^3.8.0:
     browserslist "^4.15.0"
     semver "7.0.0"
 
-core-js@^3.8.1:
-  version "3.8.1"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.8.1.tgz#f51523668ac8a294d1285c3b9db44025fda66d47"
-  integrity sha512-9Id2xHY1W7m8hCl8NkhQn5CufmF/WuR30BTRewvCXc1aZd3kMECwNZ69ndLbekKfakw9Rf2Xyc+QR6E7Gg+obg==
+core-js@^3.8.2:
+  version "3.8.2"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.8.2.tgz#0a1fd6709246da9ca8eff5bb0cbd15fba9ac7044"
+  integrity sha512-FfApuSRgrR6G5s58casCBd9M2k+4ikuu4wbW6pJyYU7bd9zvFc9qf7vr5xmrZOhT9nn+8uwlH1oRR9jTnFoA3A==
 
 core-util-is@1.0.2, core-util-is@~1.0.0:
   version "1.0.2"
@@ -3675,10 +3680,10 @@ gulp-sourcemaps@^3.0.0:
     strip-bom-string "^1.0.0"
     through2 "^2.0.0"
 
-gulp-terser@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/gulp-terser/-/gulp-terser-2.0.0.tgz#07f95ef9121fe9d4970c3c4ee775c9cd658d0474"
-  integrity sha512-8KxzgUpNeLsSujUCrNKUiSI1ioO5TfW4ODhbM+wzNTWgYp7yCIl1c/5EeOI+SOXaNLi+BzzMqrbb0eYMIThFCQ==
+gulp-terser@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/gulp-terser/-/gulp-terser-2.0.1.tgz#5f8f4fc54588b79519243809cc8eef4936286d0d"
+  integrity sha512-XCrnCXP8ovNpgLK9McJIXlgm0j3W2TsiWu7K9y3m+Sn5XZgUzi6U8MPHtS3NdLMic9poCj695N0ARJ2B6atypw==
   dependencies:
     plugin-error "^1.0.1"
     terser "5.4.0"
@@ -4445,7 +4450,14 @@ js-tokens@^4.0.0:
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
   integrity sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==
 
-js-yaml@3.14.1, js-yaml@^3.13.1:
+js-yaml@4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-4.0.0.tgz#f426bc0ff4b4051926cd588c71113183409a121f"
+  integrity sha512-pqon0s+4ScYUvX30wxQi3PogGFAlUyH0awepWvwkj4jD4v+ova3RiYw8bmA6x2rDrEaj8i/oWKoRxpVNW+Re8Q==
+  dependencies:
+    argparse "^2.0.1"
+
+js-yaml@^3.13.1:
   version "3.14.1"
   resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.14.1.tgz#dae812fdb3825fa306609a8717383c50c36a0537"
   integrity sha512-okMH7OXXJ7YrN9Ok3/SXrnu4iX9yOk+25nqX4imS2npuvTYDmo/QEZoqwZkYaIDk3jVvBOTOIEgEhaLOynBS9g==
