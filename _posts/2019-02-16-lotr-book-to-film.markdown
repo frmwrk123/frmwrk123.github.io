@@ -739,7 +739,7 @@ battle, Haradrim are not part of the battle, and the army of Aragorn is far smal
 The last book continues where the 4th book ended: Sam is on the outside of the tower at Cirith Ungol. He
 moves out of Shelob's Lair and back to the point, where he heard the voices of the orcs. This time he moves
 further into Mordor to find the main entrance of the tower. He arrives, uses the light of Earendil to pass
-some magic watch status, and finds all orcs dead. One orc tries to flee but Sam touches the ring, appears
+some magic watch statues, and finds all orcs dead. One orc tries to flee but Sam touches the ring, appears
 bigger, and the orc moves back to the tower; Sam follows and listens to a discussion of two orcs. The bigger
 one escapes with a box, which contains the mithril coat among other things; Sam follows the other one.
 
