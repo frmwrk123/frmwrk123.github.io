@@ -6,7 +6,7 @@ brand_logo_mask: /assets/images/brandMaskIcon.svg
 brand_logo_png: /assets/images/brand.png
 brand_logo_png150: /assets/images/brand150.png
 image_desc:
-age: 26
+age: 27
 location: Hamburg, Germany
 profession: Informatikstudent
 cv_link: /cv/
@@ -95,6 +95,9 @@ education:
     grade: 1.82
     icon: fa-graduation-cap
 politics:
+  - title: Member of the Bezirksversammlung<br>Mitglied der Bezirksversammlung
+    start: 2019-06-20
+    icon: fa-users
   - title: Member of the board of Green Youth Hamburg<br>Beisitzer im Landesvorstand der GRÜNEN JUGEND Hamburg
     start: 2016-10-15
     end: 2017-09-30
