@@ -206,7 +206,7 @@ GEM
     ruby-enum (0.8.0)
       i18n
     ruby-progressbar (1.11.0)
-    rubyzip (2.3.0)
+    rubyzip (2.3.2)
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
@@ -262,7 +262,7 @@ DEPENDENCIES
   railties (>= 5.2.2.1)
   rouge
   rubocop
-  rubyzip (~> 2.3.0)
+  rubyzip (~> 2.3.2)
   terminal-table
 
 BUNDLED WITH
